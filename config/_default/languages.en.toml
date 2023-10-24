@@ -1,0 +1,27 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "GiGiGatGat"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Tiffany"
+  image = "img/blowfish_logo.png"
+  headline = "I'm only human"
+  bio = "A little bit about you"
+  links = [
+    { email = "mailto:hello@your_domain.com" },
+    { link = "https://link-to-some-website.com/" },
+    { github = "https://github.com/username" },
+    { linkedin = "https://linkedin.com/in/username" },
+    { mastodon = "https://mastodon.instance/@username" }
+  ]
