@@ -10,57 +10,71 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]]
-  name = "Blog"
+ [[main]]
+  name = "Posts"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "About"
-  pageRef = "about"
+  name = "Tech"
+  parent = "Posts"
+  pageRef = "categories/tech"
   weight = 20
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+  name = "Kitchen"
+  parent = "Posts"
+  pageRef = "categories/kitchen"
+  weight = 30
+
+[[main]]
+  name = "Life"
+  parent = "Posts"
+  pageRef = "categories/life"
+  weight = 40
+
+[[main]]
+  name = "Review"
+  parent = "Posts"
+  pageRef = "categories/review"
+  weight = 50
+
+[[main]]
+  name = "Friends"
+  pageRef = "friends"
+  weight = 60
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 70
 
 #[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+#  name = "Merch"
+#  url = "http://tee.pub/lic/qwSlWVBL5zc"
+#  weight = 100
 
 #[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+#  name = "Test"
+#  pageRef = "pagTest"
+#  weight = 1000
 
-#[[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
-#  weight = 10
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/tiffahahahu7"
+  weight = 100
 
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
+[[main]]
+  identifier = "RSS"
+  pre = "rss"
+  url = ""
+  weight = 200  
 
-#[[main]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
-
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
-
 
  [[footer]]
    name = "Tags"

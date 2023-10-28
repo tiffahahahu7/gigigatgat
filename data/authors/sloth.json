@@ -1,0 +1,9 @@
+{
+    "name": "Sloth",
+    "image" : "img/sloth_avatar.png",
+    "bio": "Undefined",
+    "social": [
+        { "email": "mailto: ngyuwing117@gmail.com" },
+        { "github": "https://github.com/raymondng117" }
+    ]
+}

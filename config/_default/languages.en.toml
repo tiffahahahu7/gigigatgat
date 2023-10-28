@@ -8,20 +8,20 @@ title = "GiGiGatGat"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  logo = "img/logo.png"
+  # secondaryLogo = "PATH"
+  description = "Avocado and Sloth's Blog"
+  copyright = "© 2023 GiGiGatGat"
 
 [author]
-  name = "Tiffany"
-  image = "img/blowfish_logo.png"
-  headline = "I'm only human"
-  bio = "A little bit about you"
-  links = [
-    { email = "mailto:hello@your_domain.com" },
-    { link = "https://link-to-some-website.com/" },
-    { github = "https://github.com/username" },
-    { linkedin = "https://linkedin.com/in/username" },
-    { mastodon = "https://mastodon.instance/@username" }
-  ]
+  # name = "Avocado"
+  # image = "img/avocado_avatar.png"
+  # headline = "The home of Sloth & Avocado, where we \"gigigatgat\"(chatter away) everything in our life"
+  # bio = "On her way to restart the life"
+  # links = [
+  #    { email = "mailto:tiffahahahu7@gmail.com" },
+  #    { mastodon = "https://mastodon.social/@siumai@unstable.icu" },
+  #    { github = "https://github.com/tiffahahahu7" },
+  # ]
+
+  
