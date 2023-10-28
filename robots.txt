@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tiffahahahu7.github.io/gigigatgat/sitemap.xml

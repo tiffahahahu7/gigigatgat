@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Avocado (Tiffany) on 嘰嘰乞乞</title>
+    <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/authors/avocado/</link>
+    <description>Recent content in Avocado (Tiffany) on 嘰嘰乞乞</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <copyright>© 2023 嘰嘰乞乞</copyright>
+    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tiffahahahu7.github.io/gigigatgat/zh-tw/authors/avocado/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在加國，復刻一碗香港經典譚仔三哥米線</title>
+      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/rice-noodle/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/rice-noodle/</guid>
+      <description>譚仔——My comfort food all the time 在香港生活的時候想不到要吃什麼就會去譚仔（此處“譚仔”為“譚仔三哥”的簡稱，請勿與“譚仔雲南米線”混淆，三哥 is the best）吃米線，離開了之後掛念得最多的也是這一口。有一天無意間在YouTube上撞到一個 譚仔麻辣湯底食譜，試了之後也確實覺得有八分那個味兒，所以作為本站第一個菜譜隆重推薦給大家！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/rice-noodle/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>關於我們</title>
+      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/about/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/about/</guid>
+      <description>嗨！我們是 Avocado 和 Sloth，生活搭子，現居加拿大渥太華，都是半路出家轉碼大軍中的一員，學的是 Web Development。
+Avocado
+女的，INFJ 從哪裡來不重要，地球就是我的根和天地 關心女性/人權/政治/兩岸三地，也關心自己的生活 修煉中的大廚；寶可夢訓練家；不定期出沒劇院；還沒開始研究植物的植物愛好者 學過英語廣東話德語，正在學法語和日語，但是連家鄉方言在內沒一個真的講得流暢無阻的；空有一腔熱情但是沒什麼天份的典型代表（已經很棒了！） 目前最想做的事：在家種菜；練大肌肉 Sloth 男的，INFP 懶到還沒寫 </description>
+      
+    </item>
+    
+    <item>
+      <title>Getting Started with Entity Framework Core in Visual Studio</title>
+      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/entity-framework-core/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/entity-framework-core/</guid>
+      <description>Entity Framework Core is a powerful tool for simplifying database integration with web applications.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/entity-framework-core/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

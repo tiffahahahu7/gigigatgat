@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on GiGiGatGat</title>
+    <link>https://tiffahahahu7.github.io/gigigatgat/categories/tech/</link>
+    <description>Recent content in Tech on GiGiGatGat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 GiGiGatGat</copyright>
+    <lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tiffahahahu7.github.io/gigigatgat/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with Entity Framework Core in Visual Studio</title>
+      <link>https://tiffahahahu7.github.io/gigigatgat/posts/entity-framework-core/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiffahahahu7.github.io/gigigatgat/posts/entity-framework-core/</guid>
+      <description>Entity Framework Core is a powerful tool for simplifying database integration with web applications.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/posts/entity-framework-core/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
