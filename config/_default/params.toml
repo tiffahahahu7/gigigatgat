@@ -69,6 +69,7 @@ smartTOCHideUnfocusedChildren = false
   relatedContentLimit = 6
   showTaxonomies = true 
   showAuthorsBadges = false 
+  showComments = true
   showWordCount = false
   # sharingLinks = [ "linkedin", "twitter", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
 
