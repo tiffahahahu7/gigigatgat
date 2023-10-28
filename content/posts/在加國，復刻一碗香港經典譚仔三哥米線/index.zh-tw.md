@@ -6,6 +6,7 @@ description: "譚仔三哥米線食譜"
 slug: "Rice Noodle"
 tags: ["米線", "香港"]
 categories: ["Kitchen"]
+showComments: true
 showAuthor: false
 authors:
   - "avocado"

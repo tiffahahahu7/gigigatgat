@@ -8,7 +8,6 @@
 colorScheme = "Blowfish"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
-showComments = true
 
 enableSearch = true
 enableCodeCopy = true
@@ -71,6 +70,7 @@ smartTOCHideUnfocusedChildren = false
   showTaxonomies = true 
   showAuthorsBadges = false 
   showWordCount = false
+  showComments = false
   # sharingLinks = [ "linkedin", "twitter", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
 
 [list]

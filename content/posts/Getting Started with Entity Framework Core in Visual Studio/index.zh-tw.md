@@ -6,6 +6,7 @@ description: "How to use Entity Framework Core to connect databases and web page
 slug: "Entity Framework Core"
 tags: ["tutorial", "code", "ASP.NET", "VisualStudio"]
 categories: ["Tech"]
+showComments: true
 showAuthor: false
 authors:
   - "avocado"

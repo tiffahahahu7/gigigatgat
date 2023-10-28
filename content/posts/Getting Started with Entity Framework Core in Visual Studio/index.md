@@ -6,6 +6,7 @@ description: "All the front matter variables available in Blowfish."
 slug: "Entity Framework Core"
 tags: ["tutorial", "code", "ASP.NET", "VisualStudio"]
 categories: ["Tech"]
+showComments: true
 showAuthor: false
 authors:
   - "avocado"
