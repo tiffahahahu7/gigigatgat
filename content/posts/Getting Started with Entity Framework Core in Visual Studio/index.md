@@ -3,7 +3,7 @@ title: "Getting Started with Entity Framework Core in Visual Studio"
 date: 2023-10-24
 draft: false
 description: "All the front matter variables available in Blowfish."
-slug: "Entity Framework Core"
+slug: "how to use Entity Framework Core"
 tags: ["tutorial", "code", "ASP.NET", "VisualStudio"]
 categories: ["Tech"]
 showComments: true

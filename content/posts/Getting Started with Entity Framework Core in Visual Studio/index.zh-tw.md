@@ -3,7 +3,7 @@ title: "Getting Started with Entity Framework Core in Visual Studio"
 date: 2023-10-24
 draft: false
 description: "How to use Entity Framework Core to connect databases and web pages"
-slug: "Entity Framework Core"
+slug: "how to use Entity Framework Core"
 tags: ["tutorial", "code", "ASP.NET", "VisualStudio"]
 categories: ["Tech"]
 showComments: true
