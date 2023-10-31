@@ -7,4 +7,4 @@ This is the home of Avocado & Sloth, where we **\"gigigatgat\"**(a Cantonese sla
 
 &#129361;&nbsp;**Avocado (Tiffany):** female(she/her), favorite color is green just like an avocado, head chef in our home
 
-&#129445;&nbsp;**Sloth (Raymond):** male(he/him), passionate about football and video games, honorable master kitchen assistant
+&#129445;&nbsp;**Sloth (Raymond):** male(he/him), passionate about football and video games, honorable master sous chef

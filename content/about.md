@@ -42,7 +42,7 @@ const Sloth = {
     name: "Raymond",
     gender: "male",
     identity: "Hongkonger",     
-    roles: ["contributor of the blog", "master kitchen assistant", "Avocado's hairdryer"],
+    roles: ["contributor of the blog", "master sous chef", "Avocado's hairdryer"],
     languages: [
         { name: "English", level: "Fluent" },
         { name: "Cantonese", level: "Fluent" },         
