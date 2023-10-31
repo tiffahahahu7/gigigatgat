@@ -14,6 +14,9 @@ showLikes: false
 
 - <a href="https://blog.douchi.space/">椒鹽豆豉</a>：日常產出驚人的互聯網友人，復興部落格的先行者兼推動者
 - <a href="http://ignativssss.com/">豚骨拉麵館</a>：拉麵館老闆娘，非常喜歡她的菜譜系列
+- <a href="https://harper-dang.format.com/">D同學</a>：人類社會的忠實觀察員與執筆者
+- <a href="https://qingshanbadass.notion.site/e3d519283a9f4412acc1d174ec94e30d">呼貓護衛</a>：有一片廣袤的精神世界
+- <a href="https://express.adobe.com/page/Sfo9MPU1r9jSk/">Meiyue</a>：東京風物記事
 
 
 ---
