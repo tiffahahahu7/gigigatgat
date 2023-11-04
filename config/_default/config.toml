@@ -41,7 +41,7 @@ disqusShortname = 'gigigatgat'
 
     [[related.indices]]
         name = "tags"
-        weight = 100
+        weight = 50
 
     [[related.indices]]
         name = "categories"
@@ -57,7 +57,7 @@ disqusShortname = 'gigigatgat'
 
     [[related.indices]]
         name = "date"
-        weight = 10
+        weight = 0
 
     [[related.indices]]
       applyFilter = false
