@@ -3,6 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/my-fav-cantonese-songs_1/</loc>
+    <lastmod>2023-11-12T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/</loc>
+    <lastmod>2023-11-12T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://tiffahahahu7.github.io/gigigatgat/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-TW"
+      href="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/"
+    />
+  </url>
+  <url>
+    <loc>https://tiffahahahu7.github.io/gigigatgat/zh-tw/</loc>
+    <lastmod>2023-11-12T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://tiffahahahu7.github.io/gigigatgat/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-TW"
+      href="https://tiffahahahu7.github.io/gigigatgat/zh-tw/"
+    />
+  </url>
+  <url>
     <loc>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/how-to-create-a-blog/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -32,38 +70,6 @@
       rel="alternate"
       hreflang="zh-TW"
       href="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/install-specific-hugo-version/"
-    />
-  </url>
-  <url>
-    <loc>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/</loc>
-    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://tiffahahahu7.github.io/gigigatgat/posts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-TW"
-      href="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/"
-    />
-  </url>
-  <url>
-    <loc>https://tiffahahahu7.github.io/gigigatgat/zh-tw/</loc>
-    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://tiffahahahu7.github.io/gigigatgat/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-TW"
-      href="https://tiffahahahu7.github.io/gigigatgat/zh-tw/"
     />
   </url>
   <url>
