@@ -36,7 +36,7 @@
 [[main]]
   name = "萬物測評"
   parent = "主頁"
-  pageRef = "categories/opinion"
+  pageRef = "categories/review"
   weight = 50
 
 [[main]]
