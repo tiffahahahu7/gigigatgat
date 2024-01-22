@@ -5,6 +5,7 @@ description: "友鄰博客直通門"
 showPagination: false
 showDate: false
 showAuthor: false
+showWordCount: false
 showReadingTime: false
 showViews: false
 showLikes: false

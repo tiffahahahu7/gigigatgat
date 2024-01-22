@@ -5,6 +5,7 @@ description: "Links of Friends' blogs"
 showPagination: false
 showDate: false
 showAuthor: false
+showWordCount: false
 showReadingTime: false
 showViews: false
 showLikes: false

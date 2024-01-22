@@ -7,6 +7,7 @@ showDate: false
 showReadingTime: false
 showViews: false
 showLikes: false
+showWordCount: false
 showAuthorsBadges: true
 showAuthor: false
 authors:
