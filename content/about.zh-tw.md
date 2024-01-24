@@ -27,6 +27,8 @@ authors:
 - 學過英語廣東話德語，正在學法語和日語，但是連家鄉方言在內沒一個真的講得流暢無阻的；心酸又努力的典型代表（已經很棒了！）
 - 目前最想做的事：考出駕照；在家種菜；練大肌肉
 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1F-0INY2Xf_2fEAfuF3o0C1v-XE7FKXk&ehbc=2E312F&noprof=1" width="100%" height="320"></iframe>
+
 **Sloth** 
 <br>
 - 男的，INFP
