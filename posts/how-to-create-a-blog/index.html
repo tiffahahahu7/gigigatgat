@@ -2587,6 +2587,10 @@ git push -u origin gh-pages
     </nav>
     
   
+  
+  <p class="text-sm mb-1 text-neutral-500 dark:text-neutral-400">
+    This blog is live for <span id="runningdays" class="running-days"></span> and counting.
+  </p>
   <div class="flex items-center justify-between">
 
     
@@ -2608,6 +2612,21 @@ git push -u origin gh-pages
     
 
   </div>
+  
+  
+  <script>
+    let s1 = '2023-10-24'; 
+    s1 = new Date(s1.replace(/-/g, "/"));
+    let s2 = new Date();
+    let timeDifference = s2.getTime() - s1.getTime();
+
+    let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+    let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+
+    let result = days + " days, " + hours + " hours, " + minutes + " mins";
+    document.getElementById('runningdays').innerHTML = result;
+  </script>  
   <script>
     
     mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
@@ -2623,6 +2642,10 @@ git push -u origin gh-pages
   
   
   <a rel="me" href="https://masto.ai/@blowfish"></a>
+
+
+
+  
   
 </footer><div
   id="search-wrapper"
