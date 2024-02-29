@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>博客裝修 on 嘰嘰乞乞</title>
+    <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/tags/%E5%8D%9A%E5%AE%A2%E8%A3%9D%E4%BF%AE/</link>
+    <description>Recent content in 博客裝修 on 嘰嘰乞乞</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <copyright>© 2023 嘰嘰乞乞</copyright>
+    <lastBuildDate>Thu, 29 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://tiffahahahu7.github.io/gigigatgat/zh-tw/tags/%E5%8D%9A%E5%AE%A2%E8%A3%9D%E4%BF%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>迷失了的二月</title>
+      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/feb-2024-recap/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/feb-2024-recap/</guid>
+      <description>渾渾噩噩不知所以然 二</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/feb-2024-recap/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>成就滿滿的一月小结</title>
+      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/jan-2024-recap/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/jan-2024-recap/</guid>
+      <description>我太厲害了！ 本月Mi</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/jan-2024-recap/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
