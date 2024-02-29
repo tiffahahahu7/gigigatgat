@@ -1,10 +1,10 @@
 ---
 title: "迷失了的二月"
-date: 2024-02-27
+date: 2024-02-29
 draft: false
 description: "二月小結"
 slug: "feb 2024 recap"
-tags: ["每月小結", "加拿大", "裝修"]
+tags: ["每月小結", "加拿大", "書影音遊", "博客裝修"]
 categories: ["Life"]
 showComments: true
 showAuthor: false
