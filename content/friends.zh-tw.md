@@ -21,6 +21,8 @@ showLikes: false
 - <a href="https://harper-dang.format.com/">D同學</a>：人類社會的忠實觀察員與執筆者
 - <a href="https://express.adobe.com/page/Sfo9MPU1r9jSk/">Meiyue</a>：東京風物記事
 - <a href="https://qingshanbadass.notion.site/e3d519283a9f4412acc1d174ec94e30d">呼貓護衛</a>：有一片廣袤的精神世界
+- <a href="https://blog.asyncx.top/">AsyncX</a>：我宣布這是我的技術向偶像，想學Astro建站的看這裡
+- <a href="https://sanguok.com/">山月</a>：博客老人，關鍵詞掃描：日本｜語言｜詩歌｜摩爾莊園（亂入）
 
 ## Reading List
 還不好意思啟齒加友鏈但很愛看的博客清單：
