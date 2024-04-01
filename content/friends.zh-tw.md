@@ -23,6 +23,7 @@ showLikes: false
 - <a href="https://qingshanbadass.notion.site/e3d519283a9f4412acc1d174ec94e30d">呼貓護衛</a>：有一片廣袤的精神世界
 - <a href="https://blog.asyncx.top/">AsyncX</a>：我宣布這是我的技術向偶像，想學Astro建站的看這裡
 - <a href="https://sanguok.com/">山月</a>：博客老人，關鍵詞掃描：日本｜語言｜詩歌｜摩爾莊園（亂入）
+- <a href="https://www.after27.me/">AFTER 27</a>：會寫獨樹一幟的每月消費總結系列，從帳單裡追溯生活和安利單品
 
 ## Reading List
 還不好意思啟齒加友鏈但很愛看的博客清單：
@@ -34,7 +35,6 @@ showLikes: false
 - <a href="">眠於水月間</a>：月球上也可以放煙花和逗貓
 - <a href="https://heiheihei.ca/canadalife/">小觸手的書房</a>：全世界最會拆解知識點的畫手，看了一篇[《用畫畫的方式學車》](https://heiheihei.ca/learn-how-to-drive/)垂直入坑
 - <a href="https://yukieyun.net/">沉沒之沙</a>：隨緣更新的高質量博客，很多篇實用經驗帖都是我感興趣的領域
-- <a href="https://www.after27.me/">AFTER 27</a>：會寫獨樹一幟的每月消費總結系列，從帳單裡追溯生活和安利單品
 - <a href="https://www.lanisland.com/">唉，瀾的</a>：剛剛出版了一本食譜電子書的厲害友鄰，專精美食與攝影
 - <a href="https://cronopio.space/">新鮮棕櫚葉下</a>：非常清爽直接的菜單分類，喜歡翻「隨筆」、「美食」、「遊戲」和「測評」
 - 未完待續...

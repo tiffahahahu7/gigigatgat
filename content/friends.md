@@ -19,6 +19,9 @@ Check out my awesome friends' blogs. Feel free to <a href="mailto: tiffahahahu7@
 - <a href="https://harper-dang.format.com/">Harper Dang</a>
 - <a href="https://express.adobe.com/page/Sfo9MPU1r9jSk/">Meiyue</a>
 - <a href="https://qingshanbadass.notion.site/e3d519283a9f4412acc1d174ec94e30d">Qingshanbadass</a>
+- <a href="https://blog.asyncx.top/">AsyncX</a>
+- <a href="https://sanguok.com/">Shanyue</a>
+- <a href="https://www.after27.me/">AFTER 27</a>
 
 ---
 
