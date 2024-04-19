@@ -1,6 +1,6 @@
 ---
-title: "博客"
-description: "所有博客"
+title: "Posts"
+description: "All posts"
 
 groupByYear: true
 

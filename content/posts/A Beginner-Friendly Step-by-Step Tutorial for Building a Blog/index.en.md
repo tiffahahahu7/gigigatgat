@@ -6,6 +6,7 @@ description: "How to create a blog using Hugo, the Blowfish Theme, and GitHub Pa
 slug: "how to create a blog"
 tags: ["tutorial", "code", "hugo", "blog"]
 categories: ["Tech"]
+showReadingTime: true
 showComments: true
 authors:
   - "avocado"
@@ -13,17 +14,6 @@ authors:
 {{<lead>}}
 Everyone deserves to own a blog. I'm here to help.
 {{</lead>}}
-
-中文版特供前言:
-
-此文獻給所有想建博客卻苦於難以入門的朋友。
-
-作為也才轉碼十個月的新手，我深知那種熟悉一個新的工具、配置一個新的環境的迷茫和挫敗感。特別是對於零coding基礎的人而言，建站這個概念可能一開始就已經讓他們望而生畏。這篇文章的閱讀時間是14分鐘，如果一步一步跟做，預估時間會在1-3小時左右，取決於configuration部分定制化的複雜程度和是否衍生閱讀。如果你花的時間更長一點也不要緊，畢竟我從頭嘗試建站+寫這篇教程用了足足將近三個星期的時間。如果你在某一步卡殼無法繼續，歡迎留言提問或者直接聯繫我。
-
-我的方案可能不是最優最普遍的做法。相比網上搜索到的其他教程，我只用了一個GitHub repository而非兩個。GitHub Actions的自動部署也還沒搞明白，歡迎路過的大神指教:loudly_crying_face:。但我可以確保的是我將所有步驟和注意點寫得足夠詳細，並成功試驗了一遍教程所示的建站和更新流程，順便再擺個[demo版的repository](https://github.com/avocadoTiff/gigigatgat)供大家回頭參考。
-
-我希望通過這篇小白級教程最小化免費建站的門檻，~~誘騙？~~ 邀請更多朋友加入我們復興博客宇宙的宏圖大業！
-
 There are numerous ways to build a blog. You can choose popular platforms like WordPress, Medium, or Notion for simplicity, or craft static web pages using frameworks like Hugo and Hexo if you're comfortable with a touch of coding. My personal preference leans toward the latter because it offers greater customization, cost-effectiveness, and stability. If you're curious about selecting the right blogging tool for you, you can also check out this [Chinese blog](https://blog.douchi.space/choose-blog-tool/) written by [Douchi](https://blog.douchi.space/) for valuable insights.
 
 **This article is written for people who are interested in creating a blog on their own but have minimal coding experience.** It focuses on using **Hugo** and **GitHub** as the main tools for creating a blog. Hugo offers hundreds of [themes](https://themes.gohugo.io/) with diverse styles and functions that you can explore to suit your personal needs. I would recommend the [Blowfish theme](https://themes.gohugo.io/themes/blowfish/), which is one of the most advanced and flexible themes in Hugo with attractive layout and detailed documentation. _If you prefer to use a different theme, simply refer to the documentation of your chosen theme when it comes to theme-specific steps._

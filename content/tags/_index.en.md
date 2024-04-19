@@ -1,5 +1,5 @@
 ---
-title: 標籤
+title: Tags
 
 showViews: false
 showLikes: false

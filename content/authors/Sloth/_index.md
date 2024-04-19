@@ -2,4 +2,4 @@
 title: "Sloth (Raymond)"
 ---
 
-I am not as lazy as a sloth.
+其實我也沒那麼懶。

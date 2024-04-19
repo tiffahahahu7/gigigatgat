@@ -1,5 +1,5 @@
 ---
-title: "Kitchen"
+title: "廚房故事"
 description: "See what's on the table"
 
 cascade:
@@ -11,7 +11,5 @@ cascade:
 {{< lead >}}
 Food Made in Our Home
 {{< /lead >}}
-
-Here we share the recipes that we tried and loved the most.
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "萬物測評"
+title: "Review"
 description: "Commentary on our selections"
 
 cascade:
@@ -11,5 +11,7 @@ cascade:
 {{< lead >}}
 Books, Games, Music, Movies, Dramas, and Things
 {{< /lead >}}
+
+We comment on our selections, including purchases, viewing history and more.
 
 ---

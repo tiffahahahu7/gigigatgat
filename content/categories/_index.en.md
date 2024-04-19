@@ -1,5 +1,5 @@
 ---
-title: 分類
+title: Categories
 
 showViews: false
 showLikes: false

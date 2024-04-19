@@ -1,5 +1,5 @@
 ---
-title: "作者"
+title: "Authors"
 
 showViews: false
 showLikes: false

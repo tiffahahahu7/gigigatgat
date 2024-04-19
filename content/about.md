@@ -1,8 +1,10 @@
 ---
-title: "About"
-description: "About us"
+title: "關於我們"
+date: 2023-10-26
+draft: false
 
 showPagination: false
+showRelatedContent: false
 showDate: false
 showReadingTime: false
 showViews: false
@@ -15,46 +17,25 @@ authors:
   - "sloth"
 ---
 
-Hi there! We are Avocado and Sloth, a couple studying Web Development and living in Ottawa, Canada.
+嗨！我們是 Avocado 和 Sloth，生活搭子，現居加拿大渥太華，都是半路出家轉碼大軍中的一員，學的是 Web Development。
 
-Avocado is usually sold in supermarkets at a price of $5 for two. Oops. Wait a minute. Something goes wrong. Let's load again.
+**Avocado**
+- 女的，INFJ
+- 從哪裡來不重要，地球就是我的根和天地
+- 關心女性/人權/政治/兩岸三地，也關心自己的生活
+- 修煉中的大廚；寶可夢訓練家；不定期出沒劇院；還沒開始研究植物的植物愛好者
+- 學過英語廣東話德語，正在學法語和日語，但是連家鄉方言在內沒一個真的講得流暢無阻的；心酸又努力的典型代表（已經很棒了！）
+- 目前最想做的事：考出駕照；在家種菜；練大肌肉
 
-```
-const Avocado = { 
-    name: "Tiffany",
-    gender: "female",
-    identity: "global citizen", 
-    roles: ["creator of the blog", "head chef"],
-    languages: [
-        { name: "English", level: "Fluent" },
-        { name: "Mandarin", level: "Fluent" },
-        { name: "Cantonese", level: "Fluent" }, //not as good as Sloth
-        { name: "German", level: "Intermediate" }, //almost forget
-        { name: "French", level: "Beginner" }, //A2 in Duolingo
-        { name: "Japanese", level: "Beginner" }
-    ],
-    hobbies: ["Cooking", "Theater", "Plants", "Pokemon", "Reading others' blogs"],
-    skills: ["HTML", "CSS", "JavaScript", "PHP", "React", "C#", "ASP.NET"]
-};
-```
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1F-0INY2Xf_2fEAfuF3o0C1v-XE7FKXk&ehbc=2E312F&noprof=1" width="100%" height="320"></iframe>
 
-```
-const Sloth = { 
-    name: "Raymond",
-    gender: "male",
-    identity: "Hongkonger",     
-    roles: ["contributor of the blog", "master sous chef", "Avocado's hairdryer"],
-    languages: [
-        { name: "English", level: "Fluent" },
-        { name: "Cantonese", level: "Fluent" },         
-        { name: "Mandarin", level: "Fluent" }, //not as good as Avocado
-    ],
-    hobbies: ["Football", "Video Games", "Music", "Gym", "Pokemon"],
-    skills: ["HTML", "CSS", "JavaScript", "PHP", "React", "C#", "ASP.NET"]    
-};
-```
-Here it is. You may find our individual blogs in the `Authors` section of the footer menu below.
-
----
+**Sloth** 
+<br>
+- 男的，INFP
+- 來自香港
+- 熱衷歷史/政治/社會學，極端福利資本主義者
+- 失憶症患者；偶發性超強矛盾複合體
+- 受訓中的大廚助理，但自問天分較現任大廚高（我呸）
+- 一台能上網且配置足夠應付WOW的電腦，就可以讓我足不出戶
+- 人生目標：盡早退休
 

@@ -1,10 +1,14 @@
 ---
-title: "Welcome to GiGiGatGat! 💬"
-description: "Avocado and Sloth's Blog"
+title: "歡迎光臨嘰嘰乞乞/GiGiGatGat! 💬"
+description: "Avocado和Sloth的博客"
 ---
 
-This is the home of Avocado & Sloth, where we **\"gigigatgat\"**(a Cantonese slang meaning to chatter away) about everything in our life. Sometimes we also invite friends over to enjoy the space and write some inspirable blogs.
+哈嘍！歡迎來到Avocado和Sloth的共享博客，我們會在這個老巢**嘰嘰乞乞**（廣東話短語，約等於嘰嘰喳喳）生活裡的一切，包括且不限於`轉碼心得`，`廚房故事`，`日常札記`和`萬物測評`。有時候我們也會邀請一些朋友來共享這個空間，發布屬於ta們的作品，文字萬歲！
 
-&#129361;&nbsp;**Avocado (Tiffany):** female(she/her), favorite color is green just like an avocado, head chef in our home
+&#129361;&nbsp;**Avocado (Tiffany):** 女的，INFJ，著迷草木山海裡的每一種綠色，身份是家庭大廚
 
-&#129445;&nbsp;**Sloth (Raymond):** male(he/him), passionate about football and video games, honorable master sous chef
+&#129445;&nbsp;**Sloth (Raymond):** 男的，INFP，痴迷足球和打機，身份是值得尊重的大師級廚房助手
+
+{{<alert "circle-info" >}}
+本站英文界面只包含英文內容，中文界面則會包含中英文在內的所有內容。
+{{</alert>}}
