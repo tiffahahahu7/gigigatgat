@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kitchen on GiGiGatGat</title>
-    <link>http://www.gigigatgat.ca/categories/kitchen/</link>
-    <description>Recent content in Kitchen on GiGiGatGat</description>
+    <title>廚房故事 on 嘰嘰乞乞</title>
+    <link>https://www.gigigatgat.ca/categories/kitchen/</link>
+    <description>Recent content in 廚房故事 on 嘰嘰乞乞</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2023 GiGiGatGat</copyright>
-    <atom:link href="http://www.gigigatgat.ca/categories/kitchen/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-TW</language>
+    <copyright>© 2023 嘰嘰乞乞</copyright>
+    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/categories/kitchen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在加國，復刻一碗香港經典譚仔三哥米線</title>
+      <link>https://www.gigigatgat.ca/posts/tamjai-samgor-rice-noodle/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/posts/tamjai-samgor-rice-noodle/</guid>
+      <description>譚仔——My comfort food all the</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/tamjai-samgor-rice-noodle/featured.jpeg" />
+    </item>
+    
   </channel>
 </rss>

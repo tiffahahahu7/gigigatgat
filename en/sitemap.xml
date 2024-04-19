@@ -3,129 +3,129 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://www.gigigatgat.ca/posts/host-restful-api-with-docker/</loc>
+    <loc>https://www.gigigatgat.ca/en/posts/host-restful-api-with-docker/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-TW"
-      href="http://www.gigigatgat.ca/zh-tw/posts/host-restful-api-with-docker/"
+      href="https://www.gigigatgat.ca/posts/host-restful-api-with-docker/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://www.gigigatgat.ca/posts/host-restful-api-with-docker/"
+      href="https://www.gigigatgat.ca/en/posts/host-restful-api-with-docker/"
     />
   </url>
   <url>
-    <loc>http://www.gigigatgat.ca/posts/</loc>
+    <loc>https://www.gigigatgat.ca/en/posts/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-TW"
-      href="http://www.gigigatgat.ca/zh-tw/posts/"
+      href="https://www.gigigatgat.ca/posts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://www.gigigatgat.ca/posts/"
+      href="https://www.gigigatgat.ca/en/posts/"
     />
   </url>
   <url>
-    <loc>http://www.gigigatgat.ca/</loc>
+    <loc>https://www.gigigatgat.ca/en/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-TW"
-      href="http://www.gigigatgat.ca/zh-tw/"
+      href="https://www.gigigatgat.ca/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://www.gigigatgat.ca/"
+      href="https://www.gigigatgat.ca/en/"
     />
   </url>
   <url>
-    <loc>http://www.gigigatgat.ca/posts/how-to-create-a-blog/</loc>
+    <loc>https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-TW"
-      href="http://www.gigigatgat.ca/zh-tw/posts/how-to-create-a-blog/"
+      href="https://www.gigigatgat.ca/posts/how-to-create-a-blog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://www.gigigatgat.ca/posts/how-to-create-a-blog/"
+      href="https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/"
     />
   </url>
   <url>
-    <loc>http://www.gigigatgat.ca/posts/install-specific-hugo-version/</loc>
+    <loc>https://www.gigigatgat.ca/en/posts/install-specific-hugo-version/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-TW"
-      href="http://www.gigigatgat.ca/zh-tw/posts/install-specific-hugo-version/"
+      href="https://www.gigigatgat.ca/posts/install-specific-hugo-version/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://www.gigigatgat.ca/posts/install-specific-hugo-version/"
+      href="https://www.gigigatgat.ca/en/posts/install-specific-hugo-version/"
     />
   </url>
   <url>
-    <loc>http://www.gigigatgat.ca/posts/how-to-use-entity-framework-core/</loc>
+    <loc>https://www.gigigatgat.ca/en/posts/how-to-use-entity-framework-core/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-TW"
-      href="http://www.gigigatgat.ca/zh-tw/posts/how-to-use-entity-framework-core/"
+      href="https://www.gigigatgat.ca/posts/how-to-use-entity-framework-core/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://www.gigigatgat.ca/posts/how-to-use-entity-framework-core/"
+      href="https://www.gigigatgat.ca/en/posts/how-to-use-entity-framework-core/"
     />
   </url>
   <url>
-    <loc>http://www.gigigatgat.ca/about/</loc>
+    <loc>https://www.gigigatgat.ca/en/about/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-TW"
-      href="http://www.gigigatgat.ca/zh-tw/about/"
+      href="https://www.gigigatgat.ca/about/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://www.gigigatgat.ca/about/"
+      href="https://www.gigigatgat.ca/en/about/"
     />
   </url>
   <url>
-    <loc>http://www.gigigatgat.ca/friends/</loc>
+    <loc>https://www.gigigatgat.ca/en/friends/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-TW"
-      href="http://www.gigigatgat.ca/zh-tw/friends/"
+      href="https://www.gigigatgat.ca/friends/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://www.gigigatgat.ca/friends/"
+      href="https://www.gigigatgat.ca/en/friends/"
     />
   </url>
 </urlset>

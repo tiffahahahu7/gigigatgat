@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coop on 嘰嘰乞乞</title>
+    <link>https://www.gigigatgat.ca/tags/coop/</link>
+    <description>Recent content in coop on 嘰嘰乞乞</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <copyright>© 2023 嘰嘰乞乞</copyright>
+    <lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/tags/coop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>除舊佈新，三月也可以像新年</title>
+      <link>https://www.gigigatgat.ca/posts/mar-2024-recap/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/posts/mar-2024-recap/</guid>
+      <description>什麼時候都不晚 本月M</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/mar-2024-recap/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>加拿大Co-op經驗談</title>
+      <link>https://www.gigigatgat.ca/posts/coop-sharing/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/posts/coop-sharing/</guid>
+      <description>祝大家都能順利上車下</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/coop-sharing/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>成就滿滿的一月小结</title>
+      <link>https://www.gigigatgat.ca/posts/jan-2024-recap/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/posts/jan-2024-recap/</guid>
+      <description>我太厲害了！ 本月Mi</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/jan-2024-recap/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

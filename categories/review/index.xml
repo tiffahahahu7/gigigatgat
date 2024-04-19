@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Review on GiGiGatGat</title>
-    <link>http://www.gigigatgat.ca/categories/review/</link>
-    <description>Recent content in Review on GiGiGatGat</description>
+    <title>萬物測評 on 嘰嘰乞乞</title>
+    <link>https://www.gigigatgat.ca/categories/review/</link>
+    <description>Recent content in 萬物測評 on 嘰嘰乞乞</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2023 GiGiGatGat</copyright>
-    <atom:link href="http://www.gigigatgat.ca/categories/review/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-TW</language>
+    <copyright>© 2023 嘰嘰乞乞</copyright>
+    <lastBuildDate>Sun, 11 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/categories/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>低消費慾人群的超市回購清單 - Grocery</title>
+      <link>https://www.gigigatgat.ca/posts/grocery-shopping/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/posts/grocery-shopping/</guid>
+      <description>#Blog逛超市安利</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/grocery-shopping/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Tim Hortons菜單不完全點評</title>
+      <link>https://www.gigigatgat.ca/posts/tim-hortons-menu/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/posts/tim-hortons-menu/</guid>
+      <description>來加拿大了怎麼也要試</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/tim-hortons-menu/featured.jpg" />
+    </item>
+    
   </channel>
 </rss>

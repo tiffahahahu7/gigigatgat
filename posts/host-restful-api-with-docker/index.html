@@ -1,21 +1,21 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="light"
+<html lang="zh-TW" dir="ltr" class="scroll-smooth" data-default-appearance="light"
   data-auto-appearance="true"><head>
   <meta charset="utf-8" />
   
-  <meta http-equiv="content-language" content="en" />
+  <meta http-equiv="content-language" content="zh-TW" />
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   
-  <title>How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok &middot; GiGiGatGat</title>
-  <meta name="title" content="How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok &middot; GiGiGatGat" />
+  <title>How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok &middot; 嘰嘰乞乞</title>
+  <meta name="title" content="How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok &middot; 嘰嘰乞乞" />
   
   <meta name="description" content="How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok" />
   <meta name="keywords" content="tutorial, code, docker, api, " />
   
   
-  <link rel="canonical" href="http://www.gigigatgat.ca/posts/host-restful-api-with-docker/" />
+  <link rel="canonical" href="https://www.gigigatgat.ca/posts/host-restful-api-with-docker/" />
   
   
   
@@ -66,12 +66,13 @@
   <meta property="og:title" content="How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok" />
 <meta property="og:description" content="How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://www.gigigatgat.ca/posts/host-restful-api-with-docker/" /><meta property="og:image" content="http://www.gigigatgat.ca/posts/host-restful-api-with-docker/featured.png"/><meta property="article:section" content="posts" />
+<meta property="og:url" content="https://www.gigigatgat.ca/posts/host-restful-api-with-docker/" /><meta property="og:image" content="https://www.gigigatgat.ca/posts/host-restful-api-with-docker/featured.png"/><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2024-04-18T00:00:00+00:00" />
 <meta property="article:modified_time" content="2024-04-18T00:00:00+00:00" />
 
+
   <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="http://www.gigigatgat.ca/posts/host-restful-api-with-docker/featured.png"/>
+<meta name="twitter:image" content="https://www.gigigatgat.ca/posts/host-restful-api-with-docker/featured.png"/>
 <meta name="twitter:title" content="How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok"/>
 <meta name="twitter:description" content="How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok"/>
 
@@ -80,13 +81,13 @@
   [{
     "@context": "https://schema.org",
     "@type": "Article",
-    "articleSection": "Posts",
+    "articleSection": "博客",
     "name": "How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok",
     "headline": "How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok",
     "description": "How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok",
     "abstract": "In this guide, we\u0026rsquo;ll explore how to host a RESTful API with MariaDB 10 on a Raspberry Pi using Docker, Express.",
-    "inLanguage": "en",
-    "url" : "http:\/\/www.gigigatgat.ca\/posts\/host-restful-api-with-docker\/",
+    "inLanguage": "zh-TW",
+    "url" : "https:\/\/www.gigigatgat.ca\/posts\/host-restful-api-with-docker\/",
     "author" : {
       "@type": "Person",
       "name": ""
@@ -176,7 +177,7 @@
   <div id="the-top" class="absolute flex self-center">
     <a class="px-3 py-1 text-sm -translate-y-8 rounded-b-lg bg-primary-200 focus:translate-y-0 dark:bg-neutral-600"
       href="#main-content"><span
-        class="font-bold text-primary-600 ltr:pr-2 rtl:pl-2 dark:text-primary-400">&darr;</span>Skip to main content</a>
+        class="font-bold text-primary-600 ltr:pr-2 rtl:pl-2 dark:text-primary-400">&darr;</span>快轉到主要內容</a>
   </div>
   
   
@@ -191,10 +192,10 @@
     
     <div>
         <a href="/" class="flex">
-            <span class="sr-only">GiGiGatGat</span>
+            <span class="sr-only">嘰嘰乞乞</span>
 
             <img src="/img/logo.png" width="267" height="267"
-                class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="GiGiGatGat" />
+                class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="嘰嘰乞乞" />
 
         </a>
     </div>
@@ -202,7 +203,7 @@
     <div class="flex flex-1 items-center justify-between">
         <nav class="flex space-x-3">
 
-            <a href="/" class="text-base font-medium text-gray-500 hover:text-gray-900">GiGiGatGat</a>
+            <a href="/" class="text-base font-medium text-gray-500 hover:text-gray-900">嘰嘰乞乞</a>
 
 
         </nav>
@@ -214,8 +215,8 @@
   <div>
   <div class="cursor-pointer flex items-center nested-menu">
     
-    <a  href="/posts/"   class="text-base font-medium text-gray-500 hover:text-gray-900" title="Posts">
-      Posts
+    <a  href="/posts/"   class="text-base font-medium text-gray-500 hover:text-gray-900" title="博客">
+      主頁
     </a>
     <span>
       
@@ -245,29 +246,29 @@
         
         <a href="/categories/tech/"  class="flex items-center">
           
-          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="Tech">
-            Tech
+          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="轉碼心得">
+            轉碼心得
           </p>
         </a>
         
         <a href="/categories/kitchen/"  class="flex items-center">
           
-          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="Kitchen">
-            Kitchen
+          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="廚房故事">
+            廚房故事
           </p>
         </a>
         
         <a href="/categories/life/"  class="flex items-center">
           
-          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="Life">
-            Life
+          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="日常札記">
+            日常札記
           </p>
         </a>
         
         <a href="/categories/review/"  class="flex items-center">
           
-          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="Review">
-            Review
+          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="萬物測評">
+            萬物測評
           </p>
         </a>
         
@@ -282,8 +283,8 @@
             
   <a href="/friends/"  class="flex items-center">
     
-    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="Friends">
-        Friends
+    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="友情鏈接">
+        友情鏈接
     </p>
 </a>
 
@@ -292,8 +293,8 @@
             
   <a href="/about/"  class="flex items-center">
     
-    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="About">
-        About
+    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="關於我們">
+        關於我們
     </p>
 </a>
 
@@ -321,7 +322,7 @@
 
             
             
-  <a href="https://tiffahahahu7.github.io/gigigatgat/index.xml"  target="_blank"  class="flex items-center">
+  <a href="https://tiffahahahu7.github.io/gigigatgat/zh-tw/index.xml"  target="_blank"  class="flex items-center">
     
     <span >
         
@@ -345,7 +346,7 @@
             
 <div>
   <div class="cursor-pointer flex items-center nested-menu">
-    <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900" title="How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok">🇨🇦</a>
+    <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900" title="How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok">🇭🇰</a>
   </div>
   <div class="absolute menuhide">
     <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
@@ -353,13 +354,13 @@
         
         <a href="/posts/host-restful-api-with-docker/" class="flex items-center">
           <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok">
-            EN
+            中文
           </p>
         </a>
         
-        <a href="/zh-tw/posts/host-restful-api-with-docker/" class="flex items-center">
+        <a href="/en/posts/host-restful-api-with-docker/" class="flex items-center">
           <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok">
-            中文
+            EN
           </p>
         </a>
         
@@ -422,7 +423,7 @@
             
 <div>
   <div class="cursor-pointer flex items-center nested-menu">
-    <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900" title="How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok">🇨🇦</a>
+    <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900" title="How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok">🇭🇰</a>
   </div>
   <div class="absolute menuhide">
     <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
@@ -430,13 +431,13 @@
         
         <a href="/posts/host-restful-api-with-docker/" class="flex items-center">
           <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok">
-            EN
+            中文
           </p>
         </a>
         
-        <a href="/zh-tw/posts/host-restful-api-with-docker/" class="flex items-center">
+        <a href="/en/posts/host-restful-api-with-docker/" class="flex items-center">
           <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok">
-            中文
+            EN
           </p>
         </a>
         
@@ -527,8 +528,8 @@
   <li class="mt-1">
     <a class="flex items-center">
         
-        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="Posts">
-            Posts
+        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="博客">
+            主頁
         </p>
         <span>
             
@@ -557,8 +558,8 @@
 <li class="mt-1">
     <a href="/categories/tech/"  class="flex items-center">
         
-        <p class="text-sm font-small text-gray-500 hover:text-gray-900" title="Tech">
-            Tech
+        <p class="text-sm font-small text-gray-500 hover:text-gray-900" title="轉碼心得">
+            轉碼心得
         </p>
     </a>
 </li>
@@ -566,8 +567,8 @@
 <li class="mt-1">
     <a href="/categories/kitchen/"  class="flex items-center">
         
-        <p class="text-sm font-small text-gray-500 hover:text-gray-900" title="Kitchen">
-            Kitchen
+        <p class="text-sm font-small text-gray-500 hover:text-gray-900" title="廚房故事">
+            廚房故事
         </p>
     </a>
 </li>
@@ -575,8 +576,8 @@
 <li class="mt-1">
     <a href="/categories/life/"  class="flex items-center">
         
-        <p class="text-sm font-small text-gray-500 hover:text-gray-900" title="Life">
-            Life
+        <p class="text-sm font-small text-gray-500 hover:text-gray-900" title="日常札記">
+            日常札記
         </p>
     </a>
 </li>
@@ -584,8 +585,8 @@
 <li class="mt-1">
     <a href="/categories/review/"  class="flex items-center">
         
-        <p class="text-sm font-small text-gray-500 hover:text-gray-900" title="Review">
-            Review
+        <p class="text-sm font-small text-gray-500 hover:text-gray-900" title="萬物測評">
+            萬物測評
         </p>
     </a>
 </li>
@@ -600,8 +601,8 @@
   <li class="mt-1">
     <a href="/friends/"  class="flex items-center">
         
-        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="Friends">
-            Friends
+        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="友情鏈接">
+            友情鏈接
         </p>
     </a>
 </li>
@@ -614,8 +615,8 @@
   <li class="mt-1">
     <a href="/about/"  class="flex items-center">
         
-        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="About">
-            About
+        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="關於我們">
+            關於我們
         </p>
     </a>
 </li>
@@ -651,7 +652,7 @@
 
                     
   <li class="mt-1">
-    <a href="https://tiffahahahu7.github.io/gigigatgat/index.xml"  target="_blank"  class="flex items-center">
+    <a href="https://tiffahahahu7.github.io/gigigatgat/zh-tw/index.xml"  target="_blank"  class="flex items-center">
         
         <div >
             
@@ -795,7 +796,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-04-18 00:00:00 &#43;0000 UTC">18 April 2024</time><span class="px-2 text-primary-500">&middot;</span><span>1805 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">9 mins</span>
+  <time datetime="2024-04-18 00:00:00 &#43;0000 UTC">18 April 2024</time><span class="px-2 text-primary-500">&middot;</span><span>1805 字</span><span class="px-2 text-primary-500">&middot;</span><span title="預計閱讀時間">9 分鐘</span>
   
 
   
@@ -818,7 +819,7 @@
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
   >
-    Tech
+    轉碼心得
   </span>
 </span>
 
@@ -920,9 +921,9 @@
     
     
     <div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
-      Author
+      作者
     </div>
-    <a  href="http://www.gigigatgat.ca//authors/sloth"  class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
+    <a  href="https://www.gigigatgat.ca//authors/sloth"  class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
       Sloth
     </a>
     
@@ -976,7 +977,7 @@
          <details open class="mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
   <summary
     class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
-    Table of Contents
+    目錄
   </summary>
   <div
     class="min-w-[220px] py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
@@ -1003,7 +1004,7 @@
 <details class="mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 lg:hidden">
   <summary
     class="py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
-    Table of Contents
+    目錄
   </summary>
   <div
     class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
@@ -1083,7 +1084,7 @@
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#1-setting-restful-api-in-expressjs" aria-label="Anchor">#</a></span>        
+            style="text-decoration-line: none !important;" href="#1-setting-restful-api-in-expressjs" aria-label="定位點">#</a></span>        
     
 </h2>
 <p>Express.js, a widely embraced JavaScript framework, is known for setting up robust servers. Inside the Express.js, I integrated two more frameworks: <strong>mysql2</strong> and <strong>cors</strong>. The decision to incorporate mysql2 due to its compatibility with MariaDB, as my Raspberry Pi currently supports only the older MariaDB 10 version rather than the latest MySQL version. Furthermore, I employed the <strong>cors</strong> framework to circumvent cross-site policy restrictions seamlessly. Let’s take a look at the finished version of the API codes in Express framework.</p>
@@ -1136,7 +1137,7 @@
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#lets-break-them-down-into-pieces" aria-label="Anchor">#</a></span>        
+            style="text-decoration-line: none !important;" href="#lets-break-them-down-into-pieces" aria-label="定位點">#</a></span>        
     
 </h3>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-jsx" data-lang="jsx"><span class="line"><span class="cl"><span class="o">**</span><span class="kr">const</span> <span class="nx">app</span> <span class="o">=</span> <span class="nx">express</span><span class="p">();</span><span class="o">**</span>
@@ -1191,7 +1192,7 @@
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#2-configurating-docker-image-build" aria-label="Anchor">#</a></span>        
+            style="text-decoration-line: none !important;" href="#2-configurating-docker-image-build" aria-label="定位點">#</a></span>        
     
 </h2>
 <p>After completing the API code setup, it&rsquo;s time to configurate how to build and run the Docker image. While for this project, having just one service - the API service - makes it feasible to solely utilize a <strong>Dockerfile</strong> without creating a new <strong>docker-compose.yml</strong>, I personally opt for using docker-compose.yml to enhance the clarity and structure of my services. However, the choice ultimately rests with you.</p>
@@ -1200,7 +1201,7 @@
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#dockerfile" aria-label="Anchor">#</a></span>        
+            style="text-decoration-line: none !important;" href="#dockerfile" aria-label="定位點">#</a></span>        
     
 </h3>
 <pre tabindex="0"><code>FROM node:18
@@ -1235,7 +1236,7 @@ CMD [&#34;./start.sh&#34;]
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#lets-break-them-down-into-pieces-1" aria-label="Anchor">#</a></span>        
+            style="text-decoration-line: none !important;" href="#lets-break-them-down-into-pieces-1" aria-label="定位點">#</a></span>        
     
 </h3>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-jsx" data-lang="jsx"><span class="line"><span class="cl"><span class="nx">FROM</span> <span class="nx">node</span><span class="o">:</span><span class="mi">18</span>
@@ -1268,7 +1269,7 @@ node pi-mariadb-api.js
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#docker-composeyml" aria-label="Anchor">#</a></span>        
+            style="text-decoration-line: none !important;" href="#docker-composeyml" aria-label="定位點">#</a></span>        
     
 </h3>
 <pre tabindex="0"><code>version: &#39;3.3&#39;
@@ -1290,7 +1291,7 @@ networks:
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#here-is-the-folder-structure" aria-label="Anchor">#</a></span>        
+            style="text-decoration-line: none !important;" href="#here-is-the-folder-structure" aria-label="定位點">#</a></span>        
     
 </h3>
 <p>
@@ -1327,7 +1328,7 @@ networks:
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#3-build-and-run-the-docker-image" aria-label="Anchor">#</a></span>        
+            style="text-decoration-line: none !important;" href="#3-build-and-run-the-docker-image" aria-label="定位點">#</a></span>        
     
 </h2>
 <p>Once you&rsquo;ve completed all preliminary setup steps, you can utilize Docker Hub or the SCP method to transfer the entire folder to your Pi. Before executing the build and run Docker commands, ensure that you have installed the <a href="http://docker.io"   target="_blank">
@@ -1434,7 +1435,7 @@ networks:
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2023-11-04 00:00:00 &#43;0000 UTC">4 November 2023</time><span class="px-2 text-primary-500">&middot;</span><span>2885 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">6 mins</span>
+  <time datetime="2023-11-04 00:00:00 &#43;0000 UTC">4 November 2023</time><span class="px-2 text-primary-500">&middot;</span><span>3378 字</span><span class="px-2 text-primary-500">&middot;</span><span title="預計閱讀時間">7 分鐘</span>
   
 
   
@@ -1457,7 +1458,7 @@ networks:
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
   >
-    Tech
+    轉碼心得
   </span>
 </span>
 
@@ -1587,7 +1588,7 @@ networks:
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2023-10-24 00:00:00 &#43;0000 UTC">24 October 2023</time><span class="px-2 text-primary-500">&middot;</span><span>924 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">5 mins</span>
+  <time datetime="2023-10-24 00:00:00 &#43;0000 UTC">24 October 2023</time><span class="px-2 text-primary-500">&middot;</span><span>924 字</span><span class="px-2 text-primary-500">&middot;</span><span title="預計閱讀時間">5 分鐘</span>
   
 
   
@@ -1610,7 +1611,7 @@ networks:
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
   >
-    Tech
+    轉碼心得
   </span>
 </span>
 
@@ -1740,7 +1741,7 @@ networks:
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2023-11-04 00:00:00 &#43;0000 UTC">4 November 2023</time><span class="px-2 text-primary-500">&middot;</span><span>430 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
+  <time datetime="2023-11-04 00:00:00 &#43;0000 UTC">4 November 2023</time><span class="px-2 text-primary-500">&middot;</span><span>430 字</span><span class="px-2 text-primary-500">&middot;</span><span title="預計閱讀時間">3 分鐘</span>
   
 
   
@@ -1763,7 +1764,7 @@ networks:
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
   >
-    Tech
+    轉碼心得
   </span>
 </span>
 
@@ -1877,7 +1878,7 @@ networks:
       <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
   <a href="#the-top"
     class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 backdrop-blur hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
-    aria-label="Scroll to top" title="Scroll to top">
+    aria-label="捲動到頁頂" title="捲動到頁頂">
     &uarr;
   </a>
 </div>
@@ -1890,17 +1891,17 @@ networks:
         
         <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
           <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/tags/"
-            title="Tags">Tags</a>
+            title="標籤">Tags</a>
         </li>
         
         <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
           <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/categories/"
-            title="Categories">Categories</a>
+            title="分類">Categories</a>
         </li>
         
         <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
           <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/authors/"
-            title="Authors">Authors</a>
+            title="作者">Authors</a>
         </li>
         
       </ul>
@@ -1916,7 +1917,7 @@ networks:
     
     
     <p class="text-sm text-neutral-500 dark:text-neutral-400">
-      © 2023 GiGiGatGat
+      © 2023 嘰嘰乞乞
     </p>
     
 
@@ -1925,9 +1926,9 @@ networks:
     <p class="text-xs text-neutral-500 dark:text-neutral-400">
       
       
-      Powered by <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+      以 <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
         href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a> &amp; <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
-        href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>
+        href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a> 製作
     </p>
     
 
@@ -1970,7 +1971,7 @@ networks:
 </footer><div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="http://www.gigigatgat.ca/"
+  data-url="https://www.gigigatgat.ca/"
   style="z-index:500"
 >
   <div
@@ -1993,14 +1994,14 @@ networks:
           type="search"
           id="search-query"
           class="flex flex-auto h-12 mx-1 bg-transparent appearance-none focus:outline-dotted focus:outline-2 focus:outline-transparent"
-          placeholder="Search"
+          placeholder="搜尋"
           tabindex="0"
         />
       </form>
       <button
         id="close-search-button"
         class="flex items-center justify-center w-8 h-8 text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
-        title="Close (Esc)"
+        title="關閉 (Esc)"
       >
         
 

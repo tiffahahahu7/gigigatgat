@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: http://www.gigigatgat.ca/sitemap.xml
+Sitemap: https://www.gigigatgat.ca/sitemap.xml

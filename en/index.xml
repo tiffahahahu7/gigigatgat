@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to GiGiGatGat! 💬 on GiGiGatGat</title>
+    <link>https://www.gigigatgat.ca/en/</link>
+    <description>Recent content in Welcome to GiGiGatGat! 💬 on GiGiGatGat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 GiGiGatGat</copyright>
+    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok</title>
+      <link>https://www.gigigatgat.ca/en/posts/host-restful-api-with-docker/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/en/posts/host-restful-api-with-docker/</guid>
+      <description>In this guide, we&amp;rsquo;ll explore how to host a RESTful API with MariaDB 10 on a Raspberry Pi using Docker, Express.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/en/posts/host-restful-api-with-docker/featured.png" />
+    </item>
+    
+    <item>
+      <title>A Beginner-Friendly Tutorial for Building a Blog with Hugo, the Blowfish Theme, and GitHub Pages</title>
+      <link>https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/</guid>
+      <description>Everyone deserves to own a blog. I&amp;rsquo;m here to help.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/featured.png" />
+    </item>
+    
+    <item>
+      <title>How to Install a Specific Version of Hugo on macOS</title>
+      <link>https://www.gigigatgat.ca/en/posts/install-specific-hugo-version/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/en/posts/install-specific-hugo-version/</guid>
+      <description>To demo how to build a blog for beginners, I created a new user on my macOS and reinstalled Hugo in the new environment.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/en/posts/install-specific-hugo-version/featured.png" />
+    </item>
+    
+    <item>
+      <title>Getting Started with Entity Framework Core in Visual Studio</title>
+      <link>https://www.gigigatgat.ca/en/posts/how-to-use-entity-framework-core/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/en/posts/how-to-use-entity-framework-core/</guid>
+      <description>Entity Framework Core is a powerful tool for simplifying database integration with web applications.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/en/posts/how-to-use-entity-framework-core/featured.png" />
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.gigigatgat.ca/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/en/about/</guid>
+      <description>Hi there! We are Avocado and Sloth, a couple studying Web Development and living in Ottawa, Canada.</description>
+      
+    </item>
+    
+    <item>
+      <title>Friends</title>
+      <link>https://www.gigigatgat.ca/en/friends/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/en/friends/</guid>
+      <description>Check out my awesome friends&amp;rsquo; blogs. Feel free to contact me to exchange links!</description>
+      
+    </item>
+    
+  </channel>
+</rss>

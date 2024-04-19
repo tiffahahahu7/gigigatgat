@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on GiGiGatGat</title>
-    <link>http://www.gigigatgat.ca/series/</link>
-    <description>Recent content in Series on GiGiGatGat</description>
+    <title>Series on 嘰嘰乞乞</title>
+    <link>https://www.gigigatgat.ca/series/</link>
+    <description>Recent content in Series on 嘰嘰乞乞</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2023 GiGiGatGat</copyright>
-    <atom:link href="http://www.gigigatgat.ca/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-TW</language>
+    <copyright>© 2023 嘰嘰乞乞</copyright>
+    <lastBuildDate>Mon, 22 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>人生廣東歌</title>
+      <link>https://www.gigigatgat.ca/series/%E4%BA%BA%E7%94%9F%E5%BB%A3%E6%9D%B1%E6%AD%8C/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/series/%E4%BA%BA%E7%94%9F%E5%BB%A3%E6%9D%B1%E6%AD%8C/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

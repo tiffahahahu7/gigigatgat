@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech on GiGiGatGat</title>
-    <link>http://www.gigigatgat.ca/categories/tech/</link>
-    <description>Recent content in Tech on GiGiGatGat</description>
+    <title>轉碼心得 on 嘰嘰乞乞</title>
+    <link>https://www.gigigatgat.ca/categories/tech/</link>
+    <description>Recent content in 轉碼心得 on 嘰嘰乞乞</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2023 GiGiGatGat</copyright>
-    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.gigigatgat.ca/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-TW</language>
+    <copyright>© 2023 嘰嘰乞乞</copyright>
+    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok</title>
-      <link>http://www.gigigatgat.ca/posts/host-restful-api-with-docker/</link>
+      <link>https://www.gigigatgat.ca/posts/host-restful-api-with-docker/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://www.gigigatgat.ca/posts/host-restful-api-with-docker/</guid>
+      <guid>https://www.gigigatgat.ca/posts/host-restful-api-with-docker/</guid>
       <description>In this guide, we&amp;rsquo;ll explore how to host a RESTful API with MariaDB 10 on a Raspberry Pi using Docker, Express.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/posts/host-restful-api-with-docker/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/host-restful-api-with-docker/featured.png" />
     </item>
     
     <item>
       <title>A Beginner-Friendly Tutorial for Building a Blog with Hugo, the Blowfish Theme, and GitHub Pages</title>
-      <link>http://www.gigigatgat.ca/posts/how-to-create-a-blog/</link>
+      <link>https://www.gigigatgat.ca/posts/how-to-create-a-blog/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.gigigatgat.ca/posts/how-to-create-a-blog/</guid>
+      <guid>https://www.gigigatgat.ca/posts/how-to-create-a-blog/</guid>
       <description>Everyone deserves to own a blog. I&amp;rsquo;m here to help.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/posts/how-to-create-a-blog/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/how-to-create-a-blog/featured.png" />
     </item>
     
     <item>
       <title>How to Install a Specific Version of Hugo on macOS</title>
-      <link>http://www.gigigatgat.ca/posts/install-specific-hugo-version/</link>
+      <link>https://www.gigigatgat.ca/posts/install-specific-hugo-version/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.gigigatgat.ca/posts/install-specific-hugo-version/</guid>
+      <guid>https://www.gigigatgat.ca/posts/install-specific-hugo-version/</guid>
       <description>To demo how to build a blog for beginners, I created a new user on my macOS and reinstalled Hugo in the new environment.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/posts/install-specific-hugo-version/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/install-specific-hugo-version/featured.png" />
     </item>
     
     <item>
       <title>Getting Started with Entity Framework Core in Visual Studio</title>
-      <link>http://www.gigigatgat.ca/posts/how-to-use-entity-framework-core/</link>
+      <link>https://www.gigigatgat.ca/posts/how-to-use-entity-framework-core/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.gigigatgat.ca/posts/how-to-use-entity-framework-core/</guid>
+      <guid>https://www.gigigatgat.ca/posts/how-to-use-entity-framework-core/</guid>
       <description>Entity Framework Core is a powerful tool for simplifying database integration with web applications.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/posts/how-to-use-entity-framework-core/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/how-to-use-entity-framework-core/featured.png" />
     </item>
     
   </channel>
