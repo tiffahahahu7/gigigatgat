@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2023 嘰嘰乞乞</copyright>
-    <lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok</title>
+      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/host-restful-api-with-docker/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/host-restful-api-with-docker/</guid>
+      <description>In this guide, we&amp;rsquo;ll explore how to host a RESTful API with MariaDB 10 on a Raspberry Pi using Docker, Express.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/host-restful-api-with-docker/featured.png" />
+    </item>
+    
     <item>
       <title>除舊佈新，三月也可以像新年</title>
       <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/mar-2024-recap/</link>

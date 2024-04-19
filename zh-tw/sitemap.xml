@@ -3,14 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/mar-2024-recap/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+    <loc>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/host-restful-api-with-docker/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://tiffahahahu7.github.io/gigigatgat/posts/host-restful-api-with-docker/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-TW"
+      href="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/host-restful-api-with-docker/"
+    />
   </url>
   <url>
     <loc>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -26,7 +36,7 @@
   </url>
   <url>
     <loc>https://tiffahahahu7.github.io/gigigatgat/zh-tw/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -39,6 +49,12 @@
       hreflang="zh-TW"
       href="https://tiffahahahu7.github.io/gigigatgat/zh-tw/"
     />
+  </url>
+  <url>
+    <loc>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/mar-2024-recap/</loc>
+    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/coop-sharing/</loc>

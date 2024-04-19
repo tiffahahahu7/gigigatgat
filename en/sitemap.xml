@@ -3,6 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://tiffahahahu7.github.io/gigigatgat/posts/host-restful-api-with-docker/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-TW"
+      href="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/host-restful-api-with-docker/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://tiffahahahu7.github.io/gigigatgat/posts/host-restful-api-with-docker/"
+    />
+  </url>
+  <url>
+    <loc>https://tiffahahahu7.github.io/gigigatgat/posts/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-TW"
+      href="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://tiffahahahu7.github.io/gigigatgat/posts/"
+    />
+  </url>
+  <url>
+    <loc>https://tiffahahahu7.github.io/gigigatgat/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-TW"
+      href="https://tiffahahahu7.github.io/gigigatgat/zh-tw/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://tiffahahahu7.github.io/gigigatgat/"
+    />
+  </url>
+  <url>
     <loc>https://tiffahahahu7.github.io/gigigatgat/posts/how-to-create-a-blog/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -32,38 +80,6 @@
       rel="alternate"
       hreflang="en"
       href="https://tiffahahahu7.github.io/gigigatgat/posts/install-specific-hugo-version/"
-    />
-  </url>
-  <url>
-    <loc>https://tiffahahahu7.github.io/gigigatgat/posts/</loc>
-    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-TW"
-      href="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://tiffahahahu7.github.io/gigigatgat/posts/"
-    />
-  </url>
-  <url>
-    <loc>https://tiffahahahu7.github.io/gigigatgat/</loc>
-    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-TW"
-      href="https://tiffahahahu7.github.io/gigigatgat/zh-tw/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://tiffahahahu7.github.io/gigigatgat/"
     />
   </url>
   <url>
