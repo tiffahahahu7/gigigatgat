@@ -2,198 +2,198 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>歡迎光臨嘰嘰乞乞/GiGiGatGat! 💬 on 嘰嘰乞乞</title>
-    <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/</link>
+    <link>http://www.gigigatgat.ca/zh-tw/</link>
     <description>Recent content in 歡迎光臨嘰嘰乞乞/GiGiGatGat! 💬 on 嘰嘰乞乞</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2023 嘰嘰乞乞</copyright>
-    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://tiffahahahu7.github.io/gigigatgat/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.gigigatgat.ca/zh-tw/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/host-restful-api-with-docker/</link>
+      <link>http://www.gigigatgat.ca/zh-tw/posts/host-restful-api-with-docker/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/host-restful-api-with-docker/</guid>
+      <guid>http://www.gigigatgat.ca/zh-tw/posts/host-restful-api-with-docker/</guid>
       <description>In this guide, we&amp;rsquo;ll explore how to host a RESTful API with MariaDB 10 on a Raspberry Pi using Docker, Express.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/host-restful-api-with-docker/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/zh-tw/posts/host-restful-api-with-docker/featured.png" />
     </item>
     
     <item>
       <title>除舊佈新，三月也可以像新年</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/mar-2024-recap/</link>
+      <link>http://www.gigigatgat.ca/zh-tw/posts/mar-2024-recap/</link>
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/mar-2024-recap/</guid>
+      <guid>http://www.gigigatgat.ca/zh-tw/posts/mar-2024-recap/</guid>
       <description>什麼時候都不晚 本月M</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/mar-2024-recap/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/zh-tw/posts/mar-2024-recap/featured.jpg" />
     </item>
     
     <item>
       <title>加拿大Co-op經驗談</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/coop-sharing/</link>
+      <link>http://www.gigigatgat.ca/zh-tw/posts/coop-sharing/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/coop-sharing/</guid>
+      <guid>http://www.gigigatgat.ca/zh-tw/posts/coop-sharing/</guid>
       <description>祝大家都能順利上車下</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/coop-sharing/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/zh-tw/posts/coop-sharing/featured.jpg" />
     </item>
     
     <item>
       <title>迷失了的二月</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/feb-2024-recap/</link>
+      <link>http://www.gigigatgat.ca/zh-tw/posts/feb-2024-recap/</link>
       <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/feb-2024-recap/</guid>
+      <guid>http://www.gigigatgat.ca/zh-tw/posts/feb-2024-recap/</guid>
       <description>渾渾噩噩不知所以然 二</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/feb-2024-recap/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/zh-tw/posts/feb-2024-recap/featured.jpg" />
     </item>
     
     <item>
       <title>低消費慾人群的超市回購清單 - Grocery</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/grocery-shopping/</link>
+      <link>http://www.gigigatgat.ca/zh-tw/posts/grocery-shopping/</link>
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/grocery-shopping/</guid>
+      <guid>http://www.gigigatgat.ca/zh-tw/posts/grocery-shopping/</guid>
       <description>#Blog逛超市安利</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/grocery-shopping/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/zh-tw/posts/grocery-shopping/featured.jpg" />
     </item>
     
     <item>
       <title>成就滿滿的一月小结</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/jan-2024-recap/</link>
+      <link>http://www.gigigatgat.ca/zh-tw/posts/jan-2024-recap/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/jan-2024-recap/</guid>
+      <guid>http://www.gigigatgat.ca/zh-tw/posts/jan-2024-recap/</guid>
       <description>我太厲害了！ 本月Mi</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/jan-2024-recap/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/zh-tw/posts/jan-2024-recap/featured.jpg" />
     </item>
     
     <item>
       <title>我的人生廣東歌（二）</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/my-fav-cantonese-songs_2/</link>
+      <link>http://www.gigigatgat.ca/zh-tw/posts/my-fav-cantonese-songs_2/</link>
       <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/my-fav-cantonese-songs_2/</guid>
+      <guid>http://www.gigigatgat.ca/zh-tw/posts/my-fav-cantonese-songs_2/</guid>
       <description>快樂嗎 你還是記得你跟</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/my-fav-cantonese-songs_2/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/zh-tw/posts/my-fav-cantonese-songs_2/featured.jpg" />
     </item>
     
     <item>
       <title>Tim Hortons菜單不完全點評</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/tim-hortons-menu/</link>
+      <link>http://www.gigigatgat.ca/zh-tw/posts/tim-hortons-menu/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/tim-hortons-menu/</guid>
+      <guid>http://www.gigigatgat.ca/zh-tw/posts/tim-hortons-menu/</guid>
       <description>來加拿大了怎麼也要試</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/tim-hortons-menu/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/zh-tw/posts/tim-hortons-menu/featured.jpg" />
     </item>
     
     <item>
       <title>2024 New Year‘s Resolutions</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/2024-new-year-resolutions/</link>
+      <link>http://www.gigigatgat.ca/zh-tw/posts/2024-new-year-resolutions/</link>
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/2024-new-year-resolutions/</guid>
+      <guid>http://www.gigigatgat.ca/zh-tw/posts/2024-new-year-resolutions/</guid>
       <description>我的Flag必不會倒</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/2024-new-year-resolutions/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/zh-tw/posts/2024-new-year-resolutions/featured.jpg" />
     </item>
     
     <item>
       <title>寫在最後一天匆匆忙忙的十二月小結</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/dec-2023-recap/</link>
+      <link>http://www.gigigatgat.ca/zh-tw/posts/dec-2023-recap/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/dec-2023-recap/</guid>
+      <guid>http://www.gigigatgat.ca/zh-tw/posts/dec-2023-recap/</guid>
       <description>新年快樂！ 十二月太忙</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/dec-2023-recap/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/zh-tw/posts/dec-2023-recap/featured.jpg" />
     </item>
     
     <item>
       <title>當一個忘性很大的人嘗試寫十一月小結</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/nov-2023-recap/</link>
+      <link>http://www.gigigatgat.ca/zh-tw/posts/nov-2023-recap/</link>
       <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/nov-2023-recap/</guid>
+      <guid>http://www.gigigatgat.ca/zh-tw/posts/nov-2023-recap/</guid>
       <description>一開始覺得好不容易但</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/nov-2023-recap/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/zh-tw/posts/nov-2023-recap/featured.jpg" />
     </item>
     
     <item>
       <title>我的人生廣東歌（一）</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/my-fav-cantonese-songs_1/</link>
+      <link>http://www.gigigatgat.ca/zh-tw/posts/my-fav-cantonese-songs_1/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/my-fav-cantonese-songs_1/</guid>
+      <guid>http://www.gigigatgat.ca/zh-tw/posts/my-fav-cantonese-songs_1/</guid>
       <description>「感謝永遠有歌 把心境</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/my-fav-cantonese-songs_1/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/zh-tw/posts/my-fav-cantonese-songs_1/featured.jpg" />
     </item>
     
     <item>
       <title>A Beginner-Friendly Tutorial for Building a Blog with Hugo, the Blowfish Theme, and GitHub Pages</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/how-to-create-a-blog/</link>
+      <link>http://www.gigigatgat.ca/zh-tw/posts/how-to-create-a-blog/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/how-to-create-a-blog/</guid>
+      <guid>http://www.gigigatgat.ca/zh-tw/posts/how-to-create-a-blog/</guid>
       <description>Everyone deserves to own a blog. I&amp;rsquo;m here to help.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/how-to-create-a-blog/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/zh-tw/posts/how-to-create-a-blog/featured.png" />
     </item>
     
     <item>
       <title>How to Install a Specific Version of Hugo on macOS</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/install-specific-hugo-version/</link>
+      <link>http://www.gigigatgat.ca/zh-tw/posts/install-specific-hugo-version/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/install-specific-hugo-version/</guid>
+      <guid>http://www.gigigatgat.ca/zh-tw/posts/install-specific-hugo-version/</guid>
       <description>To demo how to build a blog for beginners, I created a new user on my macOS and reinstalled Hugo in the new environment.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/install-specific-hugo-version/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/zh-tw/posts/install-specific-hugo-version/featured.png" />
     </item>
     
     <item>
       <title>我為什麼開始寫博客</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/why-blogging/</link>
+      <link>http://www.gigigatgat.ca/zh-tw/posts/why-blogging/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/why-blogging/</guid>
+      <guid>http://www.gigigatgat.ca/zh-tw/posts/why-blogging/</guid>
       <description>Let&amp;rsquo;s make blogging great again! 事情要從2</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/why-blogging/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/zh-tw/posts/why-blogging/featured.jpg" />
     </item>
     
     <item>
       <title>在加國，復刻一碗香港經典譚仔三哥米線</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/tamjai-samgor-rice-noodle/</link>
+      <link>http://www.gigigatgat.ca/zh-tw/posts/tamjai-samgor-rice-noodle/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/tamjai-samgor-rice-noodle/</guid>
+      <guid>http://www.gigigatgat.ca/zh-tw/posts/tamjai-samgor-rice-noodle/</guid>
       <description>譚仔——My comfort food all the</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/tamjai-samgor-rice-noodle/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/zh-tw/posts/tamjai-samgor-rice-noodle/featured.jpeg" />
     </item>
     
     <item>
       <title>關於我們</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/about/</link>
+      <link>http://www.gigigatgat.ca/zh-tw/about/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/about/</guid>
+      <guid>http://www.gigigatgat.ca/zh-tw/about/</guid>
       <description>嗨！我們是 Avocado 和 Slo</description>
       
     </item>
     
     <item>
       <title>Getting Started with Entity Framework Core in Visual Studio</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/how-to-use-entity-framework-core/</link>
+      <link>http://www.gigigatgat.ca/zh-tw/posts/how-to-use-entity-framework-core/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/how-to-use-entity-framework-core/</guid>
+      <guid>http://www.gigigatgat.ca/zh-tw/posts/how-to-use-entity-framework-core/</guid>
       <description>Entity Framework Core is a powerful tool for simplifying database integration with web applications.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/how-to-use-entity-framework-core/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/zh-tw/posts/how-to-use-entity-framework-core/featured.png" />
     </item>
     
     <item>
       <title>友情鏈接</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/friends/</link>
+      <link>http://www.gigigatgat.ca/zh-tw/friends/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/friends/</guid>
+      <guid>http://www.gigigatgat.ca/zh-tw/friends/</guid>
       <description>每次造訪友鄰的博客我</description>
       
     </item>

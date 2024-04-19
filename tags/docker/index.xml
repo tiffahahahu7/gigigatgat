@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>docker on GiGiGatGat</title>
-    <link>https://tiffahahahu7.github.io/gigigatgat/tags/docker/</link>
+    <link>http://www.gigigatgat.ca/tags/docker/</link>
     <description>Recent content in docker on GiGiGatGat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 GiGiGatGat</copyright>
-    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://tiffahahahu7.github.io/gigigatgat/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.gigigatgat.ca/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/posts/host-restful-api-with-docker/</link>
+      <link>http://www.gigigatgat.ca/posts/host-restful-api-with-docker/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/posts/host-restful-api-with-docker/</guid>
+      <guid>http://www.gigigatgat.ca/posts/host-restful-api-with-docker/</guid>
       <description>In this guide, we&amp;rsquo;ll explore how to host a RESTful API with MariaDB 10 on a Raspberry Pi using Docker, Express.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/posts/host-restful-api-with-docker/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/posts/host-restful-api-with-docker/featured.png" />
     </item>
     
   </channel>

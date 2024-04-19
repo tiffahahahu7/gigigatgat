@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ASP.NET on 嘰嘰乞乞</title>
-    <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/tags/asp.net/</link>
+    <link>http://www.gigigatgat.ca/zh-tw/tags/asp.net/</link>
     <description>Recent content in ASP.NET on 嘰嘰乞乞</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2023 嘰嘰乞乞</copyright>
-    <lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tiffahahahu7.github.io/gigigatgat/zh-tw/tags/asp.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.gigigatgat.ca/zh-tw/tags/asp.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started with Entity Framework Core in Visual Studio</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/how-to-use-entity-framework-core/</link>
+      <link>http://www.gigigatgat.ca/zh-tw/posts/how-to-use-entity-framework-core/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/how-to-use-entity-framework-core/</guid>
+      <guid>http://www.gigigatgat.ca/zh-tw/posts/how-to-use-entity-framework-core/</guid>
       <description>Entity Framework Core is a powerful tool for simplifying database integration with web applications.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/zh-tw/posts/how-to-use-entity-framework-core/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/zh-tw/posts/how-to-use-entity-framework-core/featured.png" />
     </item>
     
   </channel>

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kitchen on GiGiGatGat</title>
-    <link>https://tiffahahahu7.github.io/gigigatgat/categories/kitchen/</link>
+    <link>http://www.gigigatgat.ca/categories/kitchen/</link>
     <description>Recent content in Kitchen on GiGiGatGat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 GiGiGatGat</copyright>
-    <atom:link href="https://tiffahahahu7.github.io/gigigatgat/categories/kitchen/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.gigigatgat.ca/categories/kitchen/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

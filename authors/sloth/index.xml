@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sloth (Raymond) on GiGiGatGat</title>
-    <link>https://tiffahahahu7.github.io/gigigatgat/authors/sloth/</link>
+    <link>http://www.gigigatgat.ca/authors/sloth/</link>
     <description>Recent content in Sloth (Raymond) on GiGiGatGat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 GiGiGatGat</copyright>
-    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://tiffahahahu7.github.io/gigigatgat/authors/sloth/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://www.gigigatgat.ca/authors/sloth/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/posts/host-restful-api-with-docker/</link>
+      <link>http://www.gigigatgat.ca/posts/host-restful-api-with-docker/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/posts/host-restful-api-with-docker/</guid>
+      <guid>http://www.gigigatgat.ca/posts/host-restful-api-with-docker/</guid>
       <description>In this guide, we&amp;rsquo;ll explore how to host a RESTful API with MariaDB 10 on a Raspberry Pi using Docker, Express.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tiffahahahu7.github.io/gigigatgat/posts/host-restful-api-with-docker/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.gigigatgat.ca/posts/host-restful-api-with-docker/featured.png" />
     </item>
     
     <item>
       <title>About</title>
-      <link>https://tiffahahahu7.github.io/gigigatgat/about/</link>
+      <link>http://www.gigigatgat.ca/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tiffahahahu7.github.io/gigigatgat/about/</guid>
+      <guid>http://www.gigigatgat.ca/about/</guid>
       <description>Hi there! We are Avocado and Sloth, a couple studying Web Development and living in Ottawa, Canada.</description>
       
     </item>
