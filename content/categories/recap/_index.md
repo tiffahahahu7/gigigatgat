@@ -1,5 +1,5 @@
 ---
-title: "人生札記"
+title: "每月小結"
 description: "How we live our life"
 
 cascade:
@@ -9,7 +9,7 @@ cascade:
 ---
 
 {{< lead >}}
-Our Life and Thought Pieces
+Avocado's Monthly Recap
 {{< /lead >}}
 
 ---

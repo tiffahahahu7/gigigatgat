@@ -3,7 +3,7 @@ title: "歡迎光臨嘰嘰乞乞/GiGiGatGat! 💬"
 description: "Avocado和Sloth的博客"
 ---
 
-哈嘍！歡迎來到Avocado和Sloth的共享博客，我們會在這個老巢**嘰嘰乞乞**（廣東話短語，約等於嘰嘰喳喳）生活裡的一切，包括且不限於`轉碼心得`，`廚房故事`，`日常札記`和`萬物測評`。有時候我們也會邀請一些朋友來共享這個空間，發布屬於ta們的作品，文字萬歲！
+哈嘍！歡迎來到Avocado和Sloth的共享博客，我們會在這個老巢**嘰嘰乞乞**（廣東話短語，約等於嘰嘰喳喳）生活裡的一切，包括且不限於[`轉碼心得`](/categories/tech/)、[`每月小結`](categories/recap/)、[`人生札記`](categories/life/)、[`廚房故事`](categories/kitchen/)和[`萬物測評`](categories/review/)。有時候我們也會邀請一些朋友來共享這個空間，發布屬於ta們的文章，文字萬歲！
 
 &#129361;&nbsp;**Avocado (Tiffany):** 女的，INFJ，著迷草木山海裡的每一種綠色，身份是家庭大廚
 

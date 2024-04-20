@@ -10,9 +10,10 @@ showReadingTime: false
 showTableOfContents: false
 showViews: false
 showLikes: false
+showComments: true
 ---
 
-每次造訪友鄰的博客我都感到幸福，請大家也幸福一下。如果你碰巧有自己的博客，歡迎和我<a href="mailto: tiffahahahu7@gmail.com">交換鏈接</a>！
+每次造訪友鄰的博客我都感到幸福，請大家也幸福一下。如果你碰巧有自己的博客，歡迎在下方留言和我交換鏈接</a>！
 ## Friends
 
 - <a href="https://blog.douchi.space/">椒鹽豆豉</a>：日常產出驚人的互聯網友人，復興部落格的先行者兼推動者
@@ -38,5 +39,3 @@ showLikes: false
 - <a href="https://www.lanisland.com/">唉，瀾的</a>：剛剛出版了一本食譜電子書的厲害友鄰，專精美食與攝影
 - <a href="https://cronopio.space/">新鮮棕櫚葉下</a>：非常清爽直接的菜單分類，喜歡翻「隨筆」、「美食」、「遊戲」和「測評」
 - 未完待續...
-
----

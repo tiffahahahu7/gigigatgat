@@ -4,8 +4,8 @@ date: 2024-02-29
 draft: false
 description: "二月小結"
 slug: "feb 2024 recap"
-tags: ["每月小結", "加拿大", "書影音遊", "博客裝修"]
-categories: ["Life"]
+tags: ["書影音遊", "博客裝修", "加拿大", "coop"]
+categories: ["recap"]
 showComments: true
 showAuthor: false
 authors:

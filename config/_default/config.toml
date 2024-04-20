@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://www.gigigatgat.ca"
+baseURL = "https://www.gigigatgat.ca/"
 defaultContentLanguage = "zh-tw"
 hasCJKLanguage = true
 

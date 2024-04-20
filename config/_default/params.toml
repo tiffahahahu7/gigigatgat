@@ -38,7 +38,7 @@ smartTOCHideUnfocusedChildren = false
   layout = "page" # valid options: page, profile, hero, card, background, custom
   # homepageImage = "/img/forest.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 10
+  showRecentItems = 5
   showMoreLink = true
   showMoreLinkDest = "posts"
   cardView = false
@@ -47,8 +47,8 @@ smartTOCHideUnfocusedChildren = false
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showDateUpdated = false
   showAuthor = false
   showHero = true

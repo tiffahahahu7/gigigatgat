@@ -40,14 +40,9 @@
   weight = 50
 
 [[main]]
-  name = "Friends"
-  pageRef = "friends"
-  weight = 60
-
-[[main]]
   name = "About"
   pageRef = "about"
-  weight = 70
+  weight = 60
 
 #[[main]]
 #  name = "Merch"
@@ -68,7 +63,7 @@
 [[main]]
   identifier = "RSS"
   pre = "rss"
-  url = "https://tiffahahahu7.github.io/gigigatgat/index.xml"
+  url = "https://www.gigigatgat.ca/en/index.xml"
   weight = 200  
 
 

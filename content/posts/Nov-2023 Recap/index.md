@@ -4,8 +4,8 @@ date: 2023-11-30
 draft: false
 description: "十一月小結"
 slug: "nov 2023 recap"
-tags: ["每月小結", "加拿大", "書影音遊"]
-categories: ["Life"]
+tags: ["加拿大", "書影音遊"]
+categories: ["recap"]
 showComments: true
 showAuthor: false
 authors:

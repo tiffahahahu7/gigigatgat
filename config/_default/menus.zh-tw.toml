@@ -22,32 +22,38 @@
   weight = 20
 
 [[main]]
-  name = "廚房故事"
+  name = "每月小結"
   parent = "主頁"
-  pageRef = "categories/kitchen"
+  pageRef = "categories/recap"
   weight = 30
 
 [[main]]
-  name = "日常札記"
+  name = "人生札記"
   parent = "主頁"
   pageRef = "categories/life"
   weight = 40
 
 [[main]]
+  name = "廚房故事"
+  parent = "主頁"
+  pageRef = "categories/kitchen"
+  weight = 50
+
+[[main]]
   name = "萬物測評"
   parent = "主頁"
   pageRef = "categories/review"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "友情鏈接"
   pageRef = "friends"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "關於我們"
   pageRef = "about"
-  weight = 70
+  weight = 80
 
 #[[main]]
 #  name = "Merch"
@@ -68,7 +74,7 @@
 [[main]]
   identifier = "RSS"
   pre = "rss"
-  url = "https://tiffahahahu7.github.io/gigigatgat/zh-tw/index.xml"
+  url = "https://www.gigigatgat.ca/zh-tw/index.xml"
   weight = 200  
 
 # -- Footer Menu --
