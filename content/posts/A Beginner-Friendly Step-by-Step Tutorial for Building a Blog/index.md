@@ -4,7 +4,7 @@ date: 2023-11-04
 draft: false
 description: "How to create a blog using Hugo, the Blowfish Theme, and GitHub Pages"
 slug: "how to create a blog"
-tags: ["tutorial", "code", "hugo", "blog"]
+tags: ["tutorial", "code", "hugo", "github", "blog"]
 categories: ["Tech"]
 showComments: true
 authors:

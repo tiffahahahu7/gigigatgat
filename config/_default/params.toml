@@ -112,7 +112,10 @@ smartTOCHideUnfocusedChildren = false
   groupByYear = false
   cardView = true
   cardViewScreenWidth = false
-  
+
+[twikoo]
+  version = "1.6.32"
+
 [firebase]
   apiKey = "AIzaSyB2bYjnknhtJO93mOWz6BoibKtopHBE2Ig"
   authDomain = "gigigatgat-ffb92.firebaseapp.com"
