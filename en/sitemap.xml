@@ -129,19 +129,4 @@
       href="https://www.gigigatgat.ca/en/about/"
     />
   </url>
-  <url>
-    <loc>https://www.gigigatgat.ca/en/friends/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-TW"
-      href="https://www.gigigatgat.ca/friends/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://www.gigigatgat.ca/en/friends/"
-    />
-  </url>
 </urlset>

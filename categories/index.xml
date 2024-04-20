@@ -19,9 +19,19 @@
     </item>
     
     <item>
-      <title>日常札記</title>
-      <link>https://www.gigigatgat.ca/categories/life/</link>
+      <title>每月小結</title>
+      <link>https://www.gigigatgat.ca/categories/recap/</link>
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/categories/recap/</guid>
+      <description>Avocado&amp;rsquo;s Monthly Recap</description>
+      
+    </item>
+    
+    <item>
+      <title>人生札記</title>
+      <link>https://www.gigigatgat.ca/categories/life/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.gigigatgat.ca/categories/life/</guid>
       <description>Our Life and Thought Pieces</description>
