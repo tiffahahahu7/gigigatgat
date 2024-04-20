@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2023 嘰嘰乞乞</copyright>
-    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simplified Guide: Configuring a Custom Domain Name for GitHub Pages Site</title>
+      <link>https://www.gigigatgat.ca/posts/custom-domain-name/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/posts/custom-domain-name/</guid>
+      <description>Frankly speaking, I don&amp;rsquo;t like the official GitHub Doc on Configuring a custom domain for your GitHub Pages site.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/custom-domain-name/featured.jpg" />
+    </item>
+    
     <item>
       <title>How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok</title>
       <link>https://www.gigigatgat.ca/posts/host-restful-api-with-docker/</link>

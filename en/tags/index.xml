@@ -7,7 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 GiGiGatGat</copyright>
-    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>domain</title>
+      <link>https://www.gigigatgat.ca/en/tags/domain/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/en/tags/domain/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://www.gigigatgat.ca/en/tags/github/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/en/tags/github/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://www.gigigatgat.ca/en/tags/hugo/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/en/tags/hugo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://www.gigigatgat.ca/en/tags/tutorial/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/en/tags/tutorial/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>api</title>
       <link>https://www.gigigatgat.ca/en/tags/api/</link>
@@ -39,31 +79,11 @@
     </item>
     
     <item>
-      <title>tutorial</title>
-      <link>https://www.gigigatgat.ca/en/tags/tutorial/</link>
-      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gigigatgat.ca/en/tags/tutorial/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>blog</title>
       <link>https://www.gigigatgat.ca/en/tags/blog/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.gigigatgat.ca/en/tags/blog/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://www.gigigatgat.ca/en/tags/hugo/</link>
-      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gigigatgat.ca/en/tags/hugo/</guid>
       <description></description>
       
     </item>

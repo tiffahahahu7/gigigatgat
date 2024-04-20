@@ -3,24 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://www.gigigatgat.ca/en/posts/host-restful-api-with-docker/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-TW"
-      href="https://www.gigigatgat.ca/posts/host-restful-api-with-docker/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://www.gigigatgat.ca/en/posts/host-restful-api-with-docker/"
-    />
-  </url>
-  <url>
     <loc>https://www.gigigatgat.ca/en/posts/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -35,8 +19,24 @@
     />
   </url>
   <url>
+    <loc>https://www.gigigatgat.ca/en/posts/custom-domain-name/</loc>
+    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-TW"
+      href="https://www.gigigatgat.ca/posts/custom-domain-name/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://www.gigigatgat.ca/en/posts/custom-domain-name/"
+    />
+  </url>
+  <url>
     <loc>https://www.gigigatgat.ca/en/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -48,6 +48,22 @@
       rel="alternate"
       hreflang="en"
       href="https://www.gigigatgat.ca/en/"
+    />
+  </url>
+  <url>
+    <loc>https://www.gigigatgat.ca/en/posts/host-restful-api-with-docker/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-TW"
+      href="https://www.gigigatgat.ca/posts/host-restful-api-with-docker/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://www.gigigatgat.ca/en/posts/host-restful-api-with-docker/"
     />
   </url>
   <url>

@@ -190,7 +190,7 @@
     
     
     <div>
-        <a href="/en" class="flex">
+        <a href="/en/" class="flex">
             <span class="sr-only">GiGiGatGat</span>
 
             <img src="/img/logo.png" width="267" height="267"
@@ -202,7 +202,7 @@
     <div class="flex flex-1 items-center justify-between">
         <nav class="flex space-x-3">
 
-            <a href="/en" class="text-base font-medium text-gray-500 hover:text-gray-900">GiGiGatGat</a>
+            <a href="/en/" class="text-base font-medium text-gray-500 hover:text-gray-900">GiGiGatGat</a>
 
 
         </nav>
@@ -893,8 +893,6 @@
 
     
 
-    
-    
     
 
     
@@ -1662,23 +1660,24 @@ if (dbConnStr != null)
     <div class="pt-3">
       <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
       <div class="pt-3">
-        <div id="disqus_thread"></div>
-<script type="text/javascript">
+        
 
-(function() {
-    
-    
-    if (window.location.hostname == "localhost")
-        return;
 
-    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-    var disqus_shortname = 'gigigatgat';
-    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+<div>
+    <div id="tcomment"></div>
+    <script src="https://cdn.staticfile.org/twikoo/1.6.32/twikoo.all.min.js"></script>
+    <script>
+        twikoo.init({
+            envId: "https://gigigatgat.netlify.app/.netlify/functions/twikoo",
+            el: "#tcomment",
+            lang: 'en',
+            region: '',
+            path: window.TWIKOO_MAGIC_PATH||window.location.pathname,
+        });
+    </script>
+</div>
+
       </div>
     </div>
     

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>domain on GiGiGatGat</title>
+    <link>https://www.gigigatgat.ca/en/tags/domain/</link>
+    <description>Recent content in domain on GiGiGatGat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 GiGiGatGat</copyright>
+    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/en/tags/domain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simplified Guide: Configuring a Custom Domain Name for GitHub Pages Site</title>
+      <link>https://www.gigigatgat.ca/en/posts/custom-domain-name/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/en/posts/custom-domain-name/</guid>
+      <description>Frankly speaking, I don&amp;rsquo;t like the official GitHub Doc on Configuring a custom domain for your GitHub Pages site.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/en/posts/custom-domain-name/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

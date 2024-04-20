@@ -834,8 +834,6 @@
     
 
     
-    
-    
 
     
     
@@ -2039,23 +2037,24 @@
     <div class="pt-3">
       <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
       <div class="pt-3">
-        <div id="disqus_thread"></div>
-<script type="text/javascript">
+        
 
-(function() {
-    
-    
-    if (window.location.hostname == "localhost")
-        return;
 
-    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-    var disqus_shortname = 'gigigatgat';
-    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+<div>
+    <div id="tcomment"></div>
+    <script src="https://cdn.staticfile.org/twikoo/1.6.32/twikoo.all.min.js"></script>
+    <script>
+        twikoo.init({
+            envId: "https://gigigatgat.netlify.app/.netlify/functions/twikoo",
+            el: "#tcomment",
+            lang: 'en',
+            region: '',
+            path: window.TWIKOO_MAGIC_PATH||window.location.pathname,
+        });
+    </script>
+</div>
+
       </div>
     </div>
     
@@ -2159,7 +2158,7 @@
 </footer><div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="https://www.gigigatgat.ca"
+  data-url="https://www.gigigatgat.ca/"
   style="z-index:500"
 >
   <div

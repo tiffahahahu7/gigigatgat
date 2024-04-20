@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>github on GiGiGatGat</title>
+    <link>https://www.gigigatgat.ca/en/tags/github/</link>
+    <description>Recent content in github on GiGiGatGat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 GiGiGatGat</copyright>
+    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/en/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simplified Guide: Configuring a Custom Domain Name for GitHub Pages Site</title>
+      <link>https://www.gigigatgat.ca/en/posts/custom-domain-name/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/en/posts/custom-domain-name/</guid>
+      <description>Frankly speaking, I don&amp;rsquo;t like the official GitHub Doc on Configuring a custom domain for your GitHub Pages site.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/en/posts/custom-domain-name/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>A Beginner-Friendly Tutorial for Building a Blog with Hugo, the Blowfish Theme, and GitHub Pages</title>
+      <link>https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/</guid>
+      <description>Everyone deserves to own a blog. I&amp;rsquo;m here to help.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

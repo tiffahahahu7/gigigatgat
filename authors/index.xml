@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2023 嘰嘰乞乞</copyright>
-    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avocado (Tiffany)</title>
+      <link>https://www.gigigatgat.ca/authors/avocado/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/authors/avocado/</guid>
+      <description>你也喜歡牛油果嗎？</description>
+      
+    </item>
+    
     <item>
       <title>Sloth (Raymond)</title>
       <link>https://www.gigigatgat.ca/authors/sloth/</link>
@@ -15,16 +25,6 @@
       
       <guid>https://www.gigigatgat.ca/authors/sloth/</guid>
       <description>其實我也沒那麼懶。</description>
-      
-    </item>
-    
-    <item>
-      <title>Avocado (Tiffany)</title>
-      <link>https://www.gigigatgat.ca/authors/avocado/</link>
-      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gigigatgat.ca/authors/avocado/</guid>
-      <description>你也喜歡牛油果嗎？</description>
       
     </item>
     

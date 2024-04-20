@@ -12,7 +12,7 @@
   <meta name="title" content="A Beginner-Friendly Tutorial for Building a Blog with Hugo, the Blowfish Theme, and GitHub Pages &middot; GiGiGatGat" />
   
   <meta name="description" content="How to create a blog using Hugo, the Blowfish Theme, and GitHub Pages" />
-  <meta name="keywords" content="tutorial, code, hugo, blog, " />
+  <meta name="keywords" content="tutorial, code, hugo, github, blog, " />
   
   
   <link rel="canonical" href="https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/" />
@@ -97,7 +97,7 @@
     
     "dateModified": "2023-11-04T00:00:00\u002b00:00",
     
-    "keywords": ["tutorial","code","hugo","blog"],
+    "keywords": ["tutorial","code","hugo","github","blog"],
     
     "mainEntityOfPage": "true",
     "wordCount": "2885"
@@ -190,7 +190,7 @@
     
     
     <div>
-        <a href="/en" class="flex">
+        <a href="/en/" class="flex">
             <span class="sr-only">GiGiGatGat</span>
 
             <img src="/img/logo.png" width="267" height="267"
@@ -202,7 +202,7 @@
     <div class="flex flex-1 items-center justify-between">
         <nav class="flex space-x-3">
 
-            <a href="/en" class="text-base font-medium text-gray-500 hover:text-gray-900">GiGiGatGat</a>
+            <a href="/en/" class="text-base font-medium text-gray-500 hover:text-gray-900">GiGiGatGat</a>
 
 
         </nav>
@@ -865,6 +865,17 @@
 
   </span>
   
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/en/tags/github/&#34;,'_self');">
+    <span class="flex">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
+  >
+    github
+  </span>
+</span>
+
+  </span>
+  
   <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/en/tags/blog/&#34;,'_self');">
     <span class="flex">
   <span
@@ -893,8 +904,6 @@
 
     
 
-    
-    
     
 
     
@@ -2424,23 +2433,24 @@ git push -u origin gh-pages
     <div class="pt-3">
       <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
       <div class="pt-3">
-        <div id="disqus_thread"></div>
-<script type="text/javascript">
+        
 
-(function() {
-    
-    
-    if (window.location.hostname == "localhost")
-        return;
 
-    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-    var disqus_shortname = 'gigigatgat';
-    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+<div>
+    <div id="tcomment"></div>
+    <script src="https://cdn.staticfile.org/twikoo/1.6.32/twikoo.all.min.js"></script>
+    <script>
+        twikoo.init({
+            envId: "https://gigigatgat.netlify.app/.netlify/functions/twikoo",
+            el: "#tcomment",
+            lang: 'en',
+            region: '',
+            path: window.TWIKOO_MAGIC_PATH||window.location.pathname,
+        });
+    </script>
+</div>
+
       </div>
     </div>
     
