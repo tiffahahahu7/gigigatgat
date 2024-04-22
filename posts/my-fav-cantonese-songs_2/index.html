@@ -169,6 +169,7 @@ if(host != "localhost")
            {
               clearInterval(int); 
               $("#busuanzi_value_site_uv").html(parseInt($("#busuanzi_value_site_uv").html()) + busuanziVisitorOffset);
+              $("#busuanzi_value_site_pv").html(parseInt($("#busuanzi_value_site_pv").html()) + busuanziVisitorOffset);
          }  
      }           
     });
@@ -1838,8 +1839,8 @@ if(host != "localhost")
     
   
   
-  <p class="text-sm text-neutral-500 dark:text-neutral-400">
-    This blog is live for <span id="runningdays" class="running-days"></span> and counting, <span id="busuanzi_container_site_uv" style='display:none'>with <span id="busuanzi_value_site_uv"></span> visitors</span>.
+  <p class="text-sm mb-1 text-neutral-500 dark:text-neutral-400">
+    This blog is live for <span id="runningdays" class="running-days"></span> and counting, <span id="busuanzi_container_site_uv" style='display:none'>with <span id="busuanzi_value_site_uv"></span> visitors</span> and <span id="busuanzi_container_site_pv" style='display:none'>with <span id="busuanzi_value_site_pv"></span> views</span>.
   </p>
   <div class="flex items-center justify-between">
   
