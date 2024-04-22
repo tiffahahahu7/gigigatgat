@@ -157,8 +157,8 @@ if(host != "localhost")
        function fixCount() {                   
          if ($("#busuanzi_container_site_uv").css("display") != "none")
            {
-              $("#busuanzi_value_site_uv").html(parseInt($("#busuanzi_value_site_uv").html()) + busuanziVisitorOffset);
               clearInterval(int); 
+              $("#busuanzi_value_site_uv").html(parseInt($("#busuanzi_value_site_uv").html()) + busuanziVisitorOffset);
          }  
      }           
     });
