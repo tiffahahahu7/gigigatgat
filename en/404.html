@@ -133,11 +133,9 @@ if(host != "localhost")
       var busuanziSiteOffset =  1434 ;
       var busuanziVisitorOffset =  755 ;
       function fixCount() {
-        if ($("#busuanzi_container_site_pv").css("display") != "none") {
-          clearInterval(int);
+        clearInterval(int);
           $("#busuanzi_value_site_pv").html(parseInt($("#busuanzi_value_site_pv").html()) + busuanziSiteOffset);
           $("#busuanzi_value_site_uv").html(parseInt($("#busuanzi_value_site_uv").html()) + busuanziVisitorOffset);
-        }
       }
     });
   </script>
