@@ -116,6 +116,11 @@ smartTOCHideUnfocusedChildren = false
 [twikoo]
   version = "1.6.32"
 
+[busuanzi]
+  enabled = true
+  site_offset = 1434
+  visitor_offset = 755
+
 [firebase]
   apiKey = "AIzaSyB2bYjnknhtJO93mOWz6BoibKtopHBE2Ig"
   authDomain = "gigigatgat-ffb92.firebaseapp.com"
