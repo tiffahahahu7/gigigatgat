@@ -37,20 +37,21 @@ disqusShortname = 'gigigatgat'
   home = ["HTML", "RSS", "JSON"]
 
 [related]
+  includeNewer = true
   threshold = 0
   toLower = false
 
     [[related.indices]]
         name = "tags"
-        weight = 1
+        weight = 5
 
     [[related.indices]]
         name = "categories"
-        weight = 10
+        weight = 15
 
     [[related.indices]]
         name = "series"
-        weight = 10
+        weight = 20
 
     [[related.indices]]
         name = "authors"
