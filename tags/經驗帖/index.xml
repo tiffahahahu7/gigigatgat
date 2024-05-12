@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>經驗帖 on 嘰嘰乞乞</title>
+    <link>https://www.gigigatgat.ca/tags/%E7%B6%93%E9%A9%97%E5%B8%96/</link>
+    <description>Recent content in 經驗帖 on 嘰嘰乞乞</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <copyright>© 2023 嘰嘰乞乞</copyright>
+    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/tags/%E7%B6%93%E9%A9%97%E5%B8%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>牙齒當金洗——口腔護理那些事</title>
+      <link>https://www.gigigatgat.ca/posts/toothcare/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/posts/toothcare/</guid>
+      <description>第一次聽「牙齒當金洗</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/toothcare/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>加拿大Co-op經驗談</title>
+      <link>https://www.gigigatgat.ca/posts/coop-sharing/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/posts/coop-sharing/</guid>
+      <description>祝大家都能順利上車下</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/coop-sharing/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
