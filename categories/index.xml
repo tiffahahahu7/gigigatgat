@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2023 嘰嘰乞乞</copyright>
-    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>每月小結</title>
+      <link>https://www.gigigatgat.ca/categories/recap/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/categories/recap/</guid>
+      <description>Avocado&amp;rsquo;s Monthly Recap</description>
+      
+    </item>
+    
     <item>
       <title>人生札記</title>
       <link>https://www.gigigatgat.ca/categories/life/</link>
@@ -15,16 +25,6 @@
       
       <guid>https://www.gigigatgat.ca/categories/life/</guid>
       <description>Our Life and Thought Pieces</description>
-      
-    </item>
-    
-    <item>
-      <title>每月小結</title>
-      <link>https://www.gigigatgat.ca/categories/recap/</link>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gigigatgat.ca/categories/recap/</guid>
-      <description>Avocado&amp;rsquo;s Monthly Recap</description>
       
     </item>
     
