@@ -18,5 +18,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/2024-new-year-resolutions/featured.jpg" />
     </item>
     
+    <item>
+      <title>寫在最後一天匆匆忙忙的十二月小結</title>
+      <link>https://www.gigigatgat.ca/posts/dec-2023-recap/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/posts/dec-2023-recap/</guid>
+      <description>新年快樂！ 十二月太忙</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/dec-2023-recap/featured.jpg" />
+    </item>
+    
   </channel>
 </rss>
