@@ -7,26 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2023 嘰嘰乞乞</copyright>
-    <lastBuildDate>Sun, 11 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/categories/review/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>低消費慾人群的超市回購清單 - Grocery</title>
-      <link>https://www.gigigatgat.ca/posts/grocery-shopping/</link>
-      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gigigatgat.ca/posts/grocery-shopping/</guid>
-      <description>#Blog逛超市安利</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/grocery-shopping/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Tim Hortons菜單不完全點評</title>
-      <link>https://www.gigigatgat.ca/posts/tim-hortons-menu/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gigigatgat.ca/posts/tim-hortons-menu/</guid>
-      <description>來加拿大了怎麼也要試</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/tim-hortons-menu/featured.jpg" />
-    </item>
-    
+    <atom:link href="https://www.gigigatgat.ca/categories/review/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
