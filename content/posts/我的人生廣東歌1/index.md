@@ -46,7 +46,7 @@ authors:
 
 這首歌像是我在逆境時期的精神支柱，要說雞湯也有些雞湯，但我和黃偉文絕不是要弘揚吃苦文化哈。《苦瓜》的角度更多是苦盡甘來之後，莞爾一笑，已與往日和解的灑脫開懷。`「珍惜淡定的心境 苦過後更加清 萬般過去亦無味但有領會留下」`現在回頭看去，所謂的正道歧途，高山低谷，我不後悔我走過的任何一段路。該玩的我已玩過了，該學的我已學過了，捱過的苦不覺得太差，花心的甜蜜也不致太寡。我慶幸我是這樣長大的。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UdWlBBqiC7I?si=SLrj4z8euw2N-F6m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/UdWlBBqiC7I?si=SLrj4z8euw2N-F6m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 《美麗新香港》
 演唱：何韻詩<br>
@@ -61,7 +61,7 @@ authors:
 
 `「這香港已不是我的地頭 就當我在外地飄流」`，九年前的詞作放在當下也是如此應景，選擇漂流外地的人也越來越多。就是帶著對香港的企盼前來的非港人，屁股還沒坐熱也急匆匆地趕著要走了。並非不留戀香港，只是失去了我們想要的香港。`「我知已走到盡頭 為何還要擔憂  這世界也不是我的地頭 就當我在宇宙飄流」`。心裡牽繫的地方，境況再差也捨不下那分在意。離散在外，對香港的情感和認同又能在世界的哪個角落復刻呢？不怕被笑，就算我只在香港暫居了四年，我心中對這個城市的歸屬感也是其它任何一個城市都不能比擬的。家鄉城市閒適安逸，卻不及香港鮮活有心氣。只是這個璀璨都市光輝到此，和許許多多人一樣，我們都成了在宇宙漂流的異鄉人。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F1YfmapaLR4?si=K-yZZ89RfbVJqwfZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/F1YfmapaLR4?si=K-yZZ89RfbVJqwfZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 這首演唱會版本的《美麗新香港》的特別之處是，它以《東方之珠》為前奏，《鐵塔凌雲》為間奏，最後以英國國歌《God Save The Queen》到中國國歌《義勇軍進行曲》的承接作為收尾。
 
@@ -86,7 +86,7 @@ authors:
 
 我怎麼能不愛上這樣的人！我怎麼能不被吸引著模仿她的心氣風骨靈魂。聽《滿地可》，我一見鍾情的Live版本是2013 Memento演唱會。用手機錄了存在本地視頻裡，離家飛加拿大的那趟航班上，我就手動反覆循環這段視頻。只聽是不夠的，我愛極了唱到最後一段副歌（YouTube視頻版本7:40）時她的一舒眉一頓首，那樣坦蕩張揚的堅毅神情。我想著我是怎樣走來，又要往哪裡行去，我知道我是如何私自做了人生最重大決定，我想象我將如何一力闖蕩屬於我定義的生活，我許願我留下的也是她那樣的神情。問心無愧，邁步無悔，心志無改。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p6WEuB1U0xc?si=KzUrBI-38-LmhMye&amp;start=212" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/p6WEuB1U0xc?si=KzUrBI-38-LmhMye&amp;start=212" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <hr>
 

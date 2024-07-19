@@ -49,7 +49,7 @@ authors:
 
 我也很喜歡原唱盧巧音的聲線，搭配這首歌的意境非常合適：既有一種「遙遠星體所派來的」出世的距離感，又帶著股悲天憫人的哀愁和棱角分明的堅硬。哎呀我嘴真笨。這不是最好的形容，那些感受非得你自己聽過不可。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F-HJwJ0r5Ns?si=Xk3qIZAr9OwasFIj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/F-HJwJ0r5Ns?si=Xk3qIZAr9OwasFIj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 有些我也未明白，猶幸我懂得怎麽愛你，猶幸世上有這首歌。
 
@@ -72,7 +72,7 @@ authors:
 
 這首Live的最後，楊千嬅還唱著`我只盼今生可釋懷 記掛與你分享的天涯 和你結過那些黨派`，黃偉文就乘坐升降台上了舞台，抱著紫色花束，穿著野孩子圖案的衣服。楊小姐幾乎是泣不成聲地唱完`你是最好那段債`。
 
-<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=248765725&bvid=BV1Jv411W7ks&cid=359897509&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="100%" height="315" src="//player.bilibili.com/player.html?aid=248765725&bvid=BV1Jv411W7ks&cid=359897509&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 《再不再見》
 演唱：C ALLSTAR<br>
@@ -93,7 +93,7 @@ authors:
 
 點擊收看四個天線寶寶唱分手情歌👇
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1kenSheA9o0?si=ilB0aoSflSkqYF2z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/1kenSheA9o0?si=ilB0aoSflSkqYF2z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 《給十年後的我》
 演唱：何韻詩 蘇永康 黃耀明 容祖兒 陳奕迅 薛凱琪 黃偉文<br>
@@ -107,4 +107,4 @@ authors:
 
 2012 Concert YY曾經有個十年之約，這十年間物是人非，2022還是我們何韻詩在黃偉文生日時搞了一個“YY之夜”線上演出，最後以獨唱這首《給十年後的我》收尾（可惡，想喊，她好細膩）。她在唱完後說，「我覺得人生最快樂的，是你行每一步，都是好穩、好confirmed地，可以跟自己說，我知道自己在做什麼，而是無悔的。」 我希望這也會是我每一個十年的答案。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M0gT5IDH0So?si=nYzCJ9tsDbOflYHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/M0gT5IDH0So?si=nYzCJ9tsDbOflYHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

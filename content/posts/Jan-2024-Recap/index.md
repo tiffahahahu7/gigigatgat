@@ -4,7 +4,7 @@ date: 2024-01-31
 draft: false
 description: "一月小結"
 slug: "jan 2024 recap"
-tags: ["加拿大", "coop", "二手經濟", "博客裝修"]
+tags: ["coop", "博客裝修", "書影音遊"]
 categories: ["recap"]
 showComments: true
 showAuthor: false

@@ -40,7 +40,7 @@
   weight = 50
 
 [[main]]
-  name = "萬物測評"
+  name = "測評筆記"
   parent = "主頁"
   pageRef = "categories/review"
   weight = 60

@@ -4,8 +4,8 @@ date: 2024-01-12
 draft: false
 description: "Tim Hortons菜單不完全點評"
 slug: "tim hortons menu"
-tags: ["Tim Hortons", "吃吃喝喝", "加拿大"]
-categories: ["Review"]
+tags: ["吃吃喝喝", "加拿大"]
+categories: ["review"]
 showComments: true
 showAuthor: false
 authors:

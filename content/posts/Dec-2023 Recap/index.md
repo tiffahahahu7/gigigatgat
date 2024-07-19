@@ -4,7 +4,7 @@ date: 2023-12-31
 draft: false
 description: "十二月小結"
 slug: "dec 2023 recap"
-tags: ["開車", "東京", "加拿大"]
+tags: ["東京", "新年"]
 categories: ["recap"]
 showComments: true
 showAuthor: false

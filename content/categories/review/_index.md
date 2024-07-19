@@ -1,5 +1,5 @@
 ---
-title: "萬物測評"
+title: "測評筆記"
 description: "Commentary on our selections"
 
 cascade:

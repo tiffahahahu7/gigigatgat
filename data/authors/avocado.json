@@ -3,8 +3,8 @@
     "image" : "img/avocado_avatar.png",
     "bio": "重啟人生進行時",
     "social": [
-        { "email": "mailto:tiffahahahu7@gmail.com" },
         { "mastodon": "https://mastodon.social/@siumai@unstable.icu" },
+        { "email": "mailto:tiffahahahu7@gmail.com" },
         { "github": "https://github.com/tiffahahahu7" }
     ]
 }

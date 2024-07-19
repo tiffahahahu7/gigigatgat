@@ -4,7 +4,7 @@ date: 2023-10-27
 draft: false
 description: "譚仔三哥米線食譜"
 slug: "tamjai samgor rice noodle"
-tags: ["米線", "香港"]
+tags: ["吃吃喝喝", "香港"]
 categories: ["Kitchen"]
 showComments: true
 showAuthor: false

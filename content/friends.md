@@ -25,6 +25,7 @@ showComments: true
 - <a href="https://blog.asyncx.top/">AsyncX</a>：我宣布這是我的技術向偶像，想學Astro建站的看這裡
 - <a href="https://sanguok.com/">山月</a>：博客老人，關鍵詞掃描：日本｜語言｜詩歌｜摩爾莊園（亂入）
 - <a href="https://www.after27.me/">AFTER 27</a>：會寫獨樹一幟的每月消費總結系列，從帳單裡追溯生活和安利單品
+- <a href="https://www.chicheng.run/">非池中物</a>：熱烈的寫作者，關心女性、移民、語言和任何她覺得有意思的事
 
 ## Reading List
 還不好意思啟齒加友鏈但很愛看的博客清單：

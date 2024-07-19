@@ -5,7 +5,7 @@ draft: false
 description: "低消費慾人群的超市回購清單 - Grocery"
 slug: "grocery shopping"
 tags: [ "加拿大", "逛超市", "吃吃喝喝"]
-categories: ["Review"]
+categories: ["review"]
 showComments: true
 showAuthor: false
 authors:

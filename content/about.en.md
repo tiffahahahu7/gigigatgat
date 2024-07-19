@@ -33,8 +33,7 @@ const Avocado = {
         { name: "French", level: "Beginner" }, //A2 in Duolingo
         { name: "Japanese", level: "Beginner" }
     ],
-    hobbies: ["Cooking", "Theater", "Plants", "Pokemon", "Reading others' blogs"],
-    skills: ["HTML", "CSS", "JavaScript", "PHP", "React", "C#", "ASP.NET"]
+    hobbies: ["Cooking", "Theater", "Plants", "Pokemon", "Reading others' blogs"]
 };
 ```
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1F-0INY2Xf_2fEAfuF3o0C1v-XE7FKXk&ehbc=2E312F&noprof=1" width="100%" height="320"></iframe>
@@ -50,8 +49,7 @@ const Sloth = {
         { name: "Cantonese", level: "Fluent" },         
         { name: "Mandarin", level: "Fluent" }, //not as good as Avocado
     ],
-    hobbies: ["Football", "Video Games", "Music", "Gym", "Pokemon"],
-    skills: ["HTML", "CSS", "JavaScript", "PHP", "React", "C#", "ASP.NET"]    
+    hobbies: ["Football", "Video Games", "Music", "Gym", "Pokemon"] 
 };
 ```
 Here it is. You may find our individual blogs in the `Authors` section of the footer menu below.
