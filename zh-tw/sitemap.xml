@@ -4,7 +4,7 @@
 
   <url>
     <loc>https://www.gigigatgat.ca/posts/</loc>
-    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://www.gigigatgat.ca/</loc>
-    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -33,6 +33,12 @@
       hreflang="zh-TW"
       href="https://www.gigigatgat.ca/"
     />
+  </url>
+  <url>
+    <loc>https://www.gigigatgat.ca/posts/show-your-work/</loc>
+    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.gigigatgat.ca/posts/steal-like-an-artist/</loc>
