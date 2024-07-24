@@ -66,15 +66,9 @@
 #  weight = 1000
 
 [[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/tiffahahahu7/gigigatgat"
-  weight = 100
-
-[[main]]
   identifier = "RSS"
   pre = "rss"
-  url = "https://www.gigigatgat.ca/zh-tw/index.xml"
+  url = "https://www.gigigatgat.ca/index.xml"
   weight = 200  
 
 # -- Footer Menu --
