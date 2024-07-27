@@ -49,7 +49,9 @@
   <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.9f9186689db8717e1895d3859e2755a912f5133140309e8d2a1de1815b1a002554cd1eea9ae5e158375e5c3d71ab5e02638810baeb440d97d348b3d77119fa9e.js"
     integrity="sha512-n5GGaJ24cX4YldOFnidVqRL1EzFAMJ6NKh3hgVsaACVUzR7qmuXhWDdeXD1xq14CY4gQuutEDZfTSLPXcRn6ng==" data-copy="" data-copied=""></script>
   
+  
   <script src="/js/zoom.min.js"></script>
+  
   
   
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
@@ -150,27 +152,7 @@
   
   
   <meta name="theme-color"/>
-  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-  <meta name="referrer" content="no-referrer-when-downgrade">
   
-  
-  
-  <script src="//cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
-  <script >
-    $(document).ready(function() {
-        var int = setInterval(fixCount, 50);
-        var busuanziSiteOffset =  1434 ;
-        var busuanziVisitorOffset =  755 ;
-       function fixCount() {                   
-         if ($("#busuanzi_container_site_uv").css("display") != "none")
-           {
-              clearInterval(int); 
-              $("#busuanzi_value_site_uv").html(parseInt($("#busuanzi_value_site_uv").html()) + busuanziVisitorOffset);
-              
-         }  
-     }           
-    });
-</script>
   
   
   <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
@@ -2461,7 +2443,7 @@ if (dbConnStr != null)
   
   <p class="text-sm mb-1 mr-5 text-neutral-500 dark:text-neutral-400">
     This blog is live for <span id="runningdays" class="running-days"></span> and counting.
-    <span id="busuanzi_container_site_uv" style='display:none'>You're the <span id="busuanzi_value_site_uv"></span><sup>th</sup> visitor to this space</span>.
+    
   </p>
   <div class="flex items-center justify-between">
   
