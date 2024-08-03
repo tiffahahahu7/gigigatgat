@@ -34,16 +34,16 @@ PS: 這個papermod主題的博客在搭建和定製過程中主要參考了[Kyxi
 - [勇悍·27——看向鏡中的自己](https://www.gigigatgat.ca/posts/27-birthday-reflection/)：我寫得很慢，了解自己並不是一個水到渠成的過程。但寫完會覺得——是的，這就是我鏡子裡的樣子。如果誰想從我的視角看見我，誰想偶爾關心下我的近況和變化，看這篇文就夠了。讓我更加滿足的是文章發布後收到的回應，特別是很多年沒有聯繫的舊友發了百來字的消息分享她和我的共鳴，她真誠地為我高興，說能感受到從我的文字裡有「一種韌勁」。There's nothing more precious than this kind of connection we made through writing.
 ## 書影音遊
 ### 書籍
-{{< neodb "https://neodb.social/book/5wZiZnoaM0d0LPD4G4e81F" >}}
+{{< neodb "https://neodb.social/book/5wZiZnoaM0d0LPD4G4e81F" "9">}}
 非常簡單易讀的一本小書，有許多個讓我覺得茅塞頓開的啟發時刻。我甚至連讀了兩遍：第一遍通讀，第二遍做讀書筆記。讀書筆記我整理整理再發，整本書最核心的觀念就如書名所寫：Steal Like An Artist。作者主張世界上沒有任何觀念、創意、作品是憑空出現的，它們都是不同來源相互影響和糅合的結果。「從零開始」往往叫人茫然無措，但我們應該做的只是時刻留心「什麼值得偷」，什麼值得成為我的養分，怎麼結合會碰撞出新的可能。「You are a mashup of what you choose to let into your life. 」
 
 我一邊讀一邊想起何韻詩的新歌《本世紀最怪》，她在[創作手記](https://hocc.substack.com/p/a11)裡也提到這首歌屬於「曲詞collage實驗創作」，聆聽周圍、拼貼組合的創作過程不也是「Steal Like An Artist」的概念映照嗎？
 
-{{< neodb "https://neodb.social/book/7j5UkSAtrCgXaa43eVIr5x" >}}
+{{< neodb "https://neodb.social/book/7j5UkSAtrCgXaa43eVIr5x" "8">}}
 是前一本書作者的續作，兩本書無縫銜接上了。一本教你怎麼steal from others，一本教你share your work to let others steal from you。我才讀了一半，但目前已經有的一個想法是改造這個博客的英文版——我想明白我不需要一個中文博客的英文對照版，有相同的版面類別卻沒有對應的內容毫無意義。我應該用它承載更多細碎的、側面的我：我正在設計的sticker，我新學到的git command，我製作的trivia game⋯⋯如果我覺得它有趣或者有用，它就不是不值一提。我想要重設一個從英文世界了解我的窗口，比現在這個中文blog輕快，比portfolio不正經。嘗試一下吧！
 ### 綜藝
-{{< neodb "https://neodb.social/tv/season/5VjySPHAJ6o0B4AM3Tjby8" >}}
+{{< neodb "https://neodb.social/tv/season/5VjySPHAJ6o0B4AM3Tjby8" "6">}}
 又是一個看簡介都讓人腳趾抓地的東西（SORRY）。播出前對它的期待值很高，嘉賓看起來大部分都願意動腦子，先導遊戲和第一期的禁閉逃殺也確實非常好看，特別是禁閉逃殺，有種套著PUBG世界觀的生存類桌遊即視感，讓我也好心癢好想上手自己玩。可惜第二期就開始拉垮，主要是遊戲設置不行，不是規則越複雜計算量越多就顯得你這個遊戲多聰明的，原創腦綜還是需要一定標準的製作門檻！
 ### 遊戲
-{{< neodb "https://neodb.social/game/79Id9YxczIJAjDQTB7rijK" >}}
+{{< neodb "https://neodb.social/game/79Id9YxczIJAjDQTB7rijK" "9">}}
 上癮中，每天不玩一兩個小時收集幾十個月亮我是不會罷休的。Switch顯示我這個月已經玩了50個小時⋯⋯這一段寫到這裡為止是因為我又想去找月亮了。拜拜！

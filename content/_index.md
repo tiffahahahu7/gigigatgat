@@ -10,5 +10,5 @@ description: "Avocado和Sloth的博客"
 &#129445;&nbsp;**Sloth (Raymond):** INFP，痴迷足球和打機，身份是值得尊重的大師級廚房助手
 
 {{<alert "circle-info" >}}
-本站英文界面只包含英文內容，中文界面則會包含中英文在內的所有內容。
+本站[RSS](https://www.gigigatgat.ca/index.xml)地址已更新，麻煩讀者朋友們重新訂閱一次喔！
 {{</alert>}}

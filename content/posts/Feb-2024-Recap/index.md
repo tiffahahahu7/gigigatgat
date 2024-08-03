@@ -40,17 +40,17 @@ authors:
 - **新添neoDB卡片**：從椒老師的裝修博客種草，然後追蹤到了另一個博客裡的這篇[教程](https://www.sleepymoon.cyou/2023/hugo-shortcodes/#%E5%BC%95%E7%94%A8neodb%E6%9D%A1%E7%9B%AE)，立刻抄上了！第一次整短代碼開頭還有點懵，但找對文件需要儲存的地址一切就迎刃而解了！`neodb.html`要存在`layouts/shortcodes`文件夾，css要存在`assets/css/custom.css`，路徑上哪個folder本來沒有就新建一個，done！
 ## 書影音遊
 ### 書籍
-{{< neodb "https://neodb.social/book/2pwJOlACQV7i5ZEABhNCCx" >}}
+{{< neodb "https://neodb.social/book/2pwJOlACQV7i5ZEABhNCCx" "7">}}
 讀了大概一半，很通俗易讀的歷史讀物。讀這本書之前我對乾隆的印象大概還停留在還珠格格的皇阿瑪= =現在會有一個更立體的理解：精明而殘忍，偽善而刻薄。讀的過程中數度嘆了好多口長氣，書中描繪出的高壓的專制氛圍，那麼遠那麼近，我們依然陷在歷史的泥坑裡爬不出去。
 ### 電影
-{{< neodb "https://neodb.social/movie/4IACvFW36JmnFsDtkH41oN" >}}
+{{< neodb "https://neodb.social/movie/4IACvFW36JmnFsDtkH41oN" "8">}}
 電影比這一句話的簡介好看很多。與其說它是一部愛情片，我會覺得它明明是更聚焦於Nora自我的移民文藝片。出走了的人，我們怎麼回頭看我們的來路，我們怎麼繼續我們的選擇，我們內心深處那些細膩、敏感、隱忍而充沛的情感，都是可以投射在這部電影中的。
-{{< neodb "https://neodb.social/movie/6rjVMh6bdr8u0LJBAKf8Td" >}}
+{{< neodb "https://neodb.social/movie/6rjVMh6bdr8u0LJBAKf8Td" "7">}}
 期望值設太高了未免有點失望，但——確實需要這樣的電影來記錄和傳播曾經切實發生的事，英雄牆和恥辱柱上的人。喜歡結尾合照對新政府/草台班子成員逐一定格放大介紹的畫面設計，沒有畫外音但觀眾腦子裡會自動配音：你們這群垃圾。
 ### 動漫
-{{< neodb "https://neodb.social/tv/season/2fz0gufUf60dLk8QeJ2K54" >}}
-{{< neodb "https://neodb.social/tv/season/74ZQUjZuJK8tQdhCNcWrBm" >}}
+{{< neodb "https://neodb.social/tv/season/2fz0gufUf60dLk8QeJ2K54" "8">}}
+{{< neodb "https://neodb.social/tv/season/74ZQUjZuJK8tQdhCNcWrBm" "8">}}
 連著追完了兩季，很有意思的世界觀設定：草食和肉食動物共生的世界裡，肉食動物要如何面對自己的食肉本能，草食動物要如何平視自己的位置。它讓人不可避免地聯想、反思社會關係中強勢和弱勢、男性和女性的連結和矛盾，但又能完全跳脫出來在動物的話語裡自成體系——難以用人的道德倫理去理解的時候，不如回歸到動物的邏輯再試試。
 ### 綜藝
-{{< neodb "https://neodb.social/tv/season/7TWioloI9BLwk7h6EahBEY" >}}
+{{< neodb "https://neodb.social/tv/season/7TWioloI9BLwk7h6EahBEY" "7">}}
 救命這個簡介也太讓人尷尬了⋯⋯拋去那些必須被植入的中國特色宣傳元素（我的眼睛已經學會自動過濾了），我還是看得很開心的。0713 vs 院人，兩邊都是很放得開又有腦子的內娛活人，愛看，尤其愛看南北在高強度的節目節奏裡互信互賴的樣子。有南北/院人的綜藝就有我，我這~~半生~~四年算是被芒果坑進去了。
