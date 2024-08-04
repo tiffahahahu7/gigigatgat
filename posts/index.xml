@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2023 嘰嘰乞乞</copyright>
-    <lastBuildDate>Sat, 27 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twikoo評論系統的個性化設置</title>
+      <link>https://www.gigigatgat.ca/posts/twikoo-tutorial/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/posts/twikoo-tutorial/</guid>
+      <description>Twikoo評論系統</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/twikoo-tutorial/featured.png" />
+    </item>
+    
     <item>
       <title>七月｜經驗值進度條逐格前進</title>
       <link>https://www.gigigatgat.ca/posts/jul-2024-recap/</link>
