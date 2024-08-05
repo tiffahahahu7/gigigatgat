@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.77ba6485aa6a32410dfe593b817e24cc5a1b351c14672f80179797917d154c4280060d1eb29511fea71cbc135deb3cc9e758373e14cb308bd943f3ba1273595f.css"
-    integrity="sha512-d7pkhapqMkEN/lk7gX4kzFobNRwUZy&#43;AF5eXkX0VTEKABg0espUR/qccvBNd6zzJ51g3PhTLMIvZQ/O6EnNZXw==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.55cac645231d6eeed7fe42e64154a0befaca08aeca4a46316f899b8177ae8ed046fcf312b249db3e896769e28960d4919e0dbde2b9b0a6a6eb2bb0b22d39f68b.css"
+    integrity="sha512-VcrGRSMdbu7X/kLmQVSgvvrKCK7KSkYxb4mbgXeujtBG/PMSsknbPolnaeKJYNSRng294rmwpqbrK7CyLTn2iw==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -104,7 +104,7 @@
     "keywords": ["博客裝修","blog","tutorial"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "1841"
+    "wordCount": "1972"
   }]
   </script>
 
@@ -733,7 +733,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-08-03 00:00:00 &#43;0000 UTC">3 August 2024</time><span class="px-2 text-primary-500">&middot;</span><span>1841 字</span><span class="px-2 text-primary-500">&middot;</span><span title="預計閱讀時間">4 分鐘</span><span class="px-2 text-primary-500">&middot;</span><span>
+  <time datetime="2024-08-03 00:00:00 &#43;0000 UTC">3 August 2024</time><span class="px-2 text-primary-500">&middot;</span><span>1972 字</span><span class="px-2 text-primary-500">&middot;</span><span title="預計閱讀時間">4 分鐘</span><span class="px-2 text-primary-500">&middot;</span><span>
   
   
     
@@ -990,6 +990,7 @@
       <ul>
         <li><a href="#搜索目標表情包及其url">搜索目標表情包及其URL</a></li>
         <li><a href="#編輯owojson文件">編輯<code>owo.json</code>文件</a></li>
+        <li><a href="#修改css">修改css</a></li>
         <li><a href="#上傳並設置emoji-cdn">上傳並設置Emoji CDN</a></li>
       </ul>
     </li>
@@ -1017,6 +1018,7 @@
       <ul>
         <li><a href="#搜索目標表情包及其url">搜索目標表情包及其URL</a></li>
         <li><a href="#編輯owojson文件">編輯<code>owo.json</code>文件</a></li>
+        <li><a href="#修改css">修改css</a></li>
         <li><a href="#上傳並設置emoji-cdn">上傳並設置Emoji CDN</a></li>
       </ul>
     </li>
@@ -1231,6 +1233,23 @@
   }
 </code></pre><p>在此基礎上對表情包刪刪改改就行了。建議將每個系列的表情包長度控制在三四十個以內就好，太多選擇既無謂又影響加載速度。如果沒有接觸過json語法的話，可以搜一個JSON Formatter &amp; Validator來確認或者直接丟給chatGPT勘誤。</p>
 
+
+<h3 class="relative group">修改css 
+    <div id="%E4%BF%AE%E6%94%B9css" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E4%BF%AE%E6%94%B9css" aria-label="定位點">#</a>
+    </span>        
+    
+</h3>
+<p>如果不修改css，像blobcat這樣以圖片格式出現的表情包就會是單獨佔整行的block element，很影響使用體驗。我在<code>assets/css/custom.css</code>（具體地址和文件可能因主題不同有所區別）裡添加了如下代碼就解決了：</p>
+<pre tabindex="0"><code>.tk-content img {
+    display: inline;
+    vertical-align: bottom !important;
+}
+</code></pre>
 
 <h3 class="relative group">上傳並設置Emoji CDN 
     <div id="%E4%B8%8A%E5%82%B3%E4%B8%A6%E8%A8%AD%E7%BD%AEemoji-cdn" class="anchor"></div>
