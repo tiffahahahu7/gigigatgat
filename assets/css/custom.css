@@ -49,3 +49,34 @@
     /* modern browser */
     color: #808093 !important;
 }
+
+
+/*friends*/
+.friends{
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+.friend-card{
+    width: 100%;
+    padding: 0 12px;
+    @media (min-width: 768px) {
+        width: calc( 50% - 8px);
+    }
+}
+
+.friend-card a{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+
+.friend-card .card-image{
+    width: 48px;
+}
+
+.tk-content img {
+    display: inline;
+    vertical-align: bottom !important;
+}

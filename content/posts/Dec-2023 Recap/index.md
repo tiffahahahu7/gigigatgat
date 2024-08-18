@@ -6,6 +6,8 @@ description: "十二月小結"
 slug: "dec 2023 recap"
 tags: ["東京", "新年"]
 categories: ["recap"]
+aliases:
+- /zh-tw/posts/dec-2023-recap/
 showComments: true
 showAuthor: false
 authors:

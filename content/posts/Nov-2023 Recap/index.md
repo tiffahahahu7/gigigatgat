@@ -6,6 +6,8 @@ description: "十一月小結"
 slug: "nov 2023 recap"
 tags: ["加拿大", "書影音遊"]
 categories: ["recap"]
+aliases:
+- /zh-tw/posts/dec-2023-recap/
 showComments: true
 showAuthor: false
 authors:

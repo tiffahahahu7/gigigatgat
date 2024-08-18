@@ -6,6 +6,8 @@ description: "How to create a blog using Hugo, the Blowfish Theme, and GitHub Pa
 slug: "how to create a blog"
 tags: ["tutorial", "code", "hugo", "github", "blog"]
 categories: ["Tech"]
+aliases:
+- /zh-tw/posts/how-to-create-a-blog/
 showComments: true
 authors:
   - "avocado"

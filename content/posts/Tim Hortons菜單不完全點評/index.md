@@ -6,6 +6,8 @@ description: "Tim Hortons菜單不完全點評"
 slug: "tim hortons menu"
 tags: ["吃吃喝喝", "加拿大"]
 categories: ["review"]
+aliases:
+- /zh-tw/posts/tim-hortons-menu/
 showComments: true
 showAuthor: false
 authors:

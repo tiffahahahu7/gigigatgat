@@ -6,6 +6,8 @@ description: "二月小結"
 slug: "feb 2024 recap"
 tags: ["書影音遊", "博客裝修", "coop"]
 categories: ["recap"]
+aliases:
+- /zh-tw/posts/feb-2024-recap/
 showComments: true
 showAuthor: false
 authors:

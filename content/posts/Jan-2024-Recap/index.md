@@ -6,6 +6,8 @@ description: "一月小結"
 slug: "jan 2024 recap"
 tags: ["coop", "博客裝修", "書影音遊"]
 categories: ["recap"]
+aliases:
+- /zh-tw/posts/jan-2024-recap/
 showComments: true
 showAuthor: false
 authors:

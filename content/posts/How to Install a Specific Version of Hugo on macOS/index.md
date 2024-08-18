@@ -6,6 +6,8 @@ description: "How to Install a Specific Version of Hugo on macOS"
 slug: "install specific hugo version"
 tags: ["tutorial", "hugo", "blog"]
 categories: ["Tech"]
+aliases:
+- /zh-tw/posts/install-specific-hugo-version/
 showComments: true
 authors:
   - "avocado"

@@ -6,6 +6,8 @@ description: "我的人生廣東歌"
 slug: "my fav cantonese songs_2"
 tags: ["廣東歌", "香港"]
 categories: ["Life"]
+aliases:
+- /zh-tw/posts/my-fav-cantonese-songs_2/
 series: ["人生廣東歌"]
 series_order: 2
 seriesOpened: true

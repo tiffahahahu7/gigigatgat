@@ -10,7 +10,7 @@ title = "嘰嘰乞乞"
   dateFormat = "2 January 2006"
   logo = "img/logo.png"
   # secondaryLogo = "PATH"
-  # description = "Avocado and Sloth's Blog"
+  description = "Avocado和Sloth的博客"
   copyright = "© 2023 嘰嘰乞乞"
 
 [author]

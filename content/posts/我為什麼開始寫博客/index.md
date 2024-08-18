@@ -6,6 +6,8 @@ description: "我為什麼開始寫博客"
 slug: "why blogging"
 tags: ["blog"]
 categories: ["Life"]
+aliases:
+- /zh-tw/posts/why-blogging/
 showComments: true
 showAuthor: false
 authors:

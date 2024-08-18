@@ -6,6 +6,8 @@ description: "2024 New Year‘s Resolutions"
 slug: "2024 new year resolutions"
 tags: ["新年"]
 categories: ["Life"]
+aliases:
+- /zh-tw/posts/2024-new-year-resolution/
 showComments: true
 showAuthor: false
 authors:

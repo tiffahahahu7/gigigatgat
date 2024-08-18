@@ -6,6 +6,8 @@ description: "How to host Restful API with MariaDB on Raspberry Pi using docker 
 slug: "host-restful-api-with-docker"
 tags: ["tutorial", "code", "docker", "api"]
 categories: ["Tech"]
+aliases:
+- /zh-tw/posts/host-restful-api-with-docker/
 showReadingTime: true
 showComments: true
 authors:

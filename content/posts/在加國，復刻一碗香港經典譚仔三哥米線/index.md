@@ -6,6 +6,8 @@ description: "譚仔三哥米線食譜"
 slug: "tamjai samgor rice noodle"
 tags: ["吃吃喝喝", "香港"]
 categories: ["Kitchen"]
+aliases:
+- /zh-tw/posts/tamjai-samgor-rice-noodle/
 showComments: true
 showAuthor: false
 authors:
