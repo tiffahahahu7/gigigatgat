@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 GiGiGatGat</copyright>
-    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/en/authors/avocado/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/en/authors/avocado/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Notes｜Show Your Work</title>
+      <link>https://www.gigigatgat.ca/en/posts/show-your-work/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/en/posts/show-your-work/</guid>
+      <description>1. YOU DON&amp;rsquo;T HAVE TO BE A GENIUS # Find a scenius: Great ideas are birthed by a group of creative individuals.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/en/posts/show-your-work/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>Book Notes｜Steal Like An Artist</title>
+      <link>https://www.gigigatgat.ca/en/posts/steal-like-an-artist/</link>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/en/posts/steal-like-an-artist/</guid>
+      <description>1. STEAL LIKE AN ARTIST # Stop trying to make something out of nothing, embrace influence of what came before instead of running away from it.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/en/posts/steal-like-an-artist/featured.jpeg" />
+    </item>
+    
     <item>
       <title>Simplified Guide: Configuring a Custom Domain Name for GitHub Pages Site</title>
       <link>https://www.gigigatgat.ca/en/posts/custom-domain-name/</link>

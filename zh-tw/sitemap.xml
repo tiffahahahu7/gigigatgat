@@ -57,12 +57,32 @@
     <lastmod>2024-07-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://www.gigigatgat.ca/en/posts/show-your-work/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-TW"
+      href="https://www.gigigatgat.ca/posts/show-your-work/"
+    />
   </url>
   <url>
     <loc>https://www.gigigatgat.ca/posts/steal-like-an-artist/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://www.gigigatgat.ca/en/posts/steal-like-an-artist/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-TW"
+      href="https://www.gigigatgat.ca/posts/steal-like-an-artist/"
+    />
   </url>
   <url>
     <loc>https://www.gigigatgat.ca/posts/jun-2024-recap/</loc>
