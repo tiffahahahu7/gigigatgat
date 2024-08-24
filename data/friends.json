@@ -35,6 +35,13 @@
       "notes": "有一片廣袤的精神世界"
     },
     {
+      "title": "A Purrception",
+      "website": "https://tortie.me/",
+      "image": "https://tortie.me/img/tortie_huf462a842a5049d4291ff826c5ee25b3f_301965_300x0_resize_q75_box.jpg", 
+      "description": "谨慎观察(=‘ｘ‘=)",
+      "notes": "喵"
+    },
+    {
       "title": "AsyncX",
       "website": "https://blog.asyncx.top/zh/",
       "image": "https://blog.asyncx.top/favicon.svg", 
@@ -56,11 +63,25 @@
       "notes": "從每月消費總結裡追溯生活和安利單品"
     },
     {
+      "title": "游托啤吖",
+      "website": "https://ada3104.cc/",
+      "image": "https://ada3104.pages.dev/img/avatar_hu694398e97f4e96a5c009087664bd55aa_21010_300x0_resize_box_3.png", 
+      "description": "生活如流水（帳）",
+      "notes": "喜歡她Books專欄的設計"
+    },
+    {
       "title": "Sleepingcat",
       "website": "https://sleepingcat.me/",
       "image": "https://sleepingcat.me/img/avatar.gif", 
       "description": "什麼都寫",
       "notes": "跑啊！玩啊！生活啊！"
+    },
+    {
+      "title": "Yelle🦋",
+      "website": "https://yelleis.top/",
+      "image": "https://yelleis.top/img/yelle_hu18d7a8711b156c2ebe323e2ee2564f0a_352533_300x0_resize_box_3.png", 
+      "description": "希望我在有限的生命裡始終奔跑",
+      "notes": "生活收藏家"
     }
   ]
   

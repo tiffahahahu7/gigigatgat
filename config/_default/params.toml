@@ -114,7 +114,7 @@ smartTOCHideUnfocusedChildren = false
   cardViewScreenWidth = false
 
 [twikoo]
-  version = "1.6.32"
+  version = "1.6.39"
 
 [firebase]
   apiKey = "AIzaSyBJlfYOQE5sy9QFpFp9F3JLr0kZyzGtyd8"

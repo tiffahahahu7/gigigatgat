@@ -28,9 +28,9 @@ const Avocado = {
     languages: [
         { name: "English", level: "Fluent" },
         { name: "Mandarin", level: "Fluent" },
-        { name: "Cantonese", level: "Fluent" }, //not as good as Sloth
-        { name: "German", level: "Intermediate" }, //almost forget
-        { name: "French", level: "Beginner" }, //A2 in Duolingo
+        { name: "Cantonese", level: "Fluent" },
+        { name: "German", level: "Intermediate" }, 
+        { name: "French", level: "Beginner" }, 
         { name: "Japanese", level: "Beginner" }
     ],
     hobbies: ["Cooking", "Theater", "Plants", "Pokemon", "Reading others' blogs"]
@@ -47,7 +47,7 @@ const Sloth = {
     languages: [
         { name: "English", level: "Fluent" },
         { name: "Cantonese", level: "Fluent" },         
-        { name: "Mandarin", level: "Fluent" }, //not as good as Avocado
+        { name: "Mandarin", level: "Fluent" }, 
     ],
     hobbies: ["Football", "Video Games", "Music", "Gym", "Pokemon"] 
 };

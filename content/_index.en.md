@@ -3,7 +3,7 @@ title: "Welcome to GiGiGatGat! 💬"
 description: "Avocado and Sloth's Blog"
 ---
 
-This is the home of Avocado & Sloth, where we **\"gigigatgat\"**(a Cantonese slang meaning to chatter away) about everything in our life. Sometimes we also invite friends over to enjoy the space and write some inspirable blogs.
+This is the home of Avocado & Sloth, where we **\"gigigatgat\"**(Cantonese slang for chattering away) about everything in our life—mostly tech stuff in English though. More content is available in Chinese if you don't mind using auto-translation to read it. <div class="pronounce">If you are interested in its pronounciation in Cantonese, feel free to check it out here 👉 {{<audio src="/audio/gigigatgat.mp3">}}.</div>
 
 &#129361;&nbsp;**Avocado (Tiffany):** female(she/her), favorite color is green just like an avocado, head chef in our home
 

@@ -80,3 +80,15 @@
     display: inline;
     vertical-align: bottom !important;
 }
+
+.pronounce {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+}
+
+.pronounce figure{
+    margin-top: 0;
+    margin-bottom: 0;
+}
