@@ -3,14 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://www.gigigatgat.ca/posts/aug-2024-recap/</loc>
-    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.gigigatgat.ca/posts/</loc>
-    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -26,7 +20,7 @@
   </url>
   <url>
     <loc>https://www.gigigatgat.ca/</loc>
-    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -39,6 +33,18 @@
       hreflang="zh-TW"
       href="https://www.gigigatgat.ca/"
     />
+  </url>
+  <url>
+    <loc>https://www.gigigatgat.ca/posts/rebel-ladies-stories/</loc>
+    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.gigigatgat.ca/posts/aug-2024-recap/</loc>
+    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.gigigatgat.ca/posts/mojo-meeting/</loc>
