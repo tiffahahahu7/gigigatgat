@@ -28,5 +28,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/featured.png" />
     </item>
     
+    <item>
+      <title>Getting Started with Entity Framework Core in Visual Studio</title>
+      <link>https://www.gigigatgat.ca/en/posts/how-to-use-entity-framework-core/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/en/posts/how-to-use-entity-framework-core/</guid>
+      <description>Entity Framework Core is a powerful tool for simplifying database integration with web applications.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/en/posts/how-to-use-entity-framework-core/featured.png" />
+    </item>
+    
   </channel>
 </rss>
