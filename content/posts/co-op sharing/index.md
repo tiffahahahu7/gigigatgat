@@ -4,7 +4,7 @@ date: 2024-03-29
 draft: false
 description: "co-op sharing in Canada"
 slug: "coop sharing"
-tags: ["coop", "面試", "經驗帖", "加拿大"]
+tags: ["co-op", "經驗帖", "加拿大"]
 categories: ["Life"]
 aliases:
 - /zh-tw/posts/coop-sharing/

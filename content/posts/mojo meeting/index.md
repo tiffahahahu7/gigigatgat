@@ -4,7 +4,7 @@ date: 2024-08-18
 draft: false
 description: "神奇週會的一百種樣子"
 slug: "mojo-meeting"
-tags: ["coop", "返工"]
+tags: ["co-op", "返工"]
 categories: ["Life"]
 showComments: true
 showAuthor: false

@@ -4,7 +4,7 @@ date: 2024-01-31
 draft: false
 description: "一月小結"
 slug: "jan 2024 recap"
-tags: ["coop", "博客裝修", "書影音遊"]
+tags: ["co-op", "博客裝修", "書影音遊"]
 categories: ["recap"]
 aliases:
 - /zh-tw/posts/jan-2024-recap/

@@ -4,7 +4,7 @@ date: 2024-04-20
 draft: false
 description: "How to Configure a Custom Domain Name for a GitHub Pages Site"
 slug: "custom-domain-name"
-tags: ["tutorial", "hugo", "github", "domain"]
+tags: ["tutorial"]
 categories: ["Tech"]
 showReadingTime: true
 showComments: true

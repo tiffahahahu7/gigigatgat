@@ -4,7 +4,7 @@ date: 2024-02-29
 draft: false
 description: "二月小結"
 slug: "feb 2024 recap"
-tags: ["書影音遊", "博客裝修", "coop"]
+tags: ["書影音遊", "博客裝修", "co-op"]
 categories: ["recap"]
 aliases:
 - /zh-tw/posts/feb-2024-recap/

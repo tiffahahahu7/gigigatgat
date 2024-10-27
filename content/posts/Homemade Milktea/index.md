@@ -4,7 +4,7 @@ date: 2024-04-27
 draft: false
 description: "簡單易做的家庭自製奶茶配方"
 slug: "homemade-milktea"
-tags: ["吃吃喝喝","懶人食譜"]
+tags: ["吃吃喝喝"]
 categories: ["Kitchen"]
 showComments: true
 showAuthor: false

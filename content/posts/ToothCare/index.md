@@ -4,7 +4,7 @@ date: 2024-05-12
 draft: false
 description: "牙齒護理心得"
 slug: "toothcare"
-tags: ["護牙", "經驗帖"]
+tags: ["經驗帖"]
 categories: ["Life"]
 showComments: true
 showAuthor: false

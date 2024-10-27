@@ -76,7 +76,12 @@
     width: 48px;
 }
 
-.tk-content img {
+.friend-card .card-image img{
+    height: 48px;
+    object-fit: cover;
+}
+
+.tk-content img, .tk-preview-container img {
     display: inline;
     vertical-align: bottom !important;
 }

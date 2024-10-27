@@ -12,6 +12,5 @@ cascade:
 Books, Games, Music, Movies, Dramas, and Things
 {{< /lead >}}
 
-We comment on our selections, including purchases, viewing history and more.
-
+We share and discuss our choices in reading, gaming, shopping, and more.
 ---

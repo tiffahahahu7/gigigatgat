@@ -4,7 +4,7 @@ date: 2023-10-24
 draft: false
 description: "How to use Entity Framework Core to connect databases and web pages"
 slug: "how to use Entity Framework Core"
-tags: ["tutorial", "code", "ASP.NET", "VisualStudio"]
+tags: ["tutorial", "coding"]
 categories: ["Tech"]
 aliases:
 - /zh-tw/posts/how-to-use-Entity-Framework-Core/

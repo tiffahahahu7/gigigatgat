@@ -4,7 +4,7 @@ date: 2024-08-03
 draft: false
 description: "如何修改wikoo評論區頭像及添加自定義表情包"
 slug: "twikoo-tutorial"
-tags: ["博客裝修", "blog", "tutorial"]
+tags: ["博客裝修", "tutorial"]
 categories: ["tech"]
 showComments: true
 showAuthor: false
@@ -33,7 +33,7 @@ Twikoo原生的表情包文件是`https://owo.imaegoo.com/owo.json`，顏文字�
 
 ![twikoo emoji screenshot](twikoo-emoji.png)
 
-想要**一步到位**的朋友可以直接在評論管理系統`Configuration-Plugin-EMOTION_CDN`一欄輸入`https://raw.githubusercontent.com/tiffahahahu7/twikoo-emoticon/main/owo.json`，等於是複製粘貼了我目前的表情包設定。
+想要**一步到位**的朋友可以直接在評論管理系統`Configuration-Plugin-EMOTION_CDN`一欄輸入`https://raw.githubusercontent.com/avocadoTiff/twikoo/main/owo.json`，等於是複製粘貼了我目前的表情包設定。
 
 想要進一步自定義的可以參考以下我的實踐步驟：
 ### 搜索目標表情包及其URL
@@ -74,7 +74,7 @@ Twikoo原生的表情包文件是`https://owo.imaegoo.com/owo.json`，顏文字�
 ### 修改css
 如果不修改css，像blobcat這樣以圖片格式出現的表情包就會是單獨佔整行的block element，很影響使用體驗。我在`assets/css/custom.css`（具體地址和文件可能因主題不同有所區別）裡添加了如下代碼就解決了：
 ```
-.tk-content img {
+.tk-content img, .tk-preview-container img {
     display: inline;
     vertical-align: bottom !important;
 }

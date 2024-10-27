@@ -4,7 +4,7 @@ date: 2024-07-27
 draft: false
 description: "七月小結"
 slug: "jul 2024 recap"
-tags: ["經驗帖", "博客裝修", "書影音遊"]
+tags: ["經驗帖", "博客裝修", "書影音遊", "月度推薦"]
 categories: ["recap"]
 showComments: true
 showAuthor: false

@@ -4,7 +4,7 @@ date: 2023-12-31
 draft: false
 description: "十二月小結"
 slug: "dec 2023 recap"
-tags: ["東京", "新年"]
+tags: ["新年"]
 categories: ["recap"]
 aliases:
 - /zh-tw/posts/dec-2023-recap/

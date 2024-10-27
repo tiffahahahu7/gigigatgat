@@ -4,7 +4,7 @@ date: 2024-04-18
 draft: false
 description: "How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok"
 slug: "host-restful-api-with-docker"
-tags: ["tutorial", "code", "docker", "api"]
+tags: ["tutorial", "coding"]
 categories: ["Tech"]
 aliases:
 - /zh-tw/posts/host-restful-api-with-docker/

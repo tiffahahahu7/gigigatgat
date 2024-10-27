@@ -4,7 +4,7 @@ date: 2024-04-29
 draft: false
 description: "四月小結"
 slug: "apr 2024 recap"
-tags: ["coop", "吃吃喝喝", "博客裝修", "書影音遊"]
+tags: ["co-op", "吃吃喝喝", "博客裝修", "書影音遊"]
 categories: ["recap"]
 showComments: true
 showAuthor: false
