@@ -7,13 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2023 嘰嘰乞乞</copyright>
-    <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>台灣</title>
-      <link>https://www.gigigatgat.ca/tags/%E5%8F%B0%E7%81%A3/</link>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <title>blog</title>
+      <link>https://www.gigigatgat.ca/tags/blog/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gigigatgat.ca/tags/%E5%8F%B0%E7%81%A3/</guid>
+      <guid>https://www.gigigatgat.ca/tags/blog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>書影音遊</title>
+      <link>https://www.gigigatgat.ca/tags/%E6%9B%B8%E5%BD%B1%E9%9F%B3%E9%81%8A/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/tags/%E6%9B%B8%E5%BD%B1%E9%9F%B3%E9%81%8A/</guid>
       <description></description>
       
     </item>
@@ -21,9 +31,19 @@
     <item>
       <title>經驗帖</title>
       <link>https://www.gigigatgat.ca/tags/%E7%B6%93%E9%A9%97%E5%B8%96/</link>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.gigigatgat.ca/tags/%E7%B6%93%E9%A9%97%E5%B8%96/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>台灣</title>
+      <link>https://www.gigigatgat.ca/tags/%E5%8F%B0%E7%81%A3/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/tags/%E5%8F%B0%E7%81%A3/</guid>
       <description></description>
       
     </item>
@@ -99,16 +119,6 @@
     </item>
     
     <item>
-      <title>書影音遊</title>
-      <link>https://www.gigigatgat.ca/tags/%E6%9B%B8%E5%BD%B1%E9%9F%B3%E9%81%8A/</link>
-      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gigigatgat.ca/tags/%E6%9B%B8%E5%BD%B1%E9%9F%B3%E9%81%8A/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>博客裝修</title>
       <link>https://www.gigigatgat.ca/tags/%E5%8D%9A%E5%AE%A2%E8%A3%9D%E4%BF%AE/</link>
       <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
@@ -134,16 +144,6 @@
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.gigigatgat.ca/tags/tutorial/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>blog</title>
-      <link>https://www.gigigatgat.ca/tags/blog/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gigigatgat.ca/tags/blog/</guid>
       <description></description>
       
     </item>
