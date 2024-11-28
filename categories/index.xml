@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2023 嘰嘰乞乞</copyright>
-    <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>每月小結</title>
+      <link>https://www.gigigatgat.ca/categories/recap/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/categories/recap/</guid>
+      <description>Avocado&amp;rsquo;s Monthly Recap</description>
+      
+    </item>
+    
     <item>
       <title>廚房故事</title>
       <link>https://www.gigigatgat.ca/categories/kitchen/</link>
@@ -15,16 +25,6 @@
       
       <guid>https://www.gigigatgat.ca/categories/kitchen/</guid>
       <description>Food Made in Our Home</description>
-      
-    </item>
-    
-    <item>
-      <title>每月小結</title>
-      <link>https://www.gigigatgat.ca/categories/recap/</link>
-      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gigigatgat.ca/categories/recap/</guid>
-      <description>Avocado&amp;rsquo;s Monthly Recap</description>
       
     </item>
     
