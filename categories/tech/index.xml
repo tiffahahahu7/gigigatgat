@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2023 嘰嘰乞乞</copyright>
-    <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>（試圖）一勞永逸的博客圖片管理解決方案</title>
+      <link>https://www.gigigatgat.ca/posts/cloudflare-r2-image-hosting/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/posts/cloudflare-r2-image-hosting/</guid>
+      <description>剛起完這個牛逼哄哄的</description>
+      
+    </item>
+    
     <item>
       <title>Twikoo評論系統的個性化設置</title>
       <link>https://www.gigigatgat.ca/posts/twikoo-tutorial/</link>
@@ -15,7 +25,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/twikoo-tutorial/</guid>
       <description>Twikoo評論系統</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/twikoo-tutorial/featured.png" />
+      
     </item>
     
     <item>
@@ -25,7 +35,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/custom-domain-name/</guid>
       <description>Frankly speaking, I don&amp;rsquo;t like the official GitHub Doc on Configuring a custom domain for your GitHub Pages site.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/custom-domain-name/featured.jpg" />
+      
     </item>
     
     <item>
@@ -35,17 +45,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/host-restful-api-with-docker/</guid>
       <description>In this guide, we&amp;rsquo;ll explore how to host a RESTful API with MariaDB 10 on a Raspberry Pi using Docker, Express.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/host-restful-api-with-docker/featured.png" />
-    </item>
-    
-    <item>
-      <title>A Beginner-Friendly Tutorial for Building a Blog with Hugo, the Blowfish Theme, and GitHub Pages</title>
-      <link>https://www.gigigatgat.ca/posts/how-to-create-a-blog/</link>
-      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gigigatgat.ca/posts/how-to-create-a-blog/</guid>
-      <description>Everyone deserves to own a blog. I&amp;rsquo;m here to help.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/how-to-create-a-blog/featured.png" />
     </item>
     
     <item>
@@ -55,7 +55,17 @@
       
       <guid>https://www.gigigatgat.ca/posts/install-specific-hugo-version/</guid>
       <description>To demo how to build a blog for beginners, I created a new user on my macOS and reinstalled Hugo in the new environment.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/install-specific-hugo-version/featured.png" />
+      
+    </item>
+    
+    <item>
+      <title>A Beginner-Friendly Tutorial for Building a Blog with Hugo, the Blowfish Theme, and GitHub Pages</title>
+      <link>https://www.gigigatgat.ca/posts/how-to-create-a-blog/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/posts/how-to-create-a-blog/</guid>
+      <description>Everyone deserves to own a blog. I&amp;rsquo;m here to help.</description>
+      
     </item>
     
     <item>
@@ -65,7 +75,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/how-to-use-entity-framework-core/</guid>
       <description>Entity Framework Core is a powerful tool for simplifying database integration with web applications.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/how-to-use-entity-framework-core/featured.png" />
+      
     </item>
     
   </channel>

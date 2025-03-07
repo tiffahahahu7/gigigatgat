@@ -15,7 +15,7 @@
       
       <guid>https://www.gigigatgat.ca/en/posts/show-your-work/</guid>
       <description>1. YOU DON&amp;rsquo;T HAVE TO BE A GENIUS # Find a scenius: Great ideas are birthed by a group of creative individuals.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/en/posts/show-your-work/featured.jpeg" />
+      
     </item>
     
     <item>
@@ -25,7 +25,7 @@
       
       <guid>https://www.gigigatgat.ca/en/posts/steal-like-an-artist/</guid>
       <description>1. STEAL LIKE AN ARTIST # Stop trying to make something out of nothing, embrace influence of what came before instead of running away from it.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/en/posts/steal-like-an-artist/featured.jpeg" />
+      
     </item>
     
     <item>
@@ -35,17 +35,7 @@
       
       <guid>https://www.gigigatgat.ca/en/posts/custom-domain-name/</guid>
       <description>Frankly speaking, I don&amp;rsquo;t like the official GitHub Doc on Configuring a custom domain for your GitHub Pages site.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/en/posts/custom-domain-name/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>A Beginner-Friendly Tutorial for Building a Blog with Hugo, the Blowfish Theme, and GitHub Pages</title>
-      <link>https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/</link>
-      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/</guid>
-      <description>Everyone deserves to own a blog. I&amp;rsquo;m here to help.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/featured.png" />
     </item>
     
     <item>
@@ -55,7 +45,17 @@
       
       <guid>https://www.gigigatgat.ca/en/posts/install-specific-hugo-version/</guid>
       <description>To demo how to build a blog for beginners, I created a new user on my macOS and reinstalled Hugo in the new environment.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/en/posts/install-specific-hugo-version/featured.png" />
+      
+    </item>
+    
+    <item>
+      <title>A Beginner-Friendly Tutorial for Building a Blog with Hugo, the Blowfish Theme, and GitHub Pages</title>
+      <link>https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/</guid>
+      <description>Everyone deserves to own a blog. I&amp;rsquo;m here to help.</description>
+      
     </item>
     
     <item>
@@ -65,7 +65,7 @@
       
       <guid>https://www.gigigatgat.ca/en/posts/how-to-use-entity-framework-core/</guid>
       <description>Entity Framework Core is a powerful tool for simplifying database integration with web applications.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/en/posts/how-to-use-entity-framework-core/featured.png" />
+      
     </item>
     
     <item>

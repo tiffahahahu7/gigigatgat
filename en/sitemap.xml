@@ -99,22 +99,6 @@
     />
   </url>
   <url>
-    <loc>https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/</loc>
-    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-TW"
-      href="https://www.gigigatgat.ca/posts/how-to-create-a-blog/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/"
-    />
-  </url>
-  <url>
     <loc>https://www.gigigatgat.ca/en/posts/install-specific-hugo-version/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -128,6 +112,22 @@
       rel="alternate"
       hreflang="en"
       href="https://www.gigigatgat.ca/en/posts/install-specific-hugo-version/"
+    />
+  </url>
+  <url>
+    <loc>https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/</loc>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-TW"
+      href="https://www.gigigatgat.ca/posts/how-to-create-a-blog/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/"
     />
   </url>
   <url>

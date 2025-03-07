@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2023 嘰嘰乞乞</copyright>
-    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>（試圖）一勞永逸的博客圖片管理解決方案</title>
+      <link>https://www.gigigatgat.ca/posts/cloudflare-r2-image-hosting/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/posts/cloudflare-r2-image-hosting/</guid>
+      <description>剛起完這個牛逼哄哄的</description>
+      
+    </item>
+    
     <item>
       <title>二月｜兩條takeaway</title>
       <link>https://www.gigigatgat.ca/posts/feb-2025-recap/</link>
@@ -15,7 +25,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/feb-2025-recap/</guid>
       <description>Photo by Etienne Delorieux on Unsplash 我好像每</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/feb-2025-recap/featured.jpg" />
+      
     </item>
     
     <item>
@@ -25,7 +35,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/homemade-iced-drinks/</guid>
       <description>Hero Photo by Kaizen Nguyễn</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/homemade-iced-drinks/featured.jpg" />
+      
     </item>
     
     <item>
@@ -35,7 +45,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/jan-2025-recap/</guid>
       <description>Hero Photo來自潿洲</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/jan-2025-recap/featured.jpg" />
+      
     </item>
     
     <item>
@@ -45,7 +55,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/2024-annual-review/</guid>
       <description>Hero Photo by OC Gonzalez on Unsplash 公曆2</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/2024-annual-review/featured.jpg" />
+      
     </item>
     
     <item>
@@ -55,7 +65,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/dec-2024-recap/</guid>
       <description>Hero Photo by ArtTower on Pixabay 本月Mi</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/dec-2024-recap/featured.jpg" />
+      
     </item>
     
     <item>
@@ -65,7 +75,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/taipei-trip/</guid>
       <description>Hero photo by Hugo_ob on Pixabay （回到南</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/taipei-trip/featured.jpg" />
+      
     </item>
     
     <item>
@@ -75,7 +85,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/nov-2024-recap/</guid>
       <description>Hero Photo by Sorb on Unsplash 沒有什麼</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/nov-2024-recap/featured.jpg" />
+      
     </item>
     
     <item>
@@ -85,7 +95,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/hk-milktea/</guid>
       <description>aka 隨手水一篇博客（抱</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/hk-milktea/featured.jpg" />
+      
     </item>
     
     <item>
@@ -95,7 +105,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/oct-2024-recap/</guid>
       <description>本月Mileston</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/oct-2024-recap/featured.jpg" />
+      
     </item>
     
     <item>
@@ -105,7 +115,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/taiwan-entry-permit/</guid>
       <description>Hero photo by Andrew Leu on Unsplash 這兩天</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/taiwan-entry-permit/featured.jpg" />
+      
     </item>
     
     <item>
@@ -115,7 +125,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/sept-2024-recap/</guid>
       <description>Hero Photo: Nintendo 我這一年裡共有</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/sept-2024-recap/featured.jpg" />
+      
     </item>
     
     <item>
@@ -125,7 +135,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/rebel-ladies-stories/</guid>
       <description>Hero Photo from Behance | Martial Coulon 之前在</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/rebel-ladies-stories/featured.jpg" />
+      
     </item>
     
     <item>
@@ -135,7 +145,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/aug-2024-recap/</guid>
       <description>八月的氣溫高高低低，</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/aug-2024-recap/featured.JPG" />
+      
     </item>
     
     <item>
@@ -145,7 +155,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/mojo-meeting/</guid>
       <description>週會，team mee</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/mojo-meeting/featured.jpg" />
+      
     </item>
     
     <item>
@@ -155,7 +165,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/twikoo-tutorial/</guid>
       <description>Twikoo評論系統</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/twikoo-tutorial/featured.png" />
+      
     </item>
     
     <item>
@@ -165,7 +175,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/jul-2024-recap/</guid>
       <description>Hero Photo by Microsoft Copilot with prompt: &amp;ldquo;create an image</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/jul-2024-recap/featured.png" />
+      
     </item>
     
     <item>
@@ -175,7 +185,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/show-your-work/</guid>
       <description>我對這本書的推薦指數</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/show-your-work/featured.jpeg" />
+      
     </item>
     
     <item>
@@ -185,7 +195,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/steal-like-an-artist/</guid>
       <description>不記得是從哪裡看到對</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/steal-like-an-artist/featured.jpeg" />
+      
     </item>
     
     <item>
@@ -195,7 +205,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/jun-2024-recap/</guid>
       <description>本月Mileston</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/jun-2024-recap/featured.jpg" />
+      
     </item>
     
     <item>
@@ -205,7 +215,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/27-birthday-reflection/</guid>
       <description>草稿箱裡放了幾個選題</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/27-birthday-reflection/featured.jpg" />
+      
     </item>
     
     <item>
@@ -215,7 +225,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/may-2024-recap/</guid>
       <description>本月Mileston</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/may-2024-recap/featured.jpg" />
+      
     </item>
     
     <item>
@@ -225,7 +235,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/toothcare/</guid>
       <description>第一次聽「牙齒當金洗</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/toothcare/featured.jpg" />
+      
     </item>
     
     <item>
@@ -235,7 +245,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/apr-2024-recap/</guid>
       <description>也是我的生活寫照 這個</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/apr-2024-recap/featured.jpg" />
+      
     </item>
     
     <item>
@@ -245,7 +255,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/homemade-milktea/</guid>
       <description>來自前線的第一分鐘喝</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/homemade-milktea/featured.jpg" />
+      
     </item>
     
     <item>
@@ -255,7 +265,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/custom-domain-name/</guid>
       <description>Frankly speaking, I don&amp;rsquo;t like the official GitHub Doc on Configuring a custom domain for your GitHub Pages site.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/custom-domain-name/featured.jpg" />
+      
     </item>
     
     <item>
@@ -265,7 +275,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/host-restful-api-with-docker/</guid>
       <description>In this guide, we&amp;rsquo;ll explore how to host a RESTful API with MariaDB 10 on a Raspberry Pi using Docker, Express.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/host-restful-api-with-docker/featured.png" />
+      
     </item>
     
     <item>
@@ -275,7 +285,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/mar-2024-recap/</guid>
       <description>什麼時候都不晚 本月M</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/mar-2024-recap/featured.jpg" />
+      
     </item>
     
     <item>
@@ -285,7 +295,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/coop-sharing/</guid>
       <description>祝大家都能順利上車下</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/coop-sharing/featured.jpg" />
+      
     </item>
     
     <item>
@@ -295,7 +305,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/feb-2024-recap/</guid>
       <description>渾渾噩噩不知所以然 二</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/feb-2024-recap/featured.jpg" />
+      
     </item>
     
     <item>
@@ -305,7 +315,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/grocery-shopping/</guid>
       <description>#Blog逛超市安利</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/grocery-shopping/featured.jpg" />
+      
     </item>
     
     <item>
@@ -315,7 +325,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/jan-2024-recap/</guid>
       <description>我太厲害了！ 本月Mi</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/jan-2024-recap/featured.jpg" />
+      
     </item>
     
     <item>
@@ -325,7 +335,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/my-fav-cantonese-songs_2/</guid>
       <description>快樂嗎 你還是記得你跟</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/my-fav-cantonese-songs_2/featured.jpg" />
+      
     </item>
     
     <item>
@@ -335,7 +345,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/tim-hortons-menu/</guid>
       <description>來加拿大了怎麼也要試</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/tim-hortons-menu/featured.jpg" />
+      
     </item>
     
     <item>
@@ -345,7 +355,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/2024-new-year-resolutions/</guid>
       <description>我的Flag必不會倒</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/2024-new-year-resolutions/featured.jpg" />
+      
     </item>
     
     <item>
@@ -355,7 +365,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/dec-2023-recap/</guid>
       <description>新年快樂！ 十二月太忙</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/dec-2023-recap/featured.jpg" />
+      
     </item>
     
     <item>
@@ -365,7 +375,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/nov-2023-recap/</guid>
       <description>一開始覺得好不容易但</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/nov-2023-recap/featured.jpg" />
+      
     </item>
     
     <item>
@@ -375,17 +385,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/my-fav-cantonese-songs_1/</guid>
       <description>「感謝永遠有歌 把心境</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/my-fav-cantonese-songs_1/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>A Beginner-Friendly Tutorial for Building a Blog with Hugo, the Blowfish Theme, and GitHub Pages</title>
-      <link>https://www.gigigatgat.ca/posts/how-to-create-a-blog/</link>
-      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gigigatgat.ca/posts/how-to-create-a-blog/</guid>
-      <description>Everyone deserves to own a blog. I&amp;rsquo;m here to help.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/how-to-create-a-blog/featured.png" />
     </item>
     
     <item>
@@ -395,7 +395,17 @@
       
       <guid>https://www.gigigatgat.ca/posts/install-specific-hugo-version/</guid>
       <description>To demo how to build a blog for beginners, I created a new user on my macOS and reinstalled Hugo in the new environment.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/install-specific-hugo-version/featured.png" />
+      
+    </item>
+    
+    <item>
+      <title>A Beginner-Friendly Tutorial for Building a Blog with Hugo, the Blowfish Theme, and GitHub Pages</title>
+      <link>https://www.gigigatgat.ca/posts/how-to-create-a-blog/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/posts/how-to-create-a-blog/</guid>
+      <description>Everyone deserves to own a blog. I&amp;rsquo;m here to help.</description>
+      
     </item>
     
     <item>
@@ -405,7 +415,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/why-blogging/</guid>
       <description>Let&amp;rsquo;s make blogging great again! 事情要從2</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/why-blogging/featured.jpg" />
+      
     </item>
     
     <item>
@@ -415,7 +425,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/tamjai-samgor-rice-noodle/</guid>
       <description>譚仔——My comfort food all the</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/tamjai-samgor-rice-noodle/featured.jpeg" />
+      
     </item>
     
     <item>
@@ -425,7 +435,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/how-to-use-entity-framework-core/</guid>
       <description>Entity Framework Core is a powerful tool for simplifying database integration with web applications.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/how-to-use-entity-framework-core/featured.png" />
+      
     </item>
     
   </channel>

@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2023 嘰嘰乞乞</copyright>
-    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://www.gigigatgat.ca/tags/blog/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/tags/blog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>coding</title>
+      <link>https://www.gigigatgat.ca/tags/coding/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/tags/coding/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://www.gigigatgat.ca/tags/tutorial/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/tags/tutorial/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>reflection</title>
       <link>https://www.gigigatgat.ca/tags/reflection/</link>
@@ -109,16 +139,6 @@
     </item>
     
     <item>
-      <title>blog</title>
-      <link>https://www.gigigatgat.ca/tags/blog/</link>
-      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gigigatgat.ca/tags/blog/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>productivity</title>
       <link>https://www.gigigatgat.ca/tags/productivity/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
@@ -189,31 +209,11 @@
     </item>
     
     <item>
-      <title>tutorial</title>
-      <link>https://www.gigigatgat.ca/tags/tutorial/</link>
-      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gigigatgat.ca/tags/tutorial/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>生日</title>
       <link>https://www.gigigatgat.ca/tags/%E7%94%9F%E6%97%A5/</link>
       <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.gigigatgat.ca/tags/%E7%94%9F%E6%97%A5/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>coding</title>
-      <link>https://www.gigigatgat.ca/tags/coding/</link>
-      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gigigatgat.ca/tags/coding/</guid>
       <description></description>
       
     </item>

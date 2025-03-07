@@ -3,14 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://www.gigigatgat.ca/posts/feb-2025-recap/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <loc>https://www.gigigatgat.ca/posts/cloudflare-r2-image-hosting/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.gigigatgat.ca/posts/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://www.gigigatgat.ca/</loc>
-    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -39,6 +39,12 @@
       hreflang="zh-TW"
       href="https://www.gigigatgat.ca/"
     />
+  </url>
+  <url>
+    <loc>https://www.gigigatgat.ca/posts/feb-2025-recap/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.gigigatgat.ca/posts/homemade-iced-drinks/</loc>
@@ -297,22 +303,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.gigigatgat.ca/posts/how-to-create-a-blog/</loc>
-    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-TW"
-      href="https://www.gigigatgat.ca/posts/how-to-create-a-blog/"
-    />
-  </url>
-  <url>
     <loc>https://www.gigigatgat.ca/posts/install-specific-hugo-version/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -326,6 +316,22 @@
       rel="alternate"
       hreflang="zh-TW"
       href="https://www.gigigatgat.ca/posts/install-specific-hugo-version/"
+    />
+  </url>
+  <url>
+    <loc>https://www.gigigatgat.ca/posts/how-to-create-a-blog/</loc>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://www.gigigatgat.ca/en/posts/how-to-create-a-blog/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-TW"
+      href="https://www.gigigatgat.ca/posts/how-to-create-a-blog/"
     />
   </url>
   <url>

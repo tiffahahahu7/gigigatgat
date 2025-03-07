@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2023 嘰嘰乞乞</copyright>
-    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>（試圖）一勞永逸的博客圖片管理解決方案</title>
+      <link>https://www.gigigatgat.ca/posts/cloudflare-r2-image-hosting/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/posts/cloudflare-r2-image-hosting/</guid>
+      <description>剛起完這個牛逼哄哄的</description>
+      
+    </item>
+    
     <item>
       <title>How to host Restful API with MariaDB on Raspberry Pi using docker image, express.js and Ngrok</title>
       <link>https://www.gigigatgat.ca/posts/host-restful-api-with-docker/</link>
@@ -15,17 +25,17 @@
       
       <guid>https://www.gigigatgat.ca/posts/host-restful-api-with-docker/</guid>
       <description>In this guide, we&amp;rsquo;ll explore how to host a RESTful API with MariaDB 10 on a Raspberry Pi using Docker, Express.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/host-restful-api-with-docker/featured.png" />
+      
     </item>
     
     <item>
       <title>A Beginner-Friendly Tutorial for Building a Blog with Hugo, the Blowfish Theme, and GitHub Pages</title>
       <link>https://www.gigigatgat.ca/posts/how-to-create-a-blog/</link>
-      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.gigigatgat.ca/posts/how-to-create-a-blog/</guid>
       <description>Everyone deserves to own a blog. I&amp;rsquo;m here to help.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/how-to-create-a-blog/featured.png" />
+      
     </item>
     
     <item>
@@ -35,7 +45,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/how-to-use-entity-framework-core/</guid>
       <description>Entity Framework Core is a powerful tool for simplifying database integration with web applications.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/how-to-use-entity-framework-core/featured.png" />
+      
     </item>
     
   </channel>

@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2023 嘰嘰乞乞</copyright>
-    <lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>（試圖）一勞永逸的博客圖片管理解決方案</title>
+      <link>https://www.gigigatgat.ca/posts/cloudflare-r2-image-hosting/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/posts/cloudflare-r2-image-hosting/</guid>
+      <description>剛起完這個牛逼哄哄的</description>
+      
+    </item>
+    
     <item>
       <title>十月｜博客一週年</title>
       <link>https://www.gigigatgat.ca/posts/oct-2024-recap/</link>
@@ -15,7 +25,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/oct-2024-recap/</guid>
       <description>本月Mileston</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/oct-2024-recap/featured.jpg" />
+      
     </item>
     
     <item>
@@ -25,17 +35,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/jun-2024-recap/</guid>
       <description>本月Mileston</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/jun-2024-recap/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>A Beginner-Friendly Tutorial for Building a Blog with Hugo, the Blowfish Theme, and GitHub Pages</title>
-      <link>https://www.gigigatgat.ca/posts/how-to-create-a-blog/</link>
-      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gigigatgat.ca/posts/how-to-create-a-blog/</guid>
-      <description>Everyone deserves to own a blog. I&amp;rsquo;m here to help.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/how-to-create-a-blog/featured.png" />
     </item>
     
     <item>
@@ -45,7 +45,17 @@
       
       <guid>https://www.gigigatgat.ca/posts/install-specific-hugo-version/</guid>
       <description>To demo how to build a blog for beginners, I created a new user on my macOS and reinstalled Hugo in the new environment.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/install-specific-hugo-version/featured.png" />
+      
+    </item>
+    
+    <item>
+      <title>A Beginner-Friendly Tutorial for Building a Blog with Hugo, the Blowfish Theme, and GitHub Pages</title>
+      <link>https://www.gigigatgat.ca/posts/how-to-create-a-blog/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/posts/how-to-create-a-blog/</guid>
+      <description>Everyone deserves to own a blog. I&amp;rsquo;m here to help.</description>
+      
     </item>
     
     <item>
@@ -55,7 +65,7 @@
       
       <guid>https://www.gigigatgat.ca/posts/why-blogging/</guid>
       <description>Let&amp;rsquo;s make blogging great again! 事情要從2</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/why-blogging/featured.jpg" />
+      
     </item>
     
   </channel>
