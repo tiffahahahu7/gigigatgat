@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-TW" dir="ltr" class="scroll-smooth" data-default-appearance="light"
+<html lang="zh-TW" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
   data-auto-appearance="true"><head>
   <meta charset="utf-8" />
   
@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.9edf9a9d56c13877a11f7c04bd33374f07b9233162cd2895cee208305dc168fa7fb8768df25ff49610e73d0612e209485b679679622b47aab087ad9b59a215d6.css"
-    integrity="sha512-nt&#43;anVbBOHehH3wEvTM3Twe5IzFizSiVzuIIMF3BaPp/uHaN8l/0lhDnPQYS4glIW2eWeWIrR6qwh62bWaIV1g==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.a493337f43f96c1f6e9e1556bb7dc60914524022dd9f1db4cad7386244f8c9574a7a866d275201c09d3cbf6a23a45f3a90bee468a748630280e4ae57bda52365.css"
+    integrity="sha512-pJMzf0P5bB9unhVWu33GCRRSQCLdnx20ytc4YkT4yVdKeoZtJ1IBwJ08v2ojpF86kL7kaKdIYwKA5K5XvaUjZQ==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -49,8 +49,6 @@
   <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.48fc66b394643815bbd1c1bef5b9847e07e26182f7a1b7019e65df22b5d203e5959060caf12a1990ee96bc69e548621784cbe09a1e04679e5b2a42c4fa645ea8.js"
     integrity="sha512-SPxms5RkOBW70cG&#43;9bmEfgfiYYL3obcBnmXfIrXSA&#43;WVkGDK8SoZkO6WvGnlSGIXhMvgmh4EZ55bKkLE&#43;mReqA==" data-copy="" data-copied=""></script>
   
-  
-  <script src="/js/zoom.min.js"></script>
   
   
   
@@ -103,7 +101,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "797"
+    "wordCount": "724"
   }]
   </script>
 
@@ -197,21 +195,18 @@
     
     
     
-    <div>
-        <a href="/" class="flex">
+    <div class="site-logo">
+        <a href="/" class="flex items-center">
             <span class="sr-only">嘰嘰乞乞</span>
 
             <img src="/img/logo.png" width="267" height="267"
                 class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="嘰嘰乞乞" />
-
+            <div class="hidden md:flex text-base font-medium ml-3">嘰嘰乞乞</div>
         </a>
     </div>
     
     <div class="flex flex-1 items-center justify-between">
         <nav class="flex space-x-3">
-
-            
-            <a href="/" class="text-base font-medium text-gray-500 hover:text-gray-900">嘰嘰乞乞</a>
             
 
         </nav>
@@ -300,16 +295,6 @@
     
     <p class="text-base font-medium" title="友情鏈接">
         友情鏈接
-    </p>
-</a>
-
-
-            
-            
-  <a href="/about/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
-    
-    <p class="text-base font-medium" title="關於我們">
-        關於我們
     </p>
 </a>
 
@@ -566,20 +551,6 @@
 
                     
   <li class="mt-1">
-    <a href="/about/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
-        
-        <p class="text-bg font-bg" title="關於我們">
-            關於我們
-        </p>
-    </a>
-</li>
-
-
-
-                    
-
-                    
-  <li class="mt-1">
     <a href="https://www.gigigatgat.ca/index.xml"  target="_blank"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
         <div >
@@ -649,8 +620,38 @@
   
   
  
+  
+   
+  
+ 
 
 
+
+<div id="hero" class="h-[150px] md:h-[200px]"></div>
+
+
+
+    
+    <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
+    style="background-image:url(/img/forest_hu5459c0360c2b0cb7a147d2df0eb350ca_379584_1200x0_resize_q75_box.jpg);">
+    
+
+
+    <div class="absolute inset-0 bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
+    </div>
+    <div
+        class="absolute inset-0 opacity-60 bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
+    </div>
+</div>
+
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<script>
+    window.addEventListener('scroll', function (e) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        var background_blur = document.getElementById('background-blur');
+        background_blur.style.opacity = (scroll / 300)
+    });
+</script>
 
   
   
@@ -754,22 +755,17 @@
 
 
         <div class="article-content mb-20">
-          <p>每次造訪友鄰的博客我都感到幸福，請大家也幸福一下。如果你碰巧有自己的博客，歡迎在下方留言和我交換鏈接</a>！留言時請附上博客名稱、簡介、鏈接和頭像地址。示例如下：</p>
-<pre tabindex="0"><code>博客名稱：嘰嘰乞乞
-博客簡介：但願我靈魂沒有生鏽
-博客鏈接：https://www.gigigatgat.ca/
-頭像地址：https://www.gigigatgat.ca/img/logo.png
-</code></pre><p>注：博客簡介可能是副標題，可能是About頁面摘出來的摡括性短語；博客備註是本人的主觀印象，如需修改請留言或<a href="https://unstable.icu/@SiuMai">私信</a>聯繫Avocado ∠( ᐛ 」∠)＿</p>
+          <p>每次造訪友鄰的博客我都感到幸福，請大家也幸福一下。</p>
 <div class="friends">
 
 
-    <div class="friend-card border border-neutral-200 dark:border-neutral-700 border-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
         <a href="https://blog.douchi.space" target="_blank" rel="noopener">
             <div class="card-details">
                 <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">椒鹽豆豉</div>
                 
                     
-                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
                         喜欢就买 不行就分 多喝热水 重启电脑
                     </div>
                     
@@ -788,13 +784,13 @@
         </a>
     </div>
 
-    <div class="friend-card border border-neutral-200 dark:border-neutral-700 border-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
         <a href="https://thirdshire.com/" target="_blank" rel="noopener">
             <div class="card-details">
                 <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">第三夏爾</div>
                 
                     
-                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
                         认真生活，积极摸鱼
                     </div>
                     
@@ -813,13 +809,13 @@
         </a>
     </div>
 
-    <div class="friend-card border border-neutral-200 dark:border-neutral-700 border-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
         <a href="http://ignativssss.com/" target="_blank" rel="noopener">
             <div class="card-details">
                 <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">豚骨拉麵館</div>
                 
                     
-                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
                         拉面馆老板娘
                     </div>
                     
@@ -838,13 +834,13 @@
         </a>
     </div>
 
-    <div class="friend-card border border-neutral-200 dark:border-neutral-700 border-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
         <a href="https://www.chicheng.run/" target="_blank" rel="noopener">
             <div class="card-details">
                 <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">非池中物</div>
                 
                     
-                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
                         池騁的自由空間
                     </div>
                     
@@ -863,13 +859,13 @@
         </a>
     </div>
 
-    <div class="friend-card border border-neutral-200 dark:border-neutral-700 border-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
         <a href="https://qingshanbadass.notion.site/e3d519283a9f4412acc1d174ec94e30d" target="_blank" rel="noopener">
             <div class="card-details">
                 <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">呼貓護衛</div>
                 
                     
-                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
                         双刀火鸡/读书会季路/青山一妈
                     </div>
                     
@@ -888,13 +884,13 @@
         </a>
     </div>
 
-    <div class="friend-card border border-neutral-200 dark:border-neutral-700 border-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
         <a href="https://tortie.me/" target="_blank" rel="noopener">
             <div class="card-details">
                 <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">A Purrception</div>
                 
                     
-                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
                         谨慎观察(=‘ｘ‘=)
                     </div>
                     
@@ -913,13 +909,13 @@
         </a>
     </div>
 
-    <div class="friend-card border border-neutral-200 dark:border-neutral-700 border-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
         <a href="https://blog.asyncx.top/zh/" target="_blank" rel="noopener">
             <div class="card-details">
                 <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">AsyncX</div>
                 
                     
-                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
                         🌌 Per Aspera Ad Astra
                     </div>
                     
@@ -938,13 +934,13 @@
         </a>
     </div>
 
-    <div class="friend-card border border-neutral-200 dark:border-neutral-700 border-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
         <a href="https://sanguok.com/" target="_blank" rel="noopener">
             <div class="card-details">
                 <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">山月</div>
                 
                     
-                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
                         左海逐月，雙峰遺夢
                     </div>
                     
@@ -963,13 +959,13 @@
         </a>
     </div>
 
-    <div class="friend-card border border-neutral-200 dark:border-neutral-700 border-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
         <a href="https://www.after27.me/" target="_blank" rel="noopener">
             <div class="card-details">
                 <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">AFTER 27</div>
                 
                     
-                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
                         飯飯之交播客主持人之一的個人博客
                     </div>
                     
@@ -988,113 +984,13 @@
         </a>
     </div>
 
-    <div class="friend-card border border-neutral-200 dark:border-neutral-700 border-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
-        <a href="https://ada3104.cc/" target="_blank" rel="noopener">
-            <div class="card-details">
-                <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">游托啤吖</div>
-                
-                    
-                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
-                        生活如流水（帳）
-                    </div>
-                    
-                    
-                    <div class="mt-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-                        喜歡她Books專欄的設計
-                    </div>
-                    
-                    </div>
-    
-            
-            <div class="card-image">
-                <img src="https://ada3104.pages.dev/img/avatar_hu694398e97f4e96a5c009087664bd55aa_21010_300x0_resize_box_3.png" loading="lazy" class="nozoom">
-            </div>
-        
-        </a>
-    </div>
-
-    <div class="friend-card border border-neutral-200 dark:border-neutral-700 border-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
-        <a href="https://sleepingcat.me/" target="_blank" rel="noopener">
-            <div class="card-details">
-                <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">Sleepingcat</div>
-                
-                    
-                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
-                        什麼都寫
-                    </div>
-                    
-                    
-                    <div class="mt-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-                        跑啊！玩啊！生活啊！
-                    </div>
-                    
-                    </div>
-    
-            
-            <div class="card-image">
-                <img src="https://sleepingcat.me/img/avatar.gif" loading="lazy" class="nozoom">
-            </div>
-        
-        </a>
-    </div>
-
-    <div class="friend-card border border-neutral-200 dark:border-neutral-700 border-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
-        <a href="https://yelleis.top/" target="_blank" rel="noopener">
-            <div class="card-details">
-                <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">Yelle🦋</div>
-                
-                    
-                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
-                        希望我在有限的生命裡始終奔跑
-                    </div>
-                    
-                    
-                    <div class="mt-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-                        生活收藏家
-                    </div>
-                    
-                    </div>
-    
-            
-            <div class="card-image">
-                <img src="https://yelleis.top/img/yelle_hu18d7a8711b156c2ebe323e2ee2564f0a_352533_300x0_resize_box_3.png" loading="lazy" class="nozoom">
-            </div>
-        
-        </a>
-    </div>
-
-    <div class="friend-card border border-neutral-200 dark:border-neutral-700 border-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
-        <a href="https://palebluemist.com/" target="_blank" rel="noopener">
-            <div class="card-details">
-                <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">兩人森林｜貓貓文學</div>
-                
-                    
-                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
-                        寫，是安靜的發洩。
-                    </div>
-                    
-                    
-                    <div class="mt-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-                        手藝人
-                    </div>
-                    
-                    </div>
-    
-            
-            <div class="card-image">
-                <img src="https://palebluemist.com/wp-content/uploads/2024/09/logo.png" loading="lazy" class="nozoom">
-            </div>
-        
-        </a>
-    </div>
-
-    <div class="friend-card border border-neutral-200 dark:border-neutral-700 border-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
         <a href="https://bamboobone9.com/" target="_blank" rel="noopener">
             <div class="card-details">
                 <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">无竹斋</div>
                 
                     
-                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
                         與君同醒復同醉，仰看青士冠劍長
                     </div>
                     
@@ -1113,63 +1009,13 @@
         </a>
     </div>
 
-    <div class="friend-card border border-neutral-200 dark:border-neutral-700 border-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
-        <a href="https://blog.citrons.cc/" target="_blank" rel="noopener">
-            <div class="card-details">
-                <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">枸橼</div>
-                
-                    
-                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
-                        出碟你記得幫襯
-                    </div>
-                    
-                    
-                    <div class="mt-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-                        老派甜檸Citron
-                    </div>
-                    
-                    </div>
-    
-            
-            <div class="card-image">
-                <img src="https://blog.citrons.cc/avatar/" loading="lazy" class="nozoom">
-            </div>
-        
-        </a>
-    </div>
-
-    <div class="friend-card border border-neutral-200 dark:border-neutral-700 border-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
-        <a href="https://trails-of-isara.vercel.app/" target="_blank" rel="noopener">
-            <div class="card-details">
-                <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">深海鱼拒绝触礁</div>
-                
-                    
-                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
-                        把最棒的吊桥效应献给你
-                    </div>
-                    
-                    
-                    <div class="mt-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-                        喜歡在海底穿梭的鯊鯊
-                    </div>
-                    
-                    </div>
-    
-            
-            <div class="card-image">
-                <img src="https://trails-of-isara.vercel.app/img/avatar_hu48f64c8d86fa41173b12f4da09770394_14255_300x0_resize_box_3.png" loading="lazy" class="nozoom">
-            </div>
-        
-        </a>
-    </div>
-
-    <div class="friend-card border border-neutral-200 dark:border-neutral-700 border-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
         <a href="https://turquoise.one/" target="_blank" rel="noopener">
             <div class="card-details">
                 <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">一支咏叹调</div>
                 
                     
-                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
                         一位普通美女的小窝
                     </div>
                     
@@ -1188,13 +1034,163 @@
         </a>
     </div>
 
-    <div class="friend-card border border-neutral-200 dark:border-neutral-700 border-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
+        <a href="https://ada3104.cc/" target="_blank" rel="noopener">
+            <div class="card-details">
+                <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">游托啤吖</div>
+                
+                    
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
+                        生活如流水（帳）
+                    </div>
+                    
+                    
+                    <div class="mt-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+                        喜歡她Books專欄的設計
+                    </div>
+                    
+                    </div>
+    
+            
+            <div class="card-image">
+                <img src="https://ada3104.pages.dev/img/avatar_hu694398e97f4e96a5c009087664bd55aa_21010_300x0_resize_box_3.png" loading="lazy" class="nozoom">
+            </div>
+        
+        </a>
+    </div>
+
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
+        <a href="https://sleepingcat.me/" target="_blank" rel="noopener">
+            <div class="card-details">
+                <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">Sleepingcat</div>
+                
+                    
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
+                        什麼都寫
+                    </div>
+                    
+                    
+                    <div class="mt-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+                        跑啊！玩啊！生活啊！
+                    </div>
+                    
+                    </div>
+    
+            
+            <div class="card-image">
+                <img src="https://sleepingcat.me/img/avatar.gif" loading="lazy" class="nozoom">
+            </div>
+        
+        </a>
+    </div>
+
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
+        <a href="https://yelleis.top/" target="_blank" rel="noopener">
+            <div class="card-details">
+                <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">Yelle🦋</div>
+                
+                    
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
+                        希望我在有限的生命裡始終奔跑
+                    </div>
+                    
+                    
+                    <div class="mt-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+                        生活收藏家
+                    </div>
+                    
+                    </div>
+    
+            
+            <div class="card-image">
+                <img src="https://yelleis.top/img/yelle_hu18d7a8711b156c2ebe323e2ee2564f0a_352533_300x0_resize_box_3.png" loading="lazy" class="nozoom">
+            </div>
+        
+        </a>
+    </div>
+
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
+        <a href="https://palebluemist.com/" target="_blank" rel="noopener">
+            <div class="card-details">
+                <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">兩人森林｜貓貓文學</div>
+                
+                    
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
+                        寫，是安靜的發洩。
+                    </div>
+                    
+                    
+                    <div class="mt-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+                        手藝人
+                    </div>
+                    
+                    </div>
+    
+            
+            <div class="card-image">
+                <img src="https://palebluemist.com/wp-content/uploads/2024/09/logo.png" loading="lazy" class="nozoom">
+            </div>
+        
+        </a>
+    </div>
+
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
+        <a href="https://blog.citrons.cc/" target="_blank" rel="noopener">
+            <div class="card-details">
+                <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">枸橼</div>
+                
+                    
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
+                        出碟你記得幫襯
+                    </div>
+                    
+                    
+                    <div class="mt-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+                        老派甜檸Citron
+                    </div>
+                    
+                    </div>
+    
+            
+            <div class="card-image">
+                <img src="https://blog.citrons.cc/avatar/" loading="lazy" class="nozoom">
+            </div>
+        
+        </a>
+    </div>
+
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
+        <a href="https://trails-of-isara.vercel.app/" target="_blank" rel="noopener">
+            <div class="card-details">
+                <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">深海鱼拒绝触礁</div>
+                
+                    
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
+                        把最棒的吊桥效应献给你
+                    </div>
+                    
+                    
+                    <div class="mt-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+                        喜歡在海底穿梭的鯊鯊
+                    </div>
+                    
+                    </div>
+    
+            
+            <div class="card-image">
+                <img src="https://trails-of-isara.vercel.app/img/avatar_hu48f64c8d86fa41173b12f4da09770394_14255_300x0_resize_box_3.png" loading="lazy" class="nozoom">
+            </div>
+        
+        </a>
+    </div>
+
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
         <a href="https://harushuura.vip/" target="_blank" rel="noopener">
             <div class="card-details">
                 <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">春天与阿修罗</div>
                 
                     
-                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
                         食宇宙尘埃，或吐纳着空气和盐水
                     </div>
                     
@@ -1213,13 +1209,13 @@
         </a>
     </div>
 
-    <div class="friend-card border border-neutral-200 dark:border-neutral-700 border-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
         <a href="https://dilutepillow.github.io/" target="_blank" rel="noopener">
             <div class="card-details">
                 <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">水气掠过</div>
                 
                     
-                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
                         晚饭后，一起散步吧。
                     </div>
                     
@@ -1238,13 +1234,13 @@
         </a>
     </div>
 
-    <div class="friend-card border border-neutral-200 dark:border-neutral-700 border-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
         <a href="https://nanako-blog.web.app/" target="_blank" rel="noopener">
             <div class="card-details">
                 <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">昼梦日和</div>
                 
                     
-                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-400">
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
                         梦是现实的延续，现实是梦的终结
                     </div>
                     
@@ -1258,6 +1254,31 @@
             
             <div class="card-image">
                 <img src="https://nanako-blog.web.app/img/author_hu_fa3623b4f75494f4.jpg" loading="lazy" class="nozoom">
+            </div>
+        
+        </a>
+    </div>
+
+    <div class="friend-card rounded-md bg-neutral-100 dark:bg-neutral-700">
+        <a href="https://imasugu.cc" target="_blank" rel="noopener">
+            <div class="card-details">
+                <div class="font-bold text-lg text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">東井</div>
+                
+                    
+                    <div class="mt-1 text-xs text-neutral-500 dark:text-neutral-300">
+                        贈你杯酒共我飲
+                    </div>
+                    
+                    
+                    <div class="mt-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+                        紫色的大海吐出可愛的泡泡
+                    </div>
+                    
+                    </div>
+    
+            
+            <div class="card-image">
+                <img src="https://imasugu.cc/img/TwemojiOctopus_small.png" loading="lazy" class="nozoom">
             </div>
         
         </a>
@@ -1291,16 +1312,23 @@
 - <a href="https://heiheihei.ca/canadalife/">小觸手的書房</a>：全世界最會拆解知識點的畫手，看了一篇[《用畫畫的方式學車》](https://heiheihei.ca/learn-how-to-drive/)垂直入坑
 - <a href="https://www.lanisland.com/">唉，瀾的</a>：剛剛出版了一本食譜電子書的厲害友鄰，專精美食與攝影
 - <a href="https://cronopio.space/">新鮮棕櫚葉下</a>：喜歡翻「隨筆」、「美食」、「遊戲」和「測評」 -->
+<hr>
+如果你碰巧有自己的博客，歡迎在下方留言和我交換鏈接！示例如下：
+<br>
+<blockquote>
+<p>博客名稱：嘰嘰乞乞</p>
+<p>博客簡介：但願我靈魂沒有生鏽</p>
+<p>博客鏈接：https://www.gigigatgat.ca/</p>
+<p>頭像地址：https://www.gigigatgat.ca/img/logo.png</p>
+</blockquote>
+
         </div>
         
         
         
         
 
-        
-
-
-  
+          
       </div>
      
       
@@ -1378,7 +1406,7 @@
         
         <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
           <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/authors/"
-            title="作者">Authors</a>
+            title="關於我們">Authors</a>
         </li>
         
       </ul>
@@ -1394,7 +1422,7 @@
     
     
     <p class="text-sm text-neutral-500 dark:text-neutral-400">
-      © 2023 嘰嘰乞乞
+      © 2023-2025 嘰嘰乞乞
     </p>
     
 
@@ -1428,12 +1456,6 @@
   </script>  
   <script>
     
-    mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
-      margin: 24,
-      background: 'rgba(0,0,0,0.5)',
-      scrollOffset: 0,
-    })
-    
   </script>
   
   
@@ -1441,6 +1463,9 @@
   
   
   <a rel="me" href="https://masto.ai/@blowfish"></a>
+
+
+<script src="/js/custom.min.a4d1cb6847dfe47619f8964da067b0273dc0d731a36ae61211042bf87a6decfe.js"></script>
 
 
   

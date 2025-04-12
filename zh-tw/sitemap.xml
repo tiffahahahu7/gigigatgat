@@ -353,22 +353,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.gigigatgat.ca/about/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://www.gigigatgat.ca/en/about/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-TW"
-      href="https://www.gigigatgat.ca/about/"
-    />
-  </url>
-  <url>
     <loc>https://www.gigigatgat.ca/posts/how-to-use-entity-framework-core/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-TW" dir="ltr" class="scroll-smooth" data-default-appearance="light"
+<html lang="zh-TW" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
   data-auto-appearance="true"><head>
   <meta charset="utf-8" />
   
@@ -30,8 +30,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.9edf9a9d56c13877a11f7c04bd33374f07b9233162cd2895cee208305dc168fa7fb8768df25ff49610e73d0612e209485b679679622b47aab087ad9b59a215d6.css"
-    integrity="sha512-nt&#43;anVbBOHehH3wEvTM3Twe5IzFizSiVzuIIMF3BaPp/uHaN8l/0lhDnPQYS4glIW2eWeWIrR6qwh62bWaIV1g==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.a493337f43f96c1f6e9e1556bb7dc60914524022dd9f1db4cad7386244f8c9574a7a866d275201c09d3cbf6a23a45f3a90bee468a748630280e4ae57bda52365.css"
+    integrity="sha512-pJMzf0P5bB9unhVWu33GCRRSQCLdnx20ytc4YkT4yVdKeoZtJ1IBwJ08v2ojpF86kL7kaKdIYwKA5K5XvaUjZQ==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -51,8 +51,6 @@
   <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.48fc66b394643815bbd1c1bef5b9847e07e26182f7a1b7019e65df22b5d203e5959060caf12a1990ee96bc69e548621784cbe09a1e04679e5b2a42c4fa645ea8.js"
     integrity="sha512-SPxms5RkOBW70cG&#43;9bmEfgfiYYL3obcBnmXfIrXSA&#43;WVkGDK8SoZkO6WvGnlSGIXhMvgmh4EZ55bKkLE&#43;mReqA==" data-copy="" data-copied=""></script>
   
-  
-  <script src="/js/zoom.min.js"></script>
   
   
   
@@ -170,21 +168,18 @@
     
     
     
-    <div>
-        <a href="/" class="flex">
+    <div class="site-logo">
+        <a href="/" class="flex items-center">
             <span class="sr-only">嘰嘰乞乞</span>
 
             <img src="/img/logo.png" width="267" height="267"
                 class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="嘰嘰乞乞" />
-
+            <div class="hidden md:flex text-base font-medium ml-3">嘰嘰乞乞</div>
         </a>
     </div>
     
     <div class="flex flex-1 items-center justify-between">
         <nav class="flex space-x-3">
-
-            
-            <a href="/" class="text-base font-medium text-gray-500 hover:text-gray-900">嘰嘰乞乞</a>
             
 
         </nav>
@@ -273,16 +268,6 @@
     
     <p class="text-base font-medium" title="友情鏈接">
         友情鏈接
-    </p>
-</a>
-
-
-            
-            
-  <a href="/about/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
-    
-    <p class="text-base font-medium" title="關於我們">
-        關於我們
     </p>
 </a>
 
@@ -607,20 +592,6 @@
 
                     
   <li class="mt-1">
-    <a href="/about/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
-        
-        <p class="text-bg font-bg" title="關於我們">
-            關於我們
-        </p>
-    </a>
-</li>
-
-
-
-                    
-
-                    
-  <li class="mt-1">
     <a href="https://www.gigigatgat.ca/index.xml"  target="_blank"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
         <div >
@@ -687,8 +658,36 @@
 
 
  
+  
+   
+  
+ 
 
 
+
+
+
+    
+    <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
+    style="background-image:url(/img/forest_hu5459c0360c2b0cb7a147d2df0eb350ca_379584_1200x0_resize_q75_box.jpg);">
+    
+
+
+    <div class="absolute inset-0 bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
+    </div>
+    <div
+        class="absolute inset-0 opacity-60 bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
+    </div>
+</div>
+
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<script>
+    window.addEventListener('scroll', function (e) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        var background_blur = document.getElementById('background-blur');
+        background_blur.style.opacity = (scroll / 300)
+    });
+</script>
 
  
 
@@ -726,18 +725,6 @@
 
     </div>
   </header>
-  
-  <script>
-    var oid = "views_taxonomy_tags"
-    var oid_likes = "likes_taxonomy_tags"
-  </script>
-  
-  
-  <script type="text/javascript" src="/js/page.min.b06a29d42a4ed16787978e2eee1e8c797b7698db2bc14ccee78f5c80ac566fc996190a73ad80a5e987558474b20b96fa38f7d85b405f165ff72b7b163c5ad11b.js" integrity="sha512-sGop1CpO0WeHl44u7h6MeXt2mNsrwUzO549cgKxWb8mWGQpzrYCl6YdVhHSyC5b6OPfYW0BfFl/3K3sWPFrRGw=="></script>
-  
-
-  
-
   <section class="flex flex-wrap max-w-prose -mx-2 overflow-hidden">
     
       <article class="w-full px-2 my-3 overflow-hidden sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
@@ -748,8 +735,8 @@
         >auto</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           1
         </span>
       
@@ -764,8 +751,8 @@
         >blog</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           6
         </span>
       
@@ -780,8 +767,8 @@
         >co-op</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           7
         </span>
       
@@ -796,8 +783,8 @@
         >coding</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           4
         </span>
       
@@ -812,8 +799,8 @@
         >finance</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           1
         </span>
       
@@ -828,8 +815,8 @@
         >hugo</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           2
         </span>
       
@@ -844,8 +831,8 @@
         >productivity</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           1
         </span>
       
@@ -860,8 +847,8 @@
         >reflection</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           4
         </span>
       
@@ -876,8 +863,8 @@
         >tutorial</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           7
         </span>
       
@@ -892,8 +879,8 @@
         >加拿大</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           8
         </span>
       
@@ -908,8 +895,8 @@
         >博客裝修</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           6
         </span>
       
@@ -924,8 +911,8 @@
         >台灣</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           2
         </span>
       
@@ -940,8 +927,8 @@
         >吃吃喝喝</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           10
         </span>
       
@@ -956,8 +943,8 @@
         >女性主義</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           1
         </span>
       
@@ -972,8 +959,8 @@
         >廣東歌</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           2
         </span>
       
@@ -988,8 +975,8 @@
         >新年</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           4
         </span>
       
@@ -1004,8 +991,8 @@
         >旅行</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           2
         </span>
       
@@ -1020,8 +1007,8 @@
         >書影音遊</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           14
         </span>
       
@@ -1036,8 +1023,8 @@
         >月度推薦</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           3
         </span>
       
@@ -1052,8 +1039,8 @@
         >生日</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           1
         </span>
       
@@ -1068,8 +1055,8 @@
         >經驗帖</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           6
         </span>
       
@@ -1084,8 +1071,8 @@
         >讀書筆記</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           3
         </span>
       
@@ -1100,8 +1087,8 @@
         >返工</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           1
         </span>
       
@@ -1116,8 +1103,8 @@
         >香港</a
       >
       
-        <span class="px-2 text-base text-primary-500">&middot;</span>
-        <span class="text-base text-neutral-400">
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
           4
         </span>
       
@@ -1125,6 +1112,18 @@
   </article>
     
   </section>
+  <br>
+  
+  <script>
+    var oid = "views_taxonomy_tags"
+    var oid_likes = "likes_taxonomy_tags"
+  </script>
+  
+  
+  <script type="text/javascript" src="/js/page.min.b06a29d42a4ed16787978e2eee1e8c797b7698db2bc14ccee78f5c80ac566fc996190a73ad80a5e987558474b20b96fa38f7d85b405f165ff72b7b163c5ad11b.js" integrity="sha512-sGop1CpO0WeHl44u7h6MeXt2mNsrwUzO549cgKxWb8mWGQpzrYCl6YdVhHSyC5b6OPfYW0BfFl/3K3sWPFrRGw=="></script>
+  
+
+  
 
   
 
@@ -1150,7 +1149,7 @@
         
         <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
           <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/authors/"
-            title="作者">Authors</a>
+            title="關於我們">Authors</a>
         </li>
         
       </ul>
@@ -1166,7 +1165,7 @@
     
     
     <p class="text-sm text-neutral-500 dark:text-neutral-400">
-      © 2023 嘰嘰乞乞
+      © 2023-2025 嘰嘰乞乞
     </p>
     
 
@@ -1200,12 +1199,6 @@
   </script>  
   <script>
     
-    mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
-      margin: 24,
-      background: 'rgba(0,0,0,0.5)',
-      scrollOffset: 0,
-    })
-    
   </script>
   
   
@@ -1213,6 +1206,9 @@
   
   
   <a rel="me" href="https://masto.ai/@blowfish"></a>
+
+
+<script src="/js/custom.min.a4d1cb6847dfe47619f8964da067b0273dc0d731a36ae61211042bf87a6decfe.js"></script>
 
 
   

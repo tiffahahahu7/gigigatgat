@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Avocado (Tiffany) on GiGiGatGat</title>
+    <title>Avocado on GiGiGatGat</title>
     <link>https://www.gigigatgat.ca/en/authors/avocado/</link>
-    <description>Recent content in Avocado (Tiffany) on GiGiGatGat</description>
+    <description>Recent content in Avocado on GiGiGatGat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 GiGiGatGat</copyright>
+    <copyright>© 2023-2025 GiGiGatGat</copyright>
     <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/en/authors/avocado/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Book Notes｜Show Your Work</title>
@@ -65,16 +65,6 @@
       
       <guid>https://www.gigigatgat.ca/en/posts/how-to-use-entity-framework-core/</guid>
       <description>Entity Framework Core is a powerful tool for simplifying database integration with web applications.</description>
-      
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://www.gigigatgat.ca/en/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gigigatgat.ca/en/about/</guid>
-      <description>Hi there! We are Avocado and Sloth, a couple studying Web Development and living in Ottawa, Canada.</description>
       
     </item>
     
