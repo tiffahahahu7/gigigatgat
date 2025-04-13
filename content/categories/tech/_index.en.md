@@ -9,7 +9,7 @@ cascade:
 ---
 
 {{< lead >}}
-More Than Web Development
+All About Tech
 {{< /lead >}}
 
 This section contains tutorials, notes, and everything related to the field of technology.

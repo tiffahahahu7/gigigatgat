@@ -24,7 +24,7 @@ modal.addEventListener("click", function (event) {
 });
 document.addEventListener("keydown", function (event) {
   // "command + f" or "control + f" to open search wrapper
-  if ((event.key === 'f' || event.key === 'F') && (event.metaKey || event.ctrlKey)) {
+  if ((event.key === 's' || event.key === 'S') && (event.metaKey || event.ctrlKey)) {
     if (!searchVisible) {
       event.preventDefault();
       displaySearch();

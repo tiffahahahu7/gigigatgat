@@ -1,6 +1,6 @@
 ---
 title: "Review"
-description: "Commentary on our selections"
+description: "Notes Review"
 
 cascade:
   showEdit: false

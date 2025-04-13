@@ -1,5 +1,5 @@
 ---
-title: "Sloth (Raymond)"
+title: "Sloth"
 ---
 
-其實我也沒那麼懶。
+人如其名，龜速更新。

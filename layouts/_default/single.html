@@ -12,7 +12,6 @@
   {{ partial "partials/hero/basic.html" . }}
   {{ end }}
   {{ end }}
-
   <header id="single_header" class="mt-5 max-w-prose">
     {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
     {{ partial "breadcrumbs.html" . }}
@@ -74,7 +73,6 @@
           default false }} sd {{ end }} </div>
       </div>
       {{ end }}
-
       <div class="min-w-0 min-h-0 max-w-fit">
         
         {{ partial "series/series.html" . }}
@@ -107,15 +105,7 @@
           {{ end }}
 
         {{ end }}
-
-        {{ if and (.Params.showLikes | default (.Site.Params.article.showLikes | default false)) }}
-        <div class="text-neutral-500 dark:text-neutral-400">
-          <h2 class="inline-block mr-2">Like this post?</h2>
-            {{ partial "meta/likes.html" . }}&nbsp;
-            {{ partial "meta/likes_button.html" .}}
-        </div>
-
-        {{ end }}
+        {{ partial "reaction.html" . }}
         {{ partial "series/series-closed.html" . }}
         {{ partial "sharing-links.html" . }}
         {{ partial "related.html" . }}  

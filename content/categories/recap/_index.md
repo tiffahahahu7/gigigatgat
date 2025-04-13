@@ -1,5 +1,5 @@
 ---
-title: "每月小結"
+title: "月度小結"
 description: "How we live our life"
 
 cascade:

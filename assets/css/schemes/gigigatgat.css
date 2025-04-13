@@ -1,0 +1,33 @@
+/* Gigigatgat scheme 244,243,241;*/
+:root { --color-neutral: 245, 241, 227;
+--color-neutral-50:     245, 241, 227;
+--color-neutral-100:    245, 241, 227;
+--color-neutral-200:    211,204,198;
+--color-neutral-300:    211,204,198;
+--color-neutral-400:    177,166,155;
+--color-neutral-500:    144,128,112;
+--color-neutral-600:    121,108,94;
+--color-neutral-700:    98,87,76;
+--color-neutral-800:    75,67,58;
+--color-neutral-900:    52,46,41;
+--color-primary-50:     255,255,255;
+--color-primary-100:    255,255,255;
+--color-primary-200:    215,164,164;
+--color-primary-300:    239,217,217;
+--color-primary-400:    215,164,164;
+--color-primary-500:    192,111,111;
+--color-primary-600:    180,83,83;
+--color-primary-700:    154,67,67;
+--color-primary-800:    126,55,55;
+--color-primary-900:    192,111,111;
+--color-secondary-50:     255,255,255;
+--color-secondary-100:    255,255,255;
+--color-secondary-200:    255,255,255;
+--color-secondary-300:    255,255,255;
+--color-secondary-400:    247,243,245;
+--color-secondary-500:    215,198,207;
+--color-secondary-600:    198,174,187;
+--color-secondary-700:    181,150,167;
+--color-secondary-800:    165,126,146;
+--color-secondary-900:    147,103,126;
+  }

@@ -1,5 +1,5 @@
 ---
-title: "轉碼心得"
+title: "寫碼日常"
 description: "All about tech"
 
 cascade:
@@ -9,7 +9,7 @@ cascade:
 ---
 
 {{< lead >}}
-More Than Web Development
+All About Tech
 {{< /lead >}}
 
 ---

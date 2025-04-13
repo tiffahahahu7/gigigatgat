@@ -16,13 +16,13 @@
   weight = 10
 
 [[main]]
-  name = "轉碼心得"
+  name = "寫碼日常"
   parent = "主頁"
   pageRef = "categories/tech"
   weight = 20
 
 [[main]]
-  name = "每月小結"
+  name = "月度小結"
   parent = "主頁"
   pageRef = "categories/recap"
   weight = 30
@@ -34,13 +34,13 @@
   weight = 40
 
 [[main]]
-  name = "廚房故事"
+  name = "偶爾下廚"
   parent = "主頁"
   pageRef = "categories/kitchen"
   weight = 50
 
 [[main]]
-  name = "所見所聞"
+  name = "複習筆記"
   parent = "主頁"
   pageRef = "categories/review"
   weight = 60
@@ -49,11 +49,6 @@
   name = "友情鏈接"
   pageRef = "friends"
   weight = 70
-
-[[main]]
-  name = "關於我們"
-  pageRef = "about"
-  weight = 80
 
 #[[main]]
 #  name = "Merch"

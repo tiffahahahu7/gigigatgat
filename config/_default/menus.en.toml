@@ -39,11 +39,6 @@
   pageRef = "categories/review"
   weight = 50
 
-[[main]]
-  name = "About"
-  pageRef = "about"
-  weight = 60
-
 #[[main]]
 #  name = "Merch"
 #  url = "http://tee.pub/lic/qwSlWVBL5zc"

@@ -14,7 +14,7 @@ article:
   word_count:
     one: "{{ .Count }} 字"
     other: "{{ .Count }} 字"
-  part_of_series: "本文屬於一個選集。"
+  part_of_series: "本文屬於系列文章。"
   part: "§"
   this_article: "本文"
   related_articles: "相關文章"
@@ -27,8 +27,8 @@ code:
   copied: "已複製"
 
 error:
-  404_title: "找不到網頁 :confused:"
-  404_error: "404 錯誤"
+  404_title: "蕩失路 :cry:"
+  404_error: "404 Error"
   404_description: "您在尋找的頁面似乎不存在。"
 
 footer:

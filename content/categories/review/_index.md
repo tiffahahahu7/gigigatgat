@@ -1,6 +1,6 @@
 ---
-title: "所見所聞"
-description: "Commentary on our selections"
+title: "複習筆記"
+description: "Notes Review"
 
 cascade:
   showEdit: false

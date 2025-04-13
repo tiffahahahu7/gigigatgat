@@ -1,10 +1,12 @@
 ---
 title: "友情鏈接"
 description: "友鄰博客直通門"
+layout: "friends"
 
 aliases:
 - /zh-tw/friends
 showPagination: false
+heroStyle: background
 showDate: false
 showAuthor: false
 showWordCount: false
@@ -15,17 +17,9 @@ showLikes: false
 showComments: true
 ---
 
-每次造訪友鄰的博客我都感到幸福，請大家也幸福一下。如果你碰巧有自己的博客，歡迎在下方留言和我交換鏈接</a>！留言時請附上博客名稱、簡介、鏈接和頭像地址。示例如下：
-```
-博客名稱：嘰嘰乞乞
-博客簡介：但願我靈魂沒有生鏽
-博客鏈接：https://www.gigigatgat.ca/
-頭像地址：https://www.gigigatgat.ca/img/logo.png
-```
+每次造訪友鄰的博客我都感到幸福，請大家也幸福一下。
 
-注：博客簡介可能是副標題，可能是About頁面摘出來的摡括性短語；博客備註是本人的主觀印象，如需修改請留言或<a href="https://unstable.icu/@SiuMai">私信</a>聯繫Avocado ∠( ᐛ 」∠)＿
-
-{{<friends>}}
+{{<friendList>}}
 
 ## 單箭頭推薦
 - <a href="https://hocc.substack.com/">何韻詩</a>：GOOBLOG 2.0
@@ -40,3 +34,16 @@ showComments: true
 - <a href="https://heiheihei.ca/canadalife/">小觸手的書房</a>：全世界最會拆解知識點的畫手，看了一篇[《用畫畫的方式學車》](https://heiheihei.ca/learn-how-to-drive/)垂直入坑
 - <a href="https://www.lanisland.com/">唉，瀾的</a>：剛剛出版了一本食譜電子書的厲害友鄰，專精美食與攝影
 - <a href="https://cronopio.space/">新鮮棕櫚葉下</a>：喜歡翻「隨筆」、「美食」、「遊戲」和「測評」 -->
+
+<hr>
+如果你碰巧有自己的博客，歡迎在下方留言和我交換鏈接！示例如下：
+<br><br>
+
+{{< alert "comment" >}}
+
+博客名稱：嘰嘰乞乞<br>
+博客簡介：但願我靈魂沒有生鏽<br>
+博客鏈接：https://www.gigigatgat.ca/<br>
+頭像地址：https://www.gigigatgat.ca/img/logo.png
+
+{{< /alert >}}

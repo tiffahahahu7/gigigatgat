@@ -1,5 +1,8 @@
 <a rel="me" href="https://masto.ai/@blowfish"></a>
 
+{{ $customJS := resources.Get "js/custom.js" | minify | fingerprint }}
+<script src="{{ $customJS.RelPermalink }}"></script>
+
 <!-- {{- /* Footer custom content area start */ -}}
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
