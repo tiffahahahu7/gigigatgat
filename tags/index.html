@@ -52,6 +52,8 @@
     integrity="sha512-SPxms5RkOBW70cG&#43;9bmEfgfiYYL3obcBnmXfIrXSA&#43;WVkGDK8SoZkO6WvGnlSGIXhMvgmh4EZ55bKkLE&#43;mReqA==" data-copy="" data-copied=""></script>
   
   
+  <script src="/js/zoom.min.js"></script>
+  
   
   
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
@@ -875,6 +877,22 @@
     <h2 class="flex items-center">
       <a
         class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
+        href="/tags/trip/"
+        >trip</a
+      >
+      
+        <span class="px-2 text-base text-neutral-500">&middot;</span>
+        <span class="text-base text-neutral-500">
+          3
+        </span>
+      
+    </h2>
+  </article>
+    
+      <article class="w-full px-2 my-3 overflow-hidden sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
+    <h2 class="flex items-center">
+      <a
+        class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
         href="/tags/tutorial/"
         >tutorial</a
       >
@@ -913,7 +931,7 @@
       
         <span class="px-2 text-base text-neutral-500">&middot;</span>
         <span class="text-base text-neutral-500">
-          6
+          7
         </span>
       
     </h2>
@@ -945,7 +963,7 @@
       
         <span class="px-2 text-base text-neutral-500">&middot;</span>
         <span class="text-base text-neutral-500">
-          10
+          11
         </span>
       
     </h2>
@@ -1003,29 +1021,13 @@
     <h2 class="flex items-center">
       <a
         class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
-        href="/tags/%E6%97%85%E8%A1%8C/"
-        >旅行</a
-      >
-      
-        <span class="px-2 text-base text-neutral-500">&middot;</span>
-        <span class="text-base text-neutral-500">
-          2
-        </span>
-      
-    </h2>
-  </article>
-    
-      <article class="w-full px-2 my-3 overflow-hidden sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
-    <h2 class="flex items-center">
-      <a
-        class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
         href="/tags/%E6%9B%B8%E5%BD%B1%E9%9F%B3%E9%81%8A/"
         >書影音遊</a
       >
       
         <span class="px-2 text-base text-neutral-500">&middot;</span>
         <span class="text-base text-neutral-500">
-          14
+          15
         </span>
       
     </h2>
@@ -1214,6 +1216,12 @@
     document.getElementById('runningdays').innerHTML = result;
   </script>  
   <script>
+    
+    mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
+      margin: 24,
+      background: 'rgba(0,0,0,0.5)',
+      scrollOffset: 0,
+    })
     
   </script>
   

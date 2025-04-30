@@ -52,6 +52,8 @@
     integrity="sha512-SPxms5RkOBW70cG&#43;9bmEfgfiYYL3obcBnmXfIrXSA&#43;WVkGDK8SoZkO6WvGnlSGIXhMvgmh4EZ55bKkLE&#43;mReqA==" data-copy="" data-copied=""></script>
   
   
+  <script src="/js/zoom.min.js"></script>
+  
   
   
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
@@ -689,8 +691,9 @@
   <a href="/posts/weibo-archive/" class="min-w-full">
     
     <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
+      
         
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/posts/weibo-archive/featured_huc98de7463061e7567ffd3703eedba91b_79472_600x0_resize_q75_box.jpg);"></div>
+        <div class="w-full thumbnail_card nozoom" style="background-image:url(/20250413-cover1_7148752556935212619_huc98de7463061e7567ffd3703eedba91b_0_600x0_resize_q75_box.jpg);"></div>
         
       
 
@@ -881,6 +884,12 @@
     document.getElementById('runningdays').innerHTML = result;
   </script>  
   <script>
+    
+    mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
+      margin: 24,
+      background: 'rgba(0,0,0,0.5)',
+      scrollOffset: 0,
+    })
     
   </script>
   

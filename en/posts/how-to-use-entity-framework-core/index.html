@@ -50,6 +50,8 @@
     integrity="sha512-SPxms5RkOBW70cG&#43;9bmEfgfiYYL3obcBnmXfIrXSA&#43;WVkGDK8SoZkO6WvGnlSGIXhMvgmh4EZ55bKkLE&#43;mReqA==" data-copy="" data-copied=""></script>
   
   
+  <script src="/js/zoom.min.js"></script>
+  
   
   
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
@@ -1573,6 +1575,12 @@ window.addEventListener('open-heart', e => {
     document.getElementById('runningdays').innerHTML = result;
   </script>  
   <script>
+    
+    mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
+      margin: 24,
+      background: 'rgba(0,0,0,0.5)',
+      scrollOffset: 0,
+    })
     
   </script>
   

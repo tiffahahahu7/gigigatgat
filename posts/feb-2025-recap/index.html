@@ -50,6 +50,8 @@
     integrity="sha512-SPxms5RkOBW70cG&#43;9bmEfgfiYYL3obcBnmXfIrXSA&#43;WVkGDK8SoZkO6WvGnlSGIXhMvgmh4EZ55bKkLE&#43;mReqA==" data-copy="" data-copied=""></script>
   
   
+  <script src="/js/zoom.min.js"></script>
+  
   
   
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
@@ -1089,9 +1091,9 @@
 
 <div id="gallery-ec25ffe01a8d1a9d595a784728a5afb3" class="gallery">
   
-  <img src="https://images.gigigatgat.ca/20250228-takoyaki.jpg" class="grid-w100" />
-  <img src="https://images.gigigatgat.ca/20250228-crazy-girl.jpg" class="grid-w50" />
-  <img src="https://images.gigigatgat.ca/20250228-big-boss.jpg" class="grid-w50" />
+  <img src="https://images.gigigatgat.ca/20250228-takoyaki.jpg" alt="takoyaki" class="grid-w100" />
+  <img src="https://images.gigigatgat.ca/20250228-crazy-girl.jpg" alt="crazy girl" class="grid-w50" />
+  <img src="https://images.gigigatgat.ca/20250228-big-boss.jpg" alt="big boss" class="grid-w50" />
 
 </div>
 <p>另一餐是今天和Raymond的2y anniversary，吃了金鐘道的芝麻牛和啫啫腸粉牛腩煲。芝麻牛原來屬於——美式中餐的川菜= =，怪不得完全是甜酸的口感，炸過的牛肉片因為炸得太脆基本沒有了牛肉的口感，也不算難吃，只是嚐個鮮就不會再點了！最驚喜的反而是第二道菜裡的腸粉，短短的QQ的又很入味，和平時單獨吃的感覺很不一樣，喜歡！</p>
@@ -1112,8 +1114,8 @@
 
 <div id="gallery-5322bba5404c907216400e26f50dc784" class="gallery">
   
-  <img src="https://images.gigigatgat.ca/20250228-snow.jpg" class="grid-w50" />
-  <img src="https://images.gigigatgat.ca/20250228-footprint.jpg" class="grid-w50" />
+  <img src="https://images.gigigatgat.ca/20250228-snow.jpg" alt="snow" class="grid-w50" />
+  <img src="https://images.gigigatgat.ca/20250228-footprint.jpg" alt="my footprint in the snow" class="grid-w50" />
 
 </div>
 <p>雪厚起來之後一層一層的紋理也好分明，像沉積岩。</p>
@@ -1592,6 +1594,12 @@ window.addEventListener('open-heart', e => {
     document.getElementById('runningdays').innerHTML = result;
   </script>  
   <script>
+    
+    mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
+      margin: 24,
+      background: 'rgba(0,0,0,0.5)',
+      scrollOffset: 0,
+    })
     
   </script>
   
