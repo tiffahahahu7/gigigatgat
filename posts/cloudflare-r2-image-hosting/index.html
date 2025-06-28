@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.1df46e5396a77369fc15541d9a067de0b59dc60dd548012b0fbef6c743a8bccd13bf8f973b42ebb79f76be7ba2d3b8ef3289880e99c6d7b71ace6fc50b31c612.css"
-    integrity="sha512-HfRuU5anc2n8FVQdmgZ94LWdxg3VSAErD772x0OovM0Tv4&#43;XO0Lrt592vnui07jvMomIDpnG17cazm/FCzHGEg==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.d83e8f43156ad900c8561346c8380d24e141cc9d4173e171c627fbbbef5a6d7a626969f764bf5779082eaf3d55f1a2972ab51b4ceb9bc18890fb43d36b9b0a8a.css"
+    integrity="sha512-2D6PQxVq2QDIVhNGyDgNJOFBzJ1Bc&#43;Fxxif7u&#43;9abXpiaWn3ZL9XeQgurz1V8aKXKrUbTOubwYiQ&#43;0PTa5sKig==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -1099,10 +1099,10 @@
 <ul>
 <li>假設我們想用<code>cf-images</code>這個文件夾專門用於存儲博客圖片，打開terminal，輸入以下指令：</li>
 </ul>
-<pre tabindex="0"><code>mkdir ~/cf-images
-cd ~/cf-images
-npm install sharp
-</code></pre><details>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-jsx" data-lang="jsx"><span class="line"><span class="cl"><span class="nx">mkdir</span> <span class="o">~</span><span class="err">/cf-images</span>
+</span></span><span class="line"><span class="cl"><span class="nx">cd</span> <span class="o">~</span><span class="err">/cf-images</span>
+</span></span><span class="line"><span class="cl"><span class="nx">npm</span> <span class="nx">install</span> <span class="nx">sharp</span>
+</span></span></code></pre></div><details>
     <summary>點擊展開新手友好的對應解釋：</summary>
     <div><ul>
 <li><code>mkdir ~/cf-images</code>的作用是在username主路徑下新建文件夾，你可以通過修改具體path改變文件夾的位置，比如<code>mkdir ~/Documents/cf-images</code>等等。</li>
@@ -1117,88 +1117,88 @@ npm install sharp
 </ul>
 <details>
     <summary>點擊展開代碼詳情</summary>
-    <div><pre tabindex="0"><code>const fs = require(&#39;fs&#39;).promises;
-
-const path = require(&#39;path&#39;);
-
-const sharp = require(&#39;sharp&#39;);
-
-
-const inputDir = &#39;./input&#39;; //input folder path
-
-const outputDir = &#39;./output&#39;; //output folder path
-
-  
-async function processImage(inputPath, outputPath) {
-
-try {
-
-await sharp(inputPath)
-
-.resize({ width: 1200 }) // Optional resize
-
-.jpeg({ quality: 80 }) // Convert to JPEG and compress
-
-.toFile(outputPath);
-
-console.log(`✅ Processed: ${outputPath}`);
-
-
-// Remove the original input file after processing
-
-await fs.unlink(inputPath);
-
-console.log(`🗑️ Deleted: ${inputPath}`);
-
-} catch (error) {
-
-console.error(`❌ Failed to process ${inputPath}:`, error);
-
-}
-
-}
-
-
-async function processAllImages() {
-
-try {
-
-const files = await fs.readdir(inputDir);
-
-  
-const tasks = files.map(async (file) =&gt; {
-
-const ext = path.extname(file).toLowerCase();
-
-if (![&#39;.heic&#39;, &#39;.webp&#39;, &#39;.tiff&#39;, &#39;.svg&#39;, &#39;.gif&#39;, &#39;.jpg&#39;, &#39;.jpeg&#39;, &#39;.png&#39;].includes(ext)) return; // Filter supported formats
-
-
-const inputPath = path.join(inputDir, file);
-
-const outputFileName = path.basename(file, ext) + &#39;.jpg&#39;;
-
-const outputPath = path.join(outputDir, outputFileName);
-
-
-await processImage(inputPath, outputPath);
-
-});
-
-
-await Promise.all(tasks);
-
-console.log(&#39;🎉 All images processed!&#39;);
-
-} catch (err) {
-
-console.error(&#39;❌ Error reading directory:&#39;, err);
-
-}
-
-}
-
-processAllImages();
-</code></pre></div>
+    <div><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-jsx" data-lang="jsx"><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">fs</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s1">&#39;fs&#39;</span><span class="p">).</span><span class="nx">promises</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">path</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s1">&#39;path&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">sharp</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s1">&#39;sharp&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">inputDir</span> <span class="o">=</span> <span class="s1">&#39;./input&#39;</span><span class="p">;</span> <span class="c1">//input folder path
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">outputDir</span> <span class="o">=</span> <span class="s1">&#39;./output&#39;</span><span class="p">;</span> <span class="c1">//output folder path
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>
+</span></span><span class="line"><span class="cl">  
+</span></span><span class="line"><span class="cl"><span class="kr">async</span> <span class="kd">function</span> <span class="nx">processImage</span><span class="p">(</span><span class="nx">inputPath</span><span class="p">,</span> <span class="nx">outputPath</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">try</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">await</span> <span class="nx">sharp</span><span class="p">(</span><span class="nx">inputPath</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nx">resize</span><span class="p">({</span> <span class="nx">width</span><span class="o">:</span> <span class="mi">1200</span> <span class="p">})</span> <span class="c1">// Optional resize
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nx">jpeg</span><span class="p">({</span> <span class="nx">quality</span><span class="o">:</span> <span class="mi">80</span> <span class="p">})</span> <span class="c1">// Convert to JPEG and compress
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nx">toFile</span><span class="p">(</span><span class="nx">outputPath</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="sb">`✅ Processed: </span><span class="si">${</span><span class="nx">outputPath</span><span class="si">}</span><span class="sb">`</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">// Remove the original input file after processing
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>
+</span></span><span class="line"><span class="cl"><span class="kr">await</span> <span class="nx">fs</span><span class="p">.</span><span class="nx">unlink</span><span class="p">(</span><span class="nx">inputPath</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="sb">`🗑️ Deleted: </span><span class="si">${</span><span class="nx">inputPath</span><span class="si">}</span><span class="sb">`</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">}</span> <span class="k">catch</span> <span class="p">(</span><span class="nx">error</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">error</span><span class="p">(</span><span class="sb">`❌ Failed to process </span><span class="si">${</span><span class="nx">inputPath</span><span class="si">}</span><span class="sb">:`</span><span class="p">,</span> <span class="nx">error</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">async</span> <span class="kd">function</span> <span class="nx">processAllImages</span><span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">try</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">files</span> <span class="o">=</span> <span class="kr">await</span> <span class="nx">fs</span><span class="p">.</span><span class="nx">readdir</span><span class="p">(</span><span class="nx">inputDir</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">  
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">tasks</span> <span class="o">=</span> <span class="nx">files</span><span class="p">.</span><span class="nx">map</span><span class="p">(</span><span class="kr">async</span> <span class="p">(</span><span class="nx">file</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">ext</span> <span class="o">=</span> <span class="nx">path</span><span class="p">.</span><span class="nx">extname</span><span class="p">(</span><span class="nx">file</span><span class="p">).</span><span class="nx">toLowerCase</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="p">[</span><span class="s1">&#39;.heic&#39;</span><span class="p">,</span> <span class="s1">&#39;.webp&#39;</span><span class="p">,</span> <span class="s1">&#39;.tiff&#39;</span><span class="p">,</span> <span class="s1">&#39;.svg&#39;</span><span class="p">,</span> <span class="s1">&#39;.gif&#39;</span><span class="p">,</span> <span class="s1">&#39;.jpg&#39;</span><span class="p">,</span> <span class="s1">&#39;.jpeg&#39;</span><span class="p">,</span> <span class="s1">&#39;.png&#39;</span><span class="p">].</span><span class="nx">includes</span><span class="p">(</span><span class="nx">ext</span><span class="p">))</span> <span class="k">return</span><span class="p">;</span> <span class="c1">// Filter supported formats
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">inputPath</span> <span class="o">=</span> <span class="nx">path</span><span class="p">.</span><span class="nx">join</span><span class="p">(</span><span class="nx">inputDir</span><span class="p">,</span> <span class="nx">file</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">outputFileName</span> <span class="o">=</span> <span class="nx">path</span><span class="p">.</span><span class="nx">basename</span><span class="p">(</span><span class="nx">file</span><span class="p">,</span> <span class="nx">ext</span><span class="p">)</span> <span class="o">+</span> <span class="s1">&#39;.jpg&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">outputPath</span> <span class="o">=</span> <span class="nx">path</span><span class="p">.</span><span class="nx">join</span><span class="p">(</span><span class="nx">outputDir</span><span class="p">,</span> <span class="nx">outputFileName</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">await</span> <span class="nx">processImage</span><span class="p">(</span><span class="nx">inputPath</span><span class="p">,</span> <span class="nx">outputPath</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">});</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">await</span> <span class="nb">Promise</span><span class="p">.</span><span class="nx">all</span><span class="p">(</span><span class="nx">tasks</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">&#39;🎉 All images processed!&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">}</span> <span class="k">catch</span> <span class="p">(</span><span class="nx">err</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">error</span><span class="p">(</span><span class="s1">&#39;❌ Error reading directory:&#39;</span><span class="p">,</span> <span class="nx">err</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nx">processAllImages</span><span class="p">();</span>
+</span></span></code></pre></div></div>
 </details>
 <ul>
 <li>把需要處理的圖片放進<code>input</code> folder，在terminal裡run <code>node sharp-script.js</code>，就可以把所有圖片優化並並導出到圖片到<code>output</code> folder，同時也會刪除<code>input</code> folder內的原圖。</li>
@@ -1222,68 +1222,68 @@ processAllImages();
 </ul>
 <details>
     <summary>點擊展開代碼詳情</summary>
-    <div><pre tabindex="0"><code>const { exec } = require(&#34;child_process&#34;);
-const fs = require(&#34;fs&#34;).promises;
-const path = require(&#34;path&#34;);
-const util = require(&#34;util&#34;);
-
-const execPromise = util.promisify(exec); 
-const folderPath = &#34;./output&#34;; 
-const archivePath = &#34;./archives&#34;;
-const bucketName = &#34;images&#34;; // R2 bucket name
-
-async function uploadImages() {
-
-try {
-
-const files = await fs.readdir(folderPath);
-
-
-for (const file of files) {
-
-if (file === &#34;.DS_Store&#34;) continue; // Skip unwanted files
-
-const filePath = path.join(folderPath, file);
-
-const archiveFilePath = path.join(archivePath, file); // Path to move the file to archives
-
-console.log(`Uploading ${file} to R2...`);
-
-// Upload the file to R2
-
-const uploadCommand = `wrangler r2 object put ${bucketName}/${file} --file ${filePath}`;
-
-try {
-
-const { stdout } = await execPromise(uploadCommand);
-
-console.log(`Successfully uploaded ${file}:`, stdout);
-
-
-// After uploading, move the file to the archives folder
-
-await fs.rename(filePath, archiveFilePath);
-
-console.log(`Moved ${file} to the archives folder.`);
-
-} catch (uploadError) {
-
-console.error(`Error uploading ${file}:`, uploadError);
-
-}
-
-}
-
-} catch (err) {
-
-console.error(&#34;Error scanning directory:&#34;, err);
-
-}
-
-}
-
-uploadImages();
-</code></pre></div>
+    <div><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-jsx" data-lang="jsx"><span class="line"><span class="cl"><span class="kr">const</span> <span class="p">{</span> <span class="nx">exec</span> <span class="p">}</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s2">&#34;child_process&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">fs</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s2">&#34;fs&#34;</span><span class="p">).</span><span class="nx">promises</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">path</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s2">&#34;path&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">util</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s2">&#34;util&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">execPromise</span> <span class="o">=</span> <span class="nx">util</span><span class="p">.</span><span class="nx">promisify</span><span class="p">(</span><span class="nx">exec</span><span class="p">);</span> 
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">folderPath</span> <span class="o">=</span> <span class="s2">&#34;./output&#34;</span><span class="p">;</span> 
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">archivePath</span> <span class="o">=</span> <span class="s2">&#34;./archives&#34;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">bucketName</span> <span class="o">=</span> <span class="s2">&#34;images&#34;</span><span class="p">;</span> <span class="c1">// R2 bucket name
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>
+</span></span><span class="line"><span class="cl"><span class="kr">async</span> <span class="kd">function</span> <span class="nx">uploadImages</span><span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">try</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">files</span> <span class="o">=</span> <span class="kr">await</span> <span class="nx">fs</span><span class="p">.</span><span class="nx">readdir</span><span class="p">(</span><span class="nx">folderPath</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">for</span> <span class="p">(</span><span class="kr">const</span> <span class="nx">file</span> <span class="k">of</span> <span class="nx">files</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">if</span> <span class="p">(</span><span class="nx">file</span> <span class="o">===</span> <span class="s2">&#34;.DS_Store&#34;</span><span class="p">)</span> <span class="k">continue</span><span class="p">;</span> <span class="c1">// Skip unwanted files
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">filePath</span> <span class="o">=</span> <span class="nx">path</span><span class="p">.</span><span class="nx">join</span><span class="p">(</span><span class="nx">folderPath</span><span class="p">,</span> <span class="nx">file</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">archiveFilePath</span> <span class="o">=</span> <span class="nx">path</span><span class="p">.</span><span class="nx">join</span><span class="p">(</span><span class="nx">archivePath</span><span class="p">,</span> <span class="nx">file</span><span class="p">);</span> <span class="c1">// Path to move the file to archives
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>
+</span></span><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="sb">`Uploading </span><span class="si">${</span><span class="nx">file</span><span class="si">}</span><span class="sb"> to R2...`</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">// Upload the file to R2
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">uploadCommand</span> <span class="o">=</span> <span class="sb">`wrangler r2 object put </span><span class="si">${</span><span class="nx">bucketName</span><span class="si">}</span><span class="sb">/</span><span class="si">${</span><span class="nx">file</span><span class="si">}</span><span class="sb"> --file </span><span class="si">${</span><span class="nx">filePath</span><span class="si">}</span><span class="sb">`</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">try</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="p">{</span> <span class="nx">stdout</span> <span class="p">}</span> <span class="o">=</span> <span class="kr">await</span> <span class="nx">execPromise</span><span class="p">(</span><span class="nx">uploadCommand</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="sb">`Successfully uploaded </span><span class="si">${</span><span class="nx">file</span><span class="si">}</span><span class="sb">:`</span><span class="p">,</span> <span class="nx">stdout</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">// After uploading, move the file to the archives folder
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>
+</span></span><span class="line"><span class="cl"><span class="kr">await</span> <span class="nx">fs</span><span class="p">.</span><span class="nx">rename</span><span class="p">(</span><span class="nx">filePath</span><span class="p">,</span> <span class="nx">archiveFilePath</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="sb">`Moved </span><span class="si">${</span><span class="nx">file</span><span class="si">}</span><span class="sb"> to the archives folder.`</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">}</span> <span class="k">catch</span> <span class="p">(</span><span class="nx">uploadError</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">error</span><span class="p">(</span><span class="sb">`Error uploading </span><span class="si">${</span><span class="nx">file</span><span class="si">}</span><span class="sb">:`</span><span class="p">,</span> <span class="nx">uploadError</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">}</span> <span class="k">catch</span> <span class="p">(</span><span class="nx">err</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">error</span><span class="p">(</span><span class="s2">&#34;Error scanning directory:&#34;</span><span class="p">,</span> <span class="nx">err</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nx">uploadImages</span><span class="p">();</span>
+</span></span></code></pre></div></div>
 </details>
 <ul>
 <li>運行<code>node upload-images.js</code>即可將<code>output</code>文件夾內所有圖片上傳到R2 bucket，該腳本同樣會刪除<code>output</code>文件夾內所有已上傳成功的文件，並將其移至<code>archives</code>文件夾存檔。</li>

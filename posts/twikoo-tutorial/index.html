@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.1df46e5396a77369fc15541d9a067de0b59dc60dd548012b0fbef6c743a8bccd13bf8f973b42ebb79f76be7ba2d3b8ef3289880e99c6d7b71ace6fc50b31c612.css"
-    integrity="sha512-HfRuU5anc2n8FVQdmgZ94LWdxg3VSAErD772x0OovM0Tv4&#43;XO0Lrt592vnui07jvMomIDpnG17cazm/FCzHGEg==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.d83e8f43156ad900c8561346c8380d24e141cc9d4173e171c627fbbbef5a6d7a626969f764bf5779082eaf3d55f1a2972ab51b4ceb9bc18890fb43d36b9b0a8a.css"
+    integrity="sha512-2D6PQxVq2QDIVhNGyDgNJOFBzJ1Bc&#43;Fxxif7u&#43;9abXpiaWn3ZL9XeQgurz1V8aKXKrUbTOubwYiQ&#43;0PTa5sKig==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -1056,31 +1056,31 @@
     
 </h3>
 <p>在<code>assets/js</code>文件夾裡新建<code>owo.json</code>文件，基本格式如下：</p>
-<pre tabindex="0"><code>{
-    &#34;Blobcat&#34;: {
-      &#34;type&#34;: &#34;image&#34;,
-      &#34;container&#34;: [
-        { &#34;icon&#34;: &#34;&lt;img src=\&#34;https://emojis.slackmojis.com/emojis/images/1643515456/14767/meow_adorable.png?1643515456\&#34;&gt;&#34;, &#34;text&#34;: &#34;meow_adorable&#34; },
-        { &#34;icon&#34;: &#34;&lt;img src=\&#34;https://emojis.slackmojis.com/emojis/images/1643515237/12549/meow_angel.png?1643515237\&#34;&gt;&#34;, &#34;text&#34;: &#34;meow_angel&#34; }
-      ]
-    },
-    &#34;颜文字&#34;: {
-      &#34;type&#34;: &#34;emoticon&#34;,
-      &#34;container&#34;: [
-        { &#34;icon&#34;: &#34;OωO&#34;, &#34;text&#34;: &#34;Author: DIYgod&#34; },
-        { &#34;icon&#34;: &#34;|´・ω・)ノ&#34;, &#34;text&#34;: &#34;Hi&#34; },
-        { &#34;icon&#34;: &#34;ヾ(≧∇≦*)ゝ&#34;, &#34;text&#34;: &#34;开心&#34; }
-      ]
-    },
-    &#34;Emoji&#34;: {
-      &#34;type&#34;: &#34;emoji&#34;,
-      &#34;container&#34;: [
-        { &#34;icon&#34;: &#34;😀&#34;, &#34;text&#34;: &#34;&#34; },
-        { &#34;icon&#34;: &#34;😅&#34;, &#34;text&#34;: &#34;&#34; }
-      ]
-    }
-  }
-</code></pre><p>在此基礎上對表情包刪刪改改就行了。建議將每個系列的表情包長度控制在三四十個以內就好，太多選擇既無謂又影響加載速度。如果沒有接觸過json語法的話，可以搜一個JSON Formatter &amp; Validator來確認或者直接丟給chatGPT勘誤。</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-jsx" data-lang="jsx"><span class="line"><span class="cl"><span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="s2">&#34;Blobcat&#34;</span><span class="o">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="s2">&#34;type&#34;</span><span class="o">:</span> <span class="s2">&#34;image&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="s2">&#34;container&#34;</span><span class="o">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">        <span class="p">{</span> <span class="s2">&#34;icon&#34;</span><span class="o">:</span> <span class="s2">&#34;&lt;img src=\&#34;https://emojis.slackmojis.com/emojis/images/1643515456/14767/meow_adorable.png?1643515456\&#34;&gt;&#34;</span><span class="p">,</span> <span class="s2">&#34;text&#34;</span><span class="o">:</span> <span class="s2">&#34;meow_adorable&#34;</span> <span class="p">},</span>
+</span></span><span class="line"><span class="cl">        <span class="p">{</span> <span class="s2">&#34;icon&#34;</span><span class="o">:</span> <span class="s2">&#34;&lt;img src=\&#34;https://emojis.slackmojis.com/emojis/images/1643515237/12549/meow_angel.png?1643515237\&#34;&gt;&#34;</span><span class="p">,</span> <span class="s2">&#34;text&#34;</span><span class="o">:</span> <span class="s2">&#34;meow_angel&#34;</span> <span class="p">}</span>
+</span></span><span class="line"><span class="cl">      <span class="p">]</span>
+</span></span><span class="line"><span class="cl">    <span class="p">},</span>
+</span></span><span class="line"><span class="cl">    <span class="s2">&#34;颜文字&#34;</span><span class="o">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="s2">&#34;type&#34;</span><span class="o">:</span> <span class="s2">&#34;emoticon&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="s2">&#34;container&#34;</span><span class="o">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">        <span class="p">{</span> <span class="s2">&#34;icon&#34;</span><span class="o">:</span> <span class="s2">&#34;OωO&#34;</span><span class="p">,</span> <span class="s2">&#34;text&#34;</span><span class="o">:</span> <span class="s2">&#34;Author: DIYgod&#34;</span> <span class="p">},</span>
+</span></span><span class="line"><span class="cl">        <span class="p">{</span> <span class="s2">&#34;icon&#34;</span><span class="o">:</span> <span class="s2">&#34;|´・ω・)ノ&#34;</span><span class="p">,</span> <span class="s2">&#34;text&#34;</span><span class="o">:</span> <span class="s2">&#34;Hi&#34;</span> <span class="p">},</span>
+</span></span><span class="line"><span class="cl">        <span class="p">{</span> <span class="s2">&#34;icon&#34;</span><span class="o">:</span> <span class="s2">&#34;ヾ(≧∇≦*)ゝ&#34;</span><span class="p">,</span> <span class="s2">&#34;text&#34;</span><span class="o">:</span> <span class="s2">&#34;开心&#34;</span> <span class="p">}</span>
+</span></span><span class="line"><span class="cl">      <span class="p">]</span>
+</span></span><span class="line"><span class="cl">    <span class="p">},</span>
+</span></span><span class="line"><span class="cl">    <span class="s2">&#34;Emoji&#34;</span><span class="o">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="s2">&#34;type&#34;</span><span class="o">:</span> <span class="s2">&#34;emoji&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="s2">&#34;container&#34;</span><span class="o">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">        <span class="p">{</span> <span class="s2">&#34;icon&#34;</span><span class="o">:</span> <span class="s2">&#34;😀&#34;</span><span class="p">,</span> <span class="s2">&#34;text&#34;</span><span class="o">:</span> <span class="s2">&#34;&#34;</span> <span class="p">},</span>
+</span></span><span class="line"><span class="cl">        <span class="p">{</span> <span class="s2">&#34;icon&#34;</span><span class="o">:</span> <span class="s2">&#34;😅&#34;</span><span class="p">,</span> <span class="s2">&#34;text&#34;</span><span class="o">:</span> <span class="s2">&#34;&#34;</span> <span class="p">}</span>
+</span></span><span class="line"><span class="cl">      <span class="p">]</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span></code></pre></div><p>在此基礎上對表情包刪刪改改就行了。建議將每個系列的表情包長度控制在三四十個以內就好，太多選擇既無謂又影響加載速度。如果沒有接觸過json語法的話，可以搜一個JSON Formatter &amp; Validator來確認或者直接丟給chatGPT勘誤。</p>
 
 
 <h3 class="relative group">修改css 
@@ -1094,11 +1094,11 @@
     
 </h3>
 <p>如果不修改css，像blobcat這樣以圖片格式出現的表情包就會是單獨佔整行的block element，很影響使用體驗。我在<code>assets/css/custom.css</code>（具體地址和文件可能因主題不同有所區別）裡添加了如下代碼就解決了：</p>
-<pre tabindex="0"><code>.tk-content img, .tk-preview-container img {
-    display: inline;
-    vertical-align: bottom !important;
-}
-</code></pre>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-jsx" data-lang="jsx"><span class="line"><span class="cl"><span class="p">.</span><span class="nx">tk</span><span class="o">-</span><span class="nx">content</span> <span class="nx">img</span><span class="p">,</span> <span class="p">.</span><span class="nx">tk</span><span class="o">-</span><span class="nx">preview</span><span class="o">-</span><span class="nx">container</span> <span class="nx">img</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">display</span><span class="o">:</span> <span class="nx">inline</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">vertical</span><span class="o">-</span><span class="nx">align</span><span class="o">:</span> <span class="nx">bottom</span> <span class="o">!</span><span class="nx">important</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></div>
 
 <h3 class="relative group">上傳並設置Emoji CDN 
     <div id="%E4%B8%8A%E5%82%B3%E4%B8%A6%E8%A8%AD%E7%BD%AEemoji-cdn" class="anchor"></div>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>觀鳥 on 嘰嘰乞乞</title>
+    <link>https://www.gigigatgat.ca/tags/%E8%A7%80%E9%B3%A5/</link>
+    <description>Recent content in 觀鳥 on 嘰嘰乞乞</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <copyright>© 2023-2025 嘰嘰乞乞</copyright>
+    <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/tags/%E8%A7%80%E9%B3%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>從世界的盡頭歸來之Newfoundland遊記</title>
+      <link>https://www.gigigatgat.ca/posts/newfoundland-trip/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/posts/newfoundland-trip/</guid>
+      <description>On the edge of the Atlan</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.gigigatgat.ca/posts/newfoundland-trip/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
