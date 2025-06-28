@@ -44,7 +44,7 @@ Twikoo原生的表情包文件是`https://owo.imaegoo.com/owo.json`，顏文字�
 ### 編輯`owo.json`文件
 在`assets/js`文件夾裡新建`owo.json`文件，基本格式如下：
 
-```
+```jsx
 {
     "Blobcat": {
       "type": "image",
@@ -74,7 +74,7 @@ Twikoo原生的表情包文件是`https://owo.imaegoo.com/owo.json`，顏文字�
 在此基礎上對表情包刪刪改改就行了。建議將每個系列的表情包長度控制在三四十個以內就好，太多選擇既無謂又影響加載速度。如果沒有接觸過json語法的話，可以搜一個JSON Formatter & Validator來確認或者直接丟給chatGPT勘誤。
 ### 修改css
 如果不修改css，像blobcat這樣以圖片格式出現的表情包就會是單獨佔整行的block element，很影響使用體驗。我在`assets/css/custom.css`（具體地址和文件可能因主題不同有所區別）裡添加了如下代碼就解決了：
-```
+```jsx
 .tk-content img, .tk-preview-container img {
     display: inline;
     vertical-align: bottom !important;

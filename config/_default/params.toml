@@ -17,7 +17,7 @@ mainSections = ["posts"]
 
 disableImageOptimization = false
 disableTextInHeader=true
-disableImageZoom=true
+disableImageZoom=false
 
 defaultBackgroundImage = "/img/forest.jpg"
 # defaultFeaturedImage = "/img/forest.jpg"

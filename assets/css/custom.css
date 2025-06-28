@@ -196,3 +196,7 @@ body ::-moz-selection {
       top: -50px;
     }
   }
+
+.sm-img{
+    max-width: 350px;
+}

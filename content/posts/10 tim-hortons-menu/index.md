@@ -24,9 +24,6 @@ authors:
 
 我去年九月開始在學校的Tims打工，又做cashier又做counter assistant，三個多月下來也算是對菜單熟稔於心。雖然咱這家Tims提供的產品種類帶點限制，要cold brew沒有cold brew，要quencher沒有quencher，也沒有loaded wrap和bowl，但沒有的也基本就這些了！本文會先（完全憑主觀感覺）搞一個顧客流行指數和本人推薦指數，再根據Tims產品分類，以五顆星為滿分詳細嘮嘮我想嘮的單品和打工以來的觀察體驗，耶ヽ(･∀･)ﾉ
 
-{{< alert >}}
-**頂鍋蓋：** 如果試了覺得上當了別來罵我，要麼我倆口味天差地別，要麼給妳做的員工操作不規範或者東西擺太久了，可以直接要求重做一份或者換個別的的！
-{{< /alert >}}
 ## 顧客流行指數榜Top5
 🥤：[Double Double](#double-double) / [French Vanilla](#french-vanilla) / [Iced Capp](#iced-capp) / [Iced Coffee](#iced-coffee) / [Chai Tea](#chai-tea)
 

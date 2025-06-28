@@ -53,7 +53,7 @@ authors:
 ### 2. 圖片優化處理-Sharp
 - 假設我們想用`cf-images`這個文件夾專門用於存儲博客圖片，打開terminal，輸入以下指令：
 
-```
+```jsx
 mkdir ~/cf-images
 cd ~/cf-images
 npm install sharp
@@ -68,7 +68,7 @@ npm install sharp
 - 在該文件夾內新建`input`，`output`，`archives`三個文件夾和`sharp-script.js`新文件，這一步我更喜歡用Visual Studio Code直接打開`cf-images`文件夾操作。然後複製粘貼以下代碼到`sharp-script.js`：
 
 {{< details summary="點擊展開代碼詳情" >}}
-```
+```jsx
 const fs = require('fs').promises;
 
 const path = require('path');
@@ -160,7 +160,7 @@ processAllImages();
 - 新建`upload-images.js`，再次複製粘貼以下代碼，並注意將`const bucketName = "images";`這行的`images`替換為自己的bucket name：
 
 {{< details summary="點擊展開代碼詳情" >}}
-```
+```jsx
 const { exec } = require("child_process");
 const fs = require("fs").promises;
 const path = require("path");

@@ -5,7 +5,7 @@ draft: false
 description: "台北三日solotrip"
 slug: "taipei-trip"
 featureimage: "https://images.gigigatgat.ca/20241226-cover.jpg"
-tags: ["台灣", "旅行"]
+tags: ["台灣", "trip"]
 categories: ["life"]
 showComments: true
 showAuthor: false

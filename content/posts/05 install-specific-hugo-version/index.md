@@ -30,7 +30,7 @@ Remember to change the path if your package is downloaded in a different locatio
 {{< /alert >}}
 
 You'll see something like below in the terminal:
-```
+```shell
 -rwxr-xr-x  0 root   root 145442184 Sep 24 11:29 hugo
 -rw-r--r--  0 root   root     12810 Sep 24 11:19 README.md
 -rw-r--r--  0 root   root     11347 Sep 24 11:19 LICENSE

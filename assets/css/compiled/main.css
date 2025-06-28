@@ -1067,9 +1067,9 @@ select {
   color:inherit
 }
 
-.prose :where(blockquote code):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+/* .prose :where(blockquote code):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
   color:inherit
-}
+} */
 
 .prose :where(thead th code):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
   color:inherit
@@ -1078,6 +1078,7 @@ select {
 .prose :where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
   /* color:var(--tw-prose-pre-code); */
   background-color:var(--tw-prose-pre-bg);
+  border: solid 2px var(--tw-prose-th-borders);
   overflow-x:auto;
   font-weight:400;
   font-size:0.875em;
@@ -1179,13 +1180,14 @@ select {
   --tw-prose-bullets:rgba(var(--color-neutral-500), 1);
   --tw-prose-hr:rgba(var(--color-neutral-200), 1);
   --tw-prose-quotes:rgba(var(--color-neutral-700), 1);
-  --tw-prose-quote-borders:rgba(var(--color-primary-200), 1);
+  --tw-prose-quote-borders:rgba(var(--color-primary-500), 1);
   --tw-prose-captions:rgba(var(--color-neutral-500), 1);
   --tw-prose-kbd:#111827;
   --tw-prose-kbd-shadows:17 24 39;
   --tw-prose-code:rgba(var(--color-primary-600), 1);
   --tw-prose-pre-code:rgba(var(--color-primary-600), 1);
-  --tw-prose-pre-bg:rgba(var(--color-secondary-400), 1);
+  /* --tw-prose-pre-bg:rgba(var(--color-secondary-400), 1); */
+  --tw-prose-pre-bg:rgba(var(--color-neutral-100), 1);
   --tw-prose-th-borders:rgba(var(--color-neutral-500), 1);
   --tw-prose-td-borders:rgba(var(--color-neutral-300), 1);
   --tw-prose-invert-body:rgba(var(--color-neutral-300), 1);
@@ -1197,7 +1199,7 @@ select {
   --tw-prose-invert-bullets:rgba(var(--color-neutral-600), 1);
   --tw-prose-invert-hr:rgba(var(--color-neutral-500), 1);
   --tw-prose-invert-quotes:rgba(var(--color-neutral-200), 1);
-  --tw-prose-invert-quote-borders:rgba(var(--color-primary-500), 1);
+  --tw-prose-invert-quote-borders:rgba(var(--color-primary-400), 1);
   --tw-prose-invert-captions:rgba(var(--color-neutral-400), 1);
   --tw-prose-invert-kbd:#fff;
   --tw-prose-invert-kbd-shadows:255 255 255;
@@ -3215,31 +3217,31 @@ body:has(#menu-controller:checked) {
 .copy-button {
   visibility:hidden;
   position:absolute;
-  top:0px;
-  right:0px;
+  top:2px;
+  right:2px;
   z-index:10;
   width:5rem;
   cursor:pointer;
   white-space:nowrap;
   border-bottom-left-radius:0.375rem;
-  border-top-right-radius:0.375rem;
+  border-top-right-radius:0.275rem;
   --tw-bg-opacity:1;
-  background-color:rgba(var(--color-neutral-200), var(--tw-bg-opacity));
+  background-color:rgba(var(--color-primary-500), var(--tw-bg-opacity));
   padding-top:0.25rem;
   padding-bottom:0.25rem;
   font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   font-size:0.875rem;
   line-height:1.25rem;
   --tw-text-opacity:1;
-  color:rgba(var(--color-neutral-700), var(--tw-text-opacity));
+  color:rgba(var(--color-neutral-100), var(--tw-text-opacity));
   opacity:0.9
 }
 
 .copy-button:is(.dark *) {
   --tw-bg-opacity:1;
-  background-color:rgba(var(--color-neutral-600), var(--tw-bg-opacity));
+  background-color:rgba(var(--color-primary-500), var(--tw-bg-opacity));
   --tw-text-opacity:1;
-  color:rgba(var(--color-neutral-200), var(--tw-text-opacity))
+  color:rgba(var(--color-neutral-100), var(--tw-text-opacity))
 }
 
 .copy-button:hover,
@@ -3247,7 +3249,7 @@ body:has(#menu-controller:checked) {
 .copy-button:active,
 .copy-button:active:hover {
   --tw-bg-opacity:1;
-  background-color:rgba(var(--color-primary-100), var(--tw-bg-opacity))
+  background-color:rgba(var(--color-primary-600), var(--tw-bg-opacity))
 }
 
 .copy-button:hover:is(.dark *),
@@ -3470,7 +3472,7 @@ code {
 .chroma .il,
 .chroma .mo {
   --tw-text-opacity:1;
-  color:rgba(var(--color-secondary-400), var(--tw-text-opacity))
+  color:rgba(var(--color-primary-600), var(--tw-text-opacity))
 }
 
 .chroma .kt:is(.dark *),
@@ -3485,7 +3487,7 @@ code {
 .chroma .il:is(.dark *),
 .chroma .mo:is(.dark *) {
   --tw-text-opacity:1;
-  color:rgba(var(--color-secondary-600), var(--tw-text-opacity))
+  color:rgba(var(--color-primary-400), var(--tw-text-opacity))
 }
 
 /* Name */
@@ -3531,7 +3533,7 @@ code {
 .chroma .py,
 .chroma .nt {
   --tw-text-opacity:1;
-  color:rgba(var(--color-secondary-800), var(--tw-text-opacity))
+  color:rgba(var(--color-primary-800), var(--tw-text-opacity))
 }
 
 .chroma .na:is(.dark *),
@@ -3541,7 +3543,7 @@ code {
 .chroma .py:is(.dark *),
 .chroma .nt:is(.dark *) {
   --tw-text-opacity:1;
-  color:rgba(var(--color-secondary-300), var(--tw-text-opacity))
+  color:rgba(var(--color-primary-300), var(--tw-text-opacity))
 }
 
 /* NameConstant */
@@ -5021,6 +5023,21 @@ pre {
   background-color:rgba(var(--color-primary-400), var(--tw-bg-opacity))
 }
 
+.dark\:bg-primary-500:is(.dark *) {
+  --tw-bg-opacity:1;
+  background-color:rgba(var(--color-primary-500), var(--tw-bg-opacity))
+}
+
+.dark\:bg-primary-600:is(.dark *) {
+  --tw-bg-opacity:1;
+  background-color:rgba(var(--color-primary-600), var(--tw-bg-opacity))
+}
+
+.dark\:bg-primary-700:is(.dark *) {
+  --tw-bg-opacity:1;
+  background-color:rgba(var(--color-primary-700), var(--tw-bg-opacity))
+}
+
 .dark\:bg-primary-800:is(.dark *) {
   --tw-bg-opacity:1;
   background-color:rgba(var(--color-primary-800), var(--tw-bg-opacity))
@@ -5089,6 +5106,11 @@ pre {
 .dark\:text-neutral-800:is(.dark *) {
   --tw-text-opacity:1;
   color:rgba(var(--color-neutral-800), var(--tw-text-opacity))
+}
+
+.dark\:text-primary-100:is(.dark *) {
+  --tw-text-opacity:1;
+  color:rgba(var(--color-primary-100), var(--tw-text-opacity))
 }
 
 .dark\:text-primary-200:is(.dark *) {

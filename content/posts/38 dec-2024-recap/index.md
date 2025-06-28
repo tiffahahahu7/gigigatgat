@@ -5,7 +5,7 @@ draft: false
 description: "十二月小結"
 slug: "dec 2024 recap"
 featureimage: "https://images.gigigatgat.ca/20241229-cover.jpg"
-tags: ["旅行", "書影音遊"]
+tags: ["trip", "書影音遊"]
 categories: ["recap"]
 showComments: true
 showAuthor: false

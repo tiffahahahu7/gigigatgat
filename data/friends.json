@@ -134,8 +134,8 @@
     },
     {
       "title": "昼梦日和",
-      "website": "https://nanako-blog.web.app/",
-      "image": "https://nanako-blog.web.app/img/author_hu_fa3623b4f75494f4.jpg", 
+      "website": "https://nanako.icu/",
+      "image": "https://nanako.icu/img/author_hu7523c4f5e8247f874bf33f66186bec6f_95336_192x192_fill_q75_box_center.jpeg", 
       "description": "梦是现实的延续，现实是梦的终结",
       "notes": "充滿活力的菜菜子，寫下的文字都蹦蹦跳跳"
     },
@@ -144,7 +144,28 @@
       "website": "https://imasugu.cc",
       "image": "https://imasugu.cc/img/TwemojiOctopus_small.png", 
       "description": "贈你杯酒共我飲",
-      "notes": "紫色的大海吐出可愛的泡泡"
+      "notes": "最新發現的海洋生物，會變身成大蔥鴨"
+    },
+    {
+      "title": "夜航南飞",
+      "website": "https://banshou-air.netlify.app/",
+      "image": "https://banshou-air.netlify.app/img/logo.png", 
+      "description": "The world is beautiful. Let me come through it to you.",
+      "notes": "身懷大遊戲絕技的蛋卷機長"
+    },
+    {
+      "title": "昼河万里",
+      "website": "https://tothemoonriver.icu",
+      "image": "https://tothemoonriver.icu/img/avatar_hu1f7fd3bb10d1d6e480fe680f98f799d1_738451_300x0_resize_box_3.png", 
+      "description": "一起去看月亮吧。",
+      "notes": "音樂和生活一起流動"
+    },
+    {
+      "title": "此地有野狗出没",
+      "website": "https://luoshui.icu/",
+      "image": "https://luoshui.icu/img/%E7%8B%97.jpg", 
+      "description": "小心！野兽凶猛！",
+      "notes": "世界上最可愛的狗"
     }       
   ]
   

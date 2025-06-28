@@ -4,7 +4,7 @@ date: 2025-04-13
 draft: false
 description: "20-22年個人微博存檔"
 slug: "weibo archive"
-# featureimage: "https://images.gigigatgat.ca/20250413-cover.jpg"
+featureimage: "https://images.gigigatgat.ca/20250413-cover1.jpg"
 tags: ["memory"]
 categories: ["life"]
 showComments: true

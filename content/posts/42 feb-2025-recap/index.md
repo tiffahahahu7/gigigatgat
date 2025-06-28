@@ -48,9 +48,9 @@ _Photo by [Etienne Delorieux](https://unsplash.com/@etiennedelorieux?utm_content
 因為平時很少外食所以想紀念一下！情人節去吃了村里的創意日料J:Unique，這家還是Trudeau吃過的，一進門就看到一個裱起來的簽名板。菜單裡的special roll好多我都感興趣，礙於兩個人一餐食量有限最後選的是Crazy Girl和Big Boss，後者上面鋪滿了脆脆的紅薯絲很有口感。下次還想吃招牌的火焰料理、sockeye salmon oshi和mango sushi。
 
 {{< gallery >}}
-  <img src="https://images.gigigatgat.ca/20250228-takoyaki.jpg" class="grid-w100" />
-  <img src="https://images.gigigatgat.ca/20250228-crazy-girl.jpg" class="grid-w50" />
-  <img src="https://images.gigigatgat.ca/20250228-big-boss.jpg" class="grid-w50" />
+  <img src="https://images.gigigatgat.ca/20250228-takoyaki.jpg" alt="takoyaki" class="grid-w100" />
+  <img src="https://images.gigigatgat.ca/20250228-crazy-girl.jpg" alt="crazy girl" class="grid-w50" />
+  <img src="https://images.gigigatgat.ca/20250228-big-boss.jpg" alt="big boss" class="grid-w50" />
 {{< /gallery >}}
 
 另一餐是今天和Raymond的2y anniversary，吃了金鐘道的芝麻牛和啫啫腸粉牛腩煲。芝麻牛原來屬於——美式中餐的川菜= =，怪不得完全是甜酸的口感，炸過的牛肉片因為炸得太脆基本沒有了牛肉的口感，也不算難吃，只是嚐個鮮就不會再點了！最驚喜的反而是第二道菜裡的腸粉，短短的QQ的又很入味，和平時單獨吃的感覺很不一樣，喜歡！
@@ -58,8 +58,8 @@ _Photo by [Etienne Delorieux](https://unsplash.com/@etiennedelorieux?utm_content
 二月的暴風雪是我有生以來見過最大的雪！一開門就被門檻後的積雪高度震撼到瞪大了眼，天氣預報裡說的30-40cm真是名不虛傳，請看雙腳踩進去後的深度：
 
 {{< gallery >}}
-  <img src="https://images.gigigatgat.ca/20250228-snow.jpg" class="grid-w50" />
-  <img src="https://images.gigigatgat.ca/20250228-footprint.jpg" class="grid-w50" />
+  <img src="https://images.gigigatgat.ca/20250228-snow.jpg" alt="snow" class="grid-w50" />
+  <img src="https://images.gigigatgat.ca/20250228-footprint.jpg" alt="my footprint in the snow" class="grid-w50" />
 {{< /gallery >}}
 
 雪厚起來之後一層一層的紋理也好分明，像沉積岩。

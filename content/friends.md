@@ -39,11 +39,9 @@ showComments: true
 如果你碰巧有自己的博客，歡迎在下方留言和我交換鏈接！示例如下：
 <br><br>
 
-{{< alert "comment" >}}
-
-博客名稱：嘰嘰乞乞<br>
-博客簡介：但願我靈魂沒有生鏽<br>
-博客鏈接：https://www.gigigatgat.ca/<br>
+```
+博客名稱：嘰嘰乞乞
+博客簡介：但願我靈魂沒有生鏽
+博客鏈接：https://www.gigigatgat.ca/
 頭像地址：https://www.gigigatgat.ca/img/logo.png
-
-{{< /alert >}}
+```
