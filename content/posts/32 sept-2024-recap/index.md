@@ -5,7 +5,7 @@ draft: false
 description: "九月小結"
 slug: "sept 2024 recap"
 featureimage: "https://images.gigigatgat.ca/20240928-cover.jpg"
-tags: ["加拿大", "productivity", "月度推薦"]
+tags: ["加拿大", "productivity", "五星推薦"]
 categories: ["recap"]
 showComments: true
 showAuthor: false

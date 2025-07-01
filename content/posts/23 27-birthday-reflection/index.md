@@ -5,7 +5,7 @@ draft: false
 description: "生日記錄"
 slug: "27-birthday-reflection"
 featureimage: "https://images.gigigatgat.ca/20240618-cover.jpg"
-tags: ["生日", "reflection"]
+tags: ["reflection"]
 categories: ["Life"]
 showComments: true
 showAuthor: false

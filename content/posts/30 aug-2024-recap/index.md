@@ -5,7 +5,7 @@ draft: false
 description: "Avocado的八月小結"
 slug: "aug 2024 recap"
 featureimage: "https://images.gigigatgat.ca/20240831-cover.jpg"
-tags: ["co-op", "吃吃喝喝", "博客裝修", "書影音遊", "月度推薦"]
+tags: ["co-op", "吃吃喝喝", "博客裝修", "書影音遊", "五星推薦"]
 categories: ["recap"]
 showComments: true
 showAuthor: false

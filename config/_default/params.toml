@@ -49,6 +49,7 @@ smartTOCHideUnfocusedChildren = false
 
 [article]
   showDate = true
+  switchLang = true
   showViews = false
   showLikes = false
   showDateUpdated = false

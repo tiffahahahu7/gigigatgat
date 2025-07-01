@@ -3,7 +3,7 @@ title: "五月｜散步之月"
 date: 2025-05-31
 draft: false
 description: "五月小結"
-slug: "mai 2025 recap"
+slug: "may 2025 recap"
 featureimage: "https://images.gigigatgat.ca/20250531-cover.jpg"
 tags: ["經驗帖", "吃吃喝喝", "書影音遊"]
 categories: ["recap"]

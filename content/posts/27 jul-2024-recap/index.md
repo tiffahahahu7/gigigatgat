@@ -5,7 +5,7 @@ draft: false
 description: "七月小結"
 slug: "jul 2024 recap"
 featureimage: "https://images.gigigatgat.ca/20240727-cover.jpg"
-tags: ["經驗帖", "博客裝修", "書影音遊", "月度推薦"]
+tags: ["經驗帖", "博客裝修", "書影音遊", "五星推薦"]
 categories: ["recap"]
 showComments: true
 showAuthor: false

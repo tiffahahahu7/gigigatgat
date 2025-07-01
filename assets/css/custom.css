@@ -200,3 +200,10 @@ body ::-moz-selection {
 .sm-img{
     max-width: 350px;
 }
+
+.lang-btn {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    cursor: pointer;
+}
