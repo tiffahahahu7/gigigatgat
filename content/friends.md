@@ -25,6 +25,23 @@ switchLang: false
 - <a href="https://harper-dang.format.com/">D同學</a>：人類社會的忠實觀察員與執筆者
 - <a href="https://express.adobe.com/page/Sfo9MPU1r9jSk/">Meiyue</a>：東京風物記事兼攝影
 
+{{< details summary="失效鏈結" >}}
+    {
+      "title": "Sleepingcat",
+      "website": "https://sleepingcat.me/",
+      "image": "https://sleepingcat.me/img/avatar.gif", 
+      "description": "什麼都寫",
+      "notes": "跑啊！玩啊！生活啊！"
+    },
+    {
+      "title": "枸橼",
+      "website": "https://blog.citrons.cc/",
+      "image": "https://blog.citrons.cc/avatar/", 
+      "description": "出碟你記得幫襯",
+      "notes": "老派甜檸Citron"
+    },
+{{< /details >}}
+
 <hr>
 如果你碰巧有自己的博客，歡迎在下方留言和我交換鏈接！示例如下：
 <br><br>

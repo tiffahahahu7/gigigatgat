@@ -25,7 +25,6 @@ On the edge of the Atlantic，Newfoundland是北美大陸的盡頭也是太陽�
   <figcaption>像加拿大鵝的紐芬蘭地圖</figcaption>
 </figure>
 
-
 就這樣懷著萬分期待的心情踏上了旅程，然後事無巨細地寫下了每一天的回憶：
 ## Day 1 - St.John
 ### settle down

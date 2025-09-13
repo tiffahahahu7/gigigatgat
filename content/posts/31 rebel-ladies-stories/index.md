@@ -5,7 +5,7 @@ draft: false
 description: "讀書筆記：Brazen/Les Culottées: Rebel Ladies Who Rocked the World"
 slug: "rebel-ladies-stories"
 featureimage: "https://images.gigigatgat.ca/20240917-cover.jpg"
-tags: ["讀書筆記", "女性主義"]
+tags: ["讀書筆記", "feminism"]
 categories: ["review"]
 showComments: true
 showAuthor: false

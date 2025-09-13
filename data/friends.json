@@ -83,13 +83,7 @@
       "description": "生活如流水（帳）",
       "notes": "喜歡她Books專欄的設計"
     },
-    {
-      "title": "Sleepingcat",
-      "website": "https://sleepingcat.me/",
-      "image": "https://sleepingcat.me/img/avatar.gif", 
-      "description": "什麼都寫",
-      "notes": "跑啊！玩啊！生活啊！"
-    },
+
     {
       "title": "Yelle🦋",
       "website": "https://yelleis.top/",
@@ -103,13 +97,6 @@
       "image": "https://palebluemist.com/wp-content/uploads/2024/09/logo.png", 
       "description": "寫，是安靜的發洩。",
       "notes": "手藝人"
-    },
-    {
-      "title": "枸橼",
-      "website": "https://blog.citrons.cc/",
-      "image": "https://blog.citrons.cc/avatar/", 
-      "description": "出碟你記得幫襯",
-      "notes": "老派甜檸Citron"
     },
     {
       "title": "深海鱼拒绝触礁",
@@ -166,6 +153,13 @@
       "image": "https://luoshui.icu/img/%E7%8B%97.jpg", 
       "description": "小心！野兽凶猛！",
       "notes": "世界上最可愛的狗"
-    }       
+    },
+    {
+      "title": "关门说话",
+      "website": "https://www.shutgnblink.blog/",
+      "image": "https://picture-guan.oss-cn-hangzhou.aliyuncs.com/img/favicon.png", 
+      "description": "一只生活在海底的哺乳动物",
+      "notes": "記錄溫哥華生活的潤友"
+    }      
   ]
   

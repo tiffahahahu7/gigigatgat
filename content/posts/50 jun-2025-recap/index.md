@@ -5,7 +5,7 @@ draft: false
 description: "avocado的六月小結"
 slug: "jun 2025 recap"
 featureimage: "https://images.gigigatgat.ca/20250630-cover.jpg"
-tags: ["reflection", "女性主義", "五星推薦", "書影音遊", "博客裝修"]
+tags: ["reflection", "feminism", "五星推薦", "書影音遊", "博客裝修"]
 categories: ["recap"]
 showComments: true
 showAuthor: false
