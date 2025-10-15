@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>複習筆記 on 嘰嘰乞乞</title>
+    <title>溫故知新 on 嘰嘰乞乞</title>
     <link>https://www.gigigatgat.ca/categories/review/</link>
-    <description>Recent content in 複習筆記 on 嘰嘰乞乞</description>
+    <description>Recent content in 溫故知新 on 嘰嘰乞乞</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2023-2025 嘰嘰乞乞</copyright>
-    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/categories/review/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/categories/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>廣東歌 你為什麼那麼愛callback（上）</title>
+      <link>https://www.gigigatgat.ca/posts/callback-in-cantonese-songs/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/posts/callback-in-cantonese-songs/</guid>
+      <description>我覺得廣東歌很有趣的</description>
+      
+    </item>
+    
     <item>
       <title>Happy Gooday! 一起來聽何韻詩吧</title>
       <link>https://www.gigigatgat.ca/posts/hocc-collections/</link>
