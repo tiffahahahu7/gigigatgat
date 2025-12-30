@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://www.gigigatgat.ca/</loc>
+    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://www.gigigatgat.ca/en/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-TW"
+      href="https://www.gigigatgat.ca/"
+    />
+  </url>
+  <url>
     <loc>https://www.gigigatgat.ca/posts/2025-annual-review/</loc>
     <lastmod>2025-12-30T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -22,22 +38,6 @@
       rel="alternate"
       hreflang="zh-TW"
       href="https://www.gigigatgat.ca/posts/"
-    />
-  </url>
-  <url>
-    <loc>https://www.gigigatgat.ca/</loc>
-    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://www.gigigatgat.ca/en/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-TW"
-      href="https://www.gigigatgat.ca/"
     />
   </url>
   <url>
