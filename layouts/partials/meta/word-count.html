@@ -1,0 +1,11 @@
+{{/* Word count excluding neodb shortcode */}}
+{{ $raw := .RawContent }}
+
+{{ $clean := $raw | replaceRE `(?s){{[<%]\s*neodb\b[^>}%]*[>%]}}` "" }}
+
+{{ $wc := $clean | plainify | countwords }}
+
+<span>
+  {{- i18n "article.word_count" $wc | markdownify | emojify -}}
+</span>
+{{- /* Trim EOF */ -}}

@@ -1,0 +1,15 @@
+{{/* Reading time excluding neodb shortcode */}}
+{{ $raw := .RawContent }}
+{{ $clean := $raw | replaceRE `(?s){{[<%]\s*neodb\b[^>}%]*[>%]}}` "" }}
+{{ $wc := $clean | plainify | countwords }}
+
+{{/* Estimate minutes from word count.
+     Use 450 wpm for Chinese/mixed text; adjust if you prefer. */}}
+{{ $wpm := 450 }}
+{{ $mins := div (add $wc (sub $wpm 1)) $wpm }}
+{{ if lt $mins 1 }}{{ $mins = 1 }}{{ end }}
+
+<span title="{{ i18n "article.reading_time_title" }}">
+  {{- i18n "article.reading_time" $mins | markdownify | emojify -}}
+</span>
+{{- /* Trim EOF */ -}}
