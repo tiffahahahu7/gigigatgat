@@ -1,5 +1,5 @@
 ---
-title: "歡迎光臨嘰嘰乞乞/GiGiGatGat! 💬"
+title: "GiGiGatGat 💬"
 description: "Avocado和Sloth的博客"
 ---
 於是飛去了加拿大，[avocado](/authors) 遇見了[sloth](/authors)，兩個重新開始的人。
