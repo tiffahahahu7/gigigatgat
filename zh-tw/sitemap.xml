@@ -4,7 +4,7 @@
 
   <url>
     <loc>https://www.gigigatgat.ca/</loc>
-    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -19,14 +19,8 @@
     />
   </url>
   <url>
-    <loc>https://www.gigigatgat.ca/posts/2025-annual-review/</loc>
-    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.gigigatgat.ca/posts/</loc>
-    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -39,6 +33,18 @@
       hreflang="zh-TW"
       href="https://www.gigigatgat.ca/posts/"
     />
+  </url>
+  <url>
+    <loc>https://www.gigigatgat.ca/posts/callback-in-cantonese-songs-2/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.gigigatgat.ca/posts/2025-annual-review/</loc>
+    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.gigigatgat.ca/posts/dec-2025-recap/</loc>
