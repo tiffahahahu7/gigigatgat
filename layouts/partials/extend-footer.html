@@ -3,16 +3,16 @@
 {{ $customJS := resources.Get "js/custom.js" | minify | fingerprint }}
 <script src="{{ $customJS.RelPermalink }}"></script>
 
-<!-- {{- /* Footer custom content area start */ -}}
+{{- /* Footer custom content area start */ -}}
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
   kofiWidgetOverlay.draw('gigigatgat', {
     'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#60A5FA',
+    'floating-chat.donateButton.text': '',
+    'floating-chat.donateButton.background-color': 'salmon',
     'floating-chat.donateButton.text-color': '#fff'
   });
-</script> -->
+</script>
 {{- /* Footer custom content area end */ -}}
 
 

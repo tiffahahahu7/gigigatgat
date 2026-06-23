@@ -132,8 +132,8 @@ smartTOCHideUnfocusedChildren = false
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
 
-#[buymeacoffee]
-#  identifier = "nunocoracao"
+# [buymeacoffee]
+# identifier = "gigigatgat"
 #  globalWidget = true
 #  globalWidgetMessage = ""
 #  globalWidgetColor = "#FFDD00"
