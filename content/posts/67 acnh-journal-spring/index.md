@@ -5,8 +5,11 @@ draft: false
 description: "記錄avocado在這個春天的島建成果和快樂瞬間"
 slug: "acnh-journal-spring"
 featureimage: "https://images.gigigatgat.ca/20260518-cover.JPG"
-tags: ["gaming"]
+tags: ["gaming", "nintendo"]
 categories: ["life"]
+series: ["動森島建日誌"]
+series_order: 1
+seriesOpened: false
 showComments: true
 showAuthor: false
 authors:
