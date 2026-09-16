@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2023-2025 嘰嘰乞乞</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.gigigatgat.ca/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>gaming</title>
+      <title>Gaming</title>
       <link>https://www.gigigatgat.ca/tags/gaming/</link>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
       
       <guid>https://www.gigigatgat.ca/tags/gaming/</guid>
       <description></description>
@@ -19,7 +19,47 @@
     </item>
     
     <item>
-      <title>nintendo</title>
+      <title>Trip</title>
+      <link>https://www.gigigatgat.ca/tags/trip/</link>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/tags/trip/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>加拿大</title>
+      <link>https://www.gigigatgat.ca/tags/%E5%8A%A0%E6%8B%BF%E5%A4%A7/</link>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/tags/%E5%8A%A0%E6%8B%BF%E5%A4%A7/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>吃吃喝喝</title>
+      <link>https://www.gigigatgat.ca/tags/%E5%90%83%E5%90%83%E5%96%9D%E5%96%9D/</link>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/tags/%E5%90%83%E5%90%83%E5%96%9D%E5%96%9D/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>書影音遊</title>
+      <link>https://www.gigigatgat.ca/tags/%E6%9B%B8%E5%BD%B1%E9%9F%B3%E9%81%8A/</link>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gigigatgat.ca/tags/%E6%9B%B8%E5%BD%B1%E9%9F%B3%E9%81%8A/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nintendo</title>
       <link>https://www.gigigatgat.ca/tags/nintendo/</link>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
       
@@ -29,31 +69,11 @@
     </item>
     
     <item>
-      <title>health</title>
+      <title>Health</title>
       <link>https://www.gigigatgat.ca/tags/health/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
       
       <guid>https://www.gigigatgat.ca/tags/health/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>加拿大</title>
-      <link>https://www.gigigatgat.ca/tags/%E5%8A%A0%E6%8B%BF%E5%A4%A7/</link>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gigigatgat.ca/tags/%E5%8A%A0%E6%8B%BF%E5%A4%A7/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>書影音遊</title>
-      <link>https://www.gigigatgat.ca/tags/%E6%9B%B8%E5%BD%B1%E9%9F%B3%E9%81%8A/</link>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gigigatgat.ca/tags/%E6%9B%B8%E5%BD%B1%E9%9F%B3%E9%81%8A/</guid>
       <description></description>
       
     </item>
@@ -69,7 +89,7 @@
     </item>
     
     <item>
-      <title>tutorial</title>
+      <title>Tutorial</title>
       <link>https://www.gigigatgat.ca/tags/tutorial/</link>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
       
@@ -89,21 +109,11 @@
     </item>
     
     <item>
-      <title>reflection</title>
+      <title>Reflection</title>
       <link>https://www.gigigatgat.ca/tags/reflection/</link>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
       
       <guid>https://www.gigigatgat.ca/tags/reflection/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>吃吃喝喝</title>
-      <link>https://www.gigigatgat.ca/tags/%E5%90%83%E5%90%83%E5%96%9D%E5%96%9D/</link>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gigigatgat.ca/tags/%E5%90%83%E5%90%83%E5%96%9D%E5%96%9D/</guid>
       <description></description>
       
     </item>
@@ -129,21 +139,11 @@
     </item>
     
     <item>
-      <title>memory</title>
+      <title>Memory</title>
       <link>https://www.gigigatgat.ca/tags/memory/</link>
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
       
       <guid>https://www.gigigatgat.ca/tags/memory/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>trip</title>
-      <link>https://www.gigigatgat.ca/tags/trip/</link>
-      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gigigatgat.ca/tags/trip/</guid>
       <description></description>
       
     </item>
@@ -189,7 +189,7 @@
     </item>
     
     <item>
-      <title>feminism</title>
+      <title>Feminism</title>
       <link>https://www.gigigatgat.ca/tags/feminism/</link>
       <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
       
@@ -219,7 +219,7 @@
     </item>
     
     <item>
-      <title>finance</title>
+      <title>Finance</title>
       <link>https://www.gigigatgat.ca/tags/finance/</link>
       <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
       
@@ -229,7 +229,7 @@
     </item>
     
     <item>
-      <title>blog</title>
+      <title>Blog</title>
       <link>https://www.gigigatgat.ca/tags/blog/</link>
       <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
       
@@ -239,7 +239,7 @@
     </item>
     
     <item>
-      <title>coding</title>
+      <title>Coding</title>
       <link>https://www.gigigatgat.ca/tags/coding/</link>
       <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
       
@@ -259,7 +259,7 @@
     </item>
     
     <item>
-      <title>auto</title>
+      <title>Auto</title>
       <link>https://www.gigigatgat.ca/tags/auto/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
       
@@ -269,7 +269,7 @@
     </item>
     
     <item>
-      <title>productivity</title>
+      <title>Productivity</title>
       <link>https://www.gigigatgat.ca/tags/productivity/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
       
@@ -289,7 +289,7 @@
     </item>
     
     <item>
-      <title>co-op</title>
+      <title>Co-Op</title>
       <link>https://www.gigigatgat.ca/tags/co-op/</link>
       <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
       
@@ -299,7 +299,7 @@
     </item>
     
     <item>
-      <title>hugo</title>
+      <title>Hugo</title>
       <link>https://www.gigigatgat.ca/tags/hugo/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
       
