@@ -4,7 +4,6 @@ date: 2026-08-22
 draft: false
 description: "大興土木的夏天，流光溢彩的日子"
 slug: "acnh-journal-summer"
-featureimage: "https://images.gigigatgat.ca/20260822-01M0JY1Y6PE1EV0V0TBDEN6QFC-49937E1F-2941-43BC-AFE0-795DCD53244F.jpg"
 tags: ["gaming", "nintendo"]
 categories: ["life"]
 series: ["動森島建日誌"]

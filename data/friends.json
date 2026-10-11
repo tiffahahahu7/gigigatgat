@@ -141,13 +141,6 @@
       "notes": "身懷大遊戲絕技的蛋卷機長"
     },
     {
-      "title": "昼河万里",
-      "website": "https://tothemoonriver.icu",
-      "image": "https://tothemoonriver.icu/img/avatar_hu1f7fd3bb10d1d6e480fe680f98f799d1_738451_300x0_resize_box_3.png", 
-      "description": "一起去看月亮吧。",
-      "notes": "音樂和生活一起流動"
-    },
-    {
       "title": "此地有野狗出没",
       "website": "https://luoshui.icu/",
       "image": "https://luoshui.icu/img/%E7%8B%97.jpg", 
@@ -167,6 +160,20 @@
       "image": "https://i.postimg.cc/qvWdZM7W/profile-pic.png", 
       "description": "握您的手！",
       "notes": "泛著金屬光亮的博客"
-    }      
+    },
+    {
+      "title": "独居日记",
+      "website": "https://shioriblog.org/",
+      "image": "https://shioriblog.org/assets/images/shiori-icon.png", 
+      "description": "好好吃饭，随时摆烂",
+      "notes": "有滋有味的生活絮語"
+    },
+    {
+      "title": "谢谢所有的鱼",
+      "website": "https://gregueria.icu/",
+      "image": "https://seccdn.libravatar.org/gravatarproxy/f4643338dd38294953d1e4db513b750a", 
+      "description": "您首页的奶牛猫图片转发大使",
+      "notes": "我心裡的博客美學標竿！"
+    }  
   ]
   

@@ -40,6 +40,13 @@ switchLang: false
       "description": "出碟你記得幫襯",
       "notes": "老派甜檸Citron"
     },
+    {
+      "title": "昼河万里",
+      "website": "https://tothemoonriver.icu",
+      "image": "https://tothemoonriver.icu/img/avatar_hu1f7fd3bb10d1d6e480fe680f98f799d1_738451_300x0_resize_box_3.png", 
+      "description": "一起去看月亮吧。",
+      "notes": "音樂和生活一起流動"
+    },
 {{< /details >}}
 
 <hr>
